@@ -1,0 +1,24 @@
+{
+  "name": "ai-horde-styles-preview-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haidra-Org/AI-Horde-Styles.git"
+  },
+  "author": "",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/Haidra-Org/AI-Horde-Styles/issues"
+  },
+  "homepage": "https://github.com/Haidra-Org/AI-Horde-Styles/preview_generator/#readme",
+  "dependencies": {
+    "@zeldafan0225/ai_horde": "^5.0.4",
+    "request": "^2.88.2",
+    "sharp": "^0.32.1"
+  }
+}

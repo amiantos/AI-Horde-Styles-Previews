@@ -495,6 +495,36 @@
 | --- | --- | --- |
 | ![vector illustration person preview](/images/vector_illustration_person.webp?raw=true) | ![vector illustration place preview](/images/vector_illustration_place.webp?raw=true) | ![vector illustration thing preview](/images/vector_illustration_thing.webp?raw=true) |
 
+## charcoal drawing
+| person | place | thing |
+| --- | --- | --- |
+| ![charcoal drawing person preview](/images/charcoal_drawing_person.webp?raw=true) | ![charcoal drawing place preview](/images/charcoal_drawing_place.webp?raw=true) | ![charcoal drawing thing preview](/images/charcoal_drawing_thing.webp?raw=true) |
+
+## pencil drawing
+| person | place | thing |
+| --- | --- | --- |
+| ![pencil drawing person preview](/images/pencil_drawing_person.webp?raw=true) | ![pencil drawing place preview](/images/pencil_drawing_place.webp?raw=true) | ![pencil drawing thing preview](/images/pencil_drawing_thing.webp?raw=true) |
+
+## caricature illustration
+| person | place | thing |
+| --- | --- | --- |
+| ![caricature illustration person preview](/images/caricature_illustration_person.webp?raw=true) | ![caricature illustration place preview](/images/caricature_illustration_place.webp?raw=true) | ![caricature illustration thing preview](/images/caricature_illustration_thing.webp?raw=true) |
+
+## vintage photo
+| person | place | thing |
+| --- | --- | --- |
+| ![vintage photo person preview](/images/vintage_photo_person.webp?raw=true) | ![vintage photo place preview](/images/vintage_photo_place.webp?raw=true) | ![vintage photo thing preview](/images/vintage_photo_thing.webp?raw=true) |
+
+## line art
+| person | place | thing |
+| --- | --- | --- |
+| ![line art person preview](/images/line_art_person.webp?raw=true) | ![line art place preview](/images/line_art_place.webp?raw=true) | ![line art thing preview](/images/line_art_thing.webp?raw=true) |
+
+## rainbow
+| person | place | thing |
+| --- | --- | --- |
+| ![rainbow person preview](/images/rainbow_person.webp?raw=true) | ![rainbow place preview](/images/rainbow_place.webp?raw=true) | ![rainbow thing preview](/images/rainbow_thing.webp?raw=true) |
+
 ## piratepunk
 | person | place | thing |
 | --- | --- | --- |
@@ -1038,7 +1068,7 @@
 ## waifu_raw
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
+| ![waifu_raw person preview](/images/waifu_raw_person.webp?raw=true) | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
 
 ## hentai
 | person | place | thing |
@@ -1088,12 +1118,12 @@
 ## furry
 | person | place | thing |
 | --- | --- | --- |
-| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ❌ |
+| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ![furry thing preview](/images/furry_thing.webp?raw=true) |
 
 ## impasto furry
 | person | place | thing |
 | --- | --- | --- |
-| ![impasto furry person preview](/images/impasto_furry_person.webp?raw=true) | ![impasto furry place preview](/images/impasto_furry_place.webp?raw=true) | ❌ |
+| ![impasto furry person preview](/images/impasto_furry_person.webp?raw=true) | ![impasto furry place preview](/images/impasto_furry_place.webp?raw=true) | ![impasto furry thing preview](/images/impasto_furry_thing.webp?raw=true) |
 
 ## yiffy
 | person | place | thing |
@@ -1165,15 +1195,15 @@
 | --- | --- | --- |
 | ![microworlds person preview](/images/microworlds_person.webp?raw=true) | ![microworlds place preview](/images/microworlds_place.webp?raw=true) | ![microworlds thing preview](/images/microworlds_thing.webp?raw=true) |
 
-## pixel sprite
+## microverse
 | person | place | thing |
 | --- | --- | --- |
-| ![pixel sprite person preview](/images/pixel_sprite_person.webp?raw=true) | ![pixel sprite place preview](/images/pixel_sprite_place.webp?raw=true) | ![pixel sprite thing preview](/images/pixel_sprite_thing.webp?raw=true) |
+| ![microverse person preview](/images/microverse_person.webp?raw=true) | ![microverse place preview](/images/microverse_place.webp?raw=true) | ![microverse thing preview](/images/microverse_thing.webp?raw=true) |
 
-## 16bit scene
+## soft pixels
 | person | place | thing |
 | --- | --- | --- |
-| ![16bit scene person preview](/images/16bit_scene_person.webp?raw=true) | ![16bit scene place preview](/images/16bit_scene_place.webp?raw=true) | ![16bit scene thing preview](/images/16bit_scene_thing.webp?raw=true) |
+| ![soft pixels person preview](/images/soft_pixels_person.webp?raw=true) | ![soft pixels place preview](/images/soft_pixels_place.webp?raw=true) | ![soft pixels thing preview](/images/soft_pixels_thing.webp?raw=true) |
 
 ## vectorartz
 | person | place | thing |
@@ -1244,6 +1274,21 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![appicon person preview](/images/appicon_person.webp?raw=true) | ![appicon place preview](/images/appicon_place.webp?raw=true) | ![appicon thing preview](/images/appicon_thing.webp?raw=true) |
+
+## diablo icon
+| person | place | thing |
+| --- | --- | --- |
+| ![diablo icon person preview](/images/diablo_icon_person.webp?raw=true) | ![diablo icon place preview](/images/diablo_icon_place.webp?raw=true) | ![diablo icon thing preview](/images/diablo_icon_thing.webp?raw=true) |
+
+## game icon
+| person | place | thing |
+| --- | --- | --- |
+| ![game icon person preview](/images/game_icon_person.webp?raw=true) | ![game icon place preview](/images/game_icon_place.webp?raw=true) | ![game icon thing preview](/images/game_icon_thing.webp?raw=true) |
+
+## stickers
+| person | place | thing |
+| --- | --- | --- |
+| ![stickers person preview](/images/stickers_person.webp?raw=true) | ![stickers place preview](/images/stickers_place.webp?raw=true) | ![stickers thing preview](/images/stickers_thing.webp?raw=true) |
 
 ## space
 | person | place | thing |

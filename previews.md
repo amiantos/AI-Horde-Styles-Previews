@@ -150,6 +150,26 @@
 | --- | --- | --- |
 | ![hongbao coin person preview](/images/hongbao_coin_person.webp?raw=true) | ![hongbao coin place preview](/images/hongbao_coin_place.webp?raw=true) | ![hongbao coin thing preview](/images/hongbao_coin_thing.webp?raw=true) |
 
+## red gold style
+| person | place | thing |
+| --- | --- | --- |
+| ![red gold style person preview](/images/red_gold_style_person.webp?raw=true) | ![red gold style place preview](/images/red_gold_style_place.webp?raw=true) | ![red gold style thing preview](/images/red_gold_style_thing.webp?raw=true) |
+
+## chinese animation artstyle
+| person | place | thing |
+| --- | --- | --- |
+| ![chinese animation artstyle person preview](/images/chinese_animation_artstyle_person.webp?raw=true) | ![chinese animation artstyle place preview](/images/chinese_animation_artstyle_place.webp?raw=true) | ![chinese animation artstyle thing preview](/images/chinese_animation_artstyle_thing.webp?raw=true) |
+
+## chinese watercolor
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ![chinese watercolor place preview](/images/chinese_watercolor_place.webp?raw=true) | ![chinese watercolor thing preview](/images/chinese_watercolor_thing.webp?raw=true) |
+
+## traditional chinese art
+| person | place | thing |
+| --- | --- | --- |
+| ![traditional chinese art person preview](/images/traditional_chinese_art_person.webp?raw=true) | ![traditional chinese art place preview](/images/traditional_chinese_art_place.webp?raw=true) | ![traditional chinese art thing preview](/images/traditional_chinese_art_thing.webp?raw=true) |
+
 ## graffiti
 | person | place | thing |
 | --- | --- | --- |

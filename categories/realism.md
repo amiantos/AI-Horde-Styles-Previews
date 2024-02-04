@@ -1,0 +1,72 @@
+# realism
+
+## cyberrealistic
+| person | place | thing |
+| --- | --- | --- |
+| ![cyberrealistic person preview](/images/cyberrealistic_person.webp?raw=true) | ![cyberrealistic place preview](/images/cyberrealistic_place.webp?raw=true) | ![cyberrealistic thing preview](/images/cyberrealistic_thing.webp?raw=true) |
+
+## deliberate
+| person | place | thing |
+| --- | --- | --- |
+| ![deliberate person preview](/images/deliberate_person.webp?raw=true) | ![deliberate place preview](/images/deliberate_place.webp?raw=true) | ![deliberate thing preview](/images/deliberate_thing.webp?raw=true) |
+
+## deliberate3
+| person | place | thing |
+| --- | --- | --- |
+| ![deliberate3 person preview](/images/deliberate3_person.webp?raw=true) | ![deliberate3 place preview](/images/deliberate3_place.webp?raw=true) | ![deliberate3 thing preview](/images/deliberate3_thing.webp?raw=true) |
+
+## majicmix realistic
+| person | place | thing |
+| --- | --- | --- |
+| ![majicmix realistic person preview](/images/majicmix_realistic_person.webp?raw=true) | ![majicmix realistic place preview](/images/majicmix_realistic_place.webp?raw=true) | ![majicmix realistic thing preview](/images/majicmix_realistic_thing.webp?raw=true) |
+
+## edge of realism
+| person | place | thing |
+| --- | --- | --- |
+| ![edge of realism person preview](/images/edge_of_realism_person.webp?raw=true) | ![edge of realism place preview](/images/edge_of_realism_place.webp?raw=true) | ![edge of realism thing preview](/images/edge_of_realism_thing.webp?raw=true) |
+
+## dreamlike photoreal
+| person | place | thing |
+| --- | --- | --- |
+| ![dreamlike photoreal person preview](/images/dreamlike_photoreal_person.webp?raw=true) | ![dreamlike photoreal place preview](/images/dreamlike_photoreal_place.webp?raw=true) | ![dreamlike photoreal thing preview](/images/dreamlike_photoreal_thing.webp?raw=true) |
+
+## realistic vision
+| person | place | thing |
+| --- | --- | --- |
+| ![realistic vision person preview](/images/realistic_vision_person.webp?raw=true) | ![realistic vision place preview](/images/realistic_vision_place.webp?raw=true) | ![realistic vision thing preview](/images/realistic_vision_thing.webp?raw=true) |
+
+## neurogen
+| person | place | thing |
+| --- | --- | --- |
+| ![neurogen person preview](/images/neurogen_person.webp?raw=true) | ![neurogen place preview](/images/neurogen_place.webp?raw=true) | ![neurogen thing preview](/images/neurogen_thing.webp?raw=true) |
+
+## realbiter
+| person | place | thing |
+| --- | --- | --- |
+| ![realbiter person preview](/images/realbiter_person.webp?raw=true) | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
+
+## icbinp
+| person | place | thing |
+| --- | --- | --- |
+| ![icbinp person preview](/images/icbinp_person.webp?raw=true) | ![icbinp place preview](/images/icbinp_place.webp?raw=true) | ![icbinp thing preview](/images/icbinp_thing.webp?raw=true) |
+
+## icbinp xl
+| person | place | thing |
+| --- | --- | --- |
+| ![icbinp xl person preview](/images/icbinp_xl_person.webp?raw=true) | ![icbinp xl place preview](/images/icbinp_xl_place.webp?raw=true) | ![icbinp xl thing preview](/images/icbinp_xl_thing.webp?raw=true) |
+
+## analog madness
+| person | place | thing |
+| --- | --- | --- |
+| ![analog madness person preview](/images/analog_madness_person.webp?raw=true) | ![analog madness place preview](/images/analog_madness_place.webp?raw=true) | ![analog madness thing preview](/images/analog_madness_thing.webp?raw=true) |
+
+## realisian
+| person | place | thing |
+| --- | --- | --- |
+| ![realisian person preview](/images/realisian_person.webp?raw=true) | ![realisian place preview](/images/realisian_place.webp?raw=true) | ![realisian thing preview](/images/realisian_thing.webp?raw=true) |
+
+## reliberate
+| person | place | thing |
+| --- | --- | --- |
+| ![reliberate person preview](/images/reliberate_person.webp?raw=true) | ![reliberate place preview](/images/reliberate_place.webp?raw=true) | ![reliberate thing preview](/images/reliberate_thing.webp?raw=true) |
+

@@ -12,6 +12,7 @@ const promptSamples = {
 
 var models = {};
 var styles = {};
+var categories = {};
 
 const main = async () => {
   console.log(
@@ -26,18 +27,26 @@ const main = async () => {
     return;
   }
 
+  console.log("Fetching models...");
   models = await getJSON(
     "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-image-model-reference/main/stable_diffusion.json"
   );
+  console.log("Fetching styles...");
   styles = await getJSON(
     "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-Styles/main/styles.json"
   );
+  console.log("Fetching categories...");
+  categories = await getJSON(
+    "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-Styles/main/categories.json"
+  );
+  console.log("Okay, let's go!");
 
   var generationStatus = {};
 
   for (const [styleName, styleContents] of Object.entries(styles)) {
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     generationStatus[styleName] = {};
+    console.log("Generating previews for " + styleName + "...");
     for (const [promptType, promptSample] of Object.entries(promptSamples)) {
       const success = await generateImageForStyleAndPrompt(
         safeStyleName,
@@ -93,6 +102,61 @@ function generateFlatFiles(generationStatus) {
     fs.appendFileSync("previews.md", "|\n\n");
   }
   fs.writeFileSync("previews.json", JSON.stringify(previews, null, 2));
+  // iterate over categories and create a category .md file for each key
+  for (const [category, styles] of Object.entries(categories)) {
+    const safeCategoryName = category.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+    fs.writeFileSync(`categories/${safeCategoryName}.md`, `# ${category}\n\n`);
+    var currentStyles = [];
+    var currentCategories = [];
+    for (const styleName of styles) {
+      if (styleName in categories) {
+        currentCategories.push(styleName);
+      } else if (styleName in generationStatus) {
+        currentStyles.push(styleName);
+      }
+    }
+    for (const styleName of currentCategories) {
+      const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+      fs.appendFileSync(
+        `categories/${safeCategoryName}.md`,
+        `- [${styleName}](/categories/${safeStyleName}.md)\n`
+      );
+    }
+    if (currentCategories.length > 0 && currentStyles.length > 0) {
+      fs.appendFileSync(`categories/${safeCategoryName}.md`, "\n");
+    }
+    for (const styleName of currentStyles) {
+      const promptStatus = generationStatus[styleName];
+      const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+      previews[styleName] = {};
+
+      fs.appendFileSync(`categories/${safeCategoryName}.md`, `## ${styleName}\n`);
+      // create table heading for all the prompt types
+      for (const promptType of Object.keys(promptStatus)) {
+        fs.appendFileSync(`categories/${safeCategoryName}.md`, `| ${promptType} `);
+      }
+      fs.appendFileSync(`categories/${safeCategoryName}.md`, "|\n");
+      for (let i = 0; i < Object.keys(promptStatus).length; i++) {
+        fs.appendFileSync(`categories/${safeCategoryName}.md`, `| --- `);
+      }
+      fs.appendFileSync(`categories/${safeCategoryName}.md`, "|\n");
+
+      for (const [promptType, status] of Object.entries(promptStatus)) {
+        if (status) {
+          fs.appendFileSync(
+            `categories/${safeCategoryName}.md`,
+            `| ![${styleName} ${promptType} preview](/images/${safeStyleName}_${promptType}.webp?raw=true) `
+          );
+          previews[styleName][
+            promptType
+          ] = `${config.cdn_url_prefix}/${safeStyleName}_${promptType}.webp`;
+        } else {
+          fs.appendFileSync(`categories/${safeCategoryName}.md`, `| ❌ `);
+        }
+      }
+      fs.appendFileSync(`categories/${safeCategoryName}.md`, "|\n\n");
+    }
+  }
 }
 
 async function generateImageForStyleAndPrompt(
@@ -128,7 +192,7 @@ async function generateImageForStyleAndPrompt(
     console.error("Error generating image: " + error);
     return false;
   }
-  
+
   return false;
 }
 
@@ -196,16 +260,6 @@ async function generateImages(request) {
 
   while (true) {
     const check = await ai_horde.getImageGenerationCheck(generation.id);
-    console.log(
-      "Q#:" +
-        check.queue_position +
-        " W:" +
-        check.waiting +
-        " P:" +
-        check.processing +
-        " F:" +
-        check.finished
-    );
     if (check.done) {
       console.log("Generation complete.");
       break;

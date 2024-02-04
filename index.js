@@ -118,12 +118,17 @@ async function generateImageForStyleAndPrompt(
     promptSample
   );
 
-  const results = await generateImages(styleRequest);
-  for (const result of results) {
-    await saveResult(result, fileName);
-    return true;
+  try {
+    const results = await generateImages(styleRequest);
+    for (const result of results) {
+      await saveResult(result, fileName);
+      return true;
+    }
+  } catch (error) {
+    console.error("Error generating image: " + error);
+    return false;
   }
-
+  
   return false;
 }
 

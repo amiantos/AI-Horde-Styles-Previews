@@ -1,6 +1,6 @@
 # AI Horde Styles Preview Generator
 
-This is a simple node script that can be used to automatically generate preview images for the AI Horde Styles in the root of this repo.
+This repo contains preview images for [AI Horde Styles](https://github.com/Haidra-Org/AI-Horde-Styles), as well as the node script used to generate them.
 
 ## How to use
 - View images by category by going to [/categories](/categories)

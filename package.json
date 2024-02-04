@@ -18,7 +18,6 @@
   "homepage": "https://github.com/Haidra-Org/AI-Horde-Styles/preview_generator/#readme",
   "dependencies": {
     "@zeldafan0225/ai_horde": "^5.0.4",
-    "request": "^2.88.2",
-    "sharp": "^0.32.1"
+    "request": "^2.88.2"
   }
 }

@@ -163,7 +163,7 @@
 ## chinese watercolor
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![chinese watercolor place preview](/images/chinese_watercolor_place.webp?raw=true) | ![chinese watercolor thing preview](/images/chinese_watercolor_thing.webp?raw=true) |
+| ![chinese watercolor person preview](/images/chinese_watercolor_person.webp?raw=true) | ![chinese watercolor place preview](/images/chinese_watercolor_place.webp?raw=true) | ![chinese watercolor thing preview](/images/chinese_watercolor_thing.webp?raw=true) |
 
 ## traditional chinese art
 | person | place | thing |

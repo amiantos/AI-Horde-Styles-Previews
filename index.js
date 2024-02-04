@@ -75,37 +75,28 @@ function generateFlatFiles(generationStatus) {
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     previews[styleName] = {};
 
-    fs.appendFileSync("previews.md", `## ${styleName}\n`);
-    // create table heading for all the prompt types
-    for (const promptType of Object.keys(promptStatus)) {
-      fs.appendFileSync("previews.md", `| ${promptType} `);
-    }
-    fs.appendFileSync("previews.md", "|\n");
-    for (let i = 0; i < Object.keys(promptStatus).length; i++) {
-      fs.appendFileSync("previews.md", `| --- `);
-    }
-    fs.appendFileSync("previews.md", "|\n");
+    // write to file
+    appendStyleTableToFile("previews.md", styleName, promptStatus);
 
+    // generate previews object for json export
     for (const [promptType, status] of Object.entries(promptStatus)) {
       if (status) {
-        fs.appendFileSync(
-          "previews.md",
-          `| ![${styleName} ${promptType} preview](/images/${safeStyleName}_${promptType}.webp?raw=true) `
-        );
         previews[styleName][
           promptType
         ] = `${config.cdn_url_prefix}/${safeStyleName}_${promptType}.webp`;
-      } else {
-        fs.appendFileSync("previews.md", `| ❌ `);
       }
     }
-    fs.appendFileSync("previews.md", "|\n\n");
   }
+
+  // export previews object to json
   fs.writeFileSync("previews.json", JSON.stringify(previews, null, 2));
+
   // iterate over categories and create a category .md file for each key
   for (const [category, styles] of Object.entries(categories)) {
     const safeCategoryName = category.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     fs.writeFileSync(`categories/${safeCategoryName}.md`, `# ${category}\n\n`);
+
+    // go through objects in category to sort them into categories and styles
     var currentStyles = [];
     var currentCategories = [];
     for (const styleName of styles) {
@@ -115,6 +106,7 @@ function generateFlatFiles(generationStatus) {
         currentStyles.push(styleName);
       }
     }
+    // print categories at the top of the file
     for (const styleName of currentCategories) {
       const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
       fs.appendFileSync(
@@ -125,38 +117,44 @@ function generateFlatFiles(generationStatus) {
     if (currentCategories.length > 0 && currentStyles.length > 0) {
       fs.appendFileSync(`categories/${safeCategoryName}.md`, "\n");
     }
+    // print styles at the bottom of the file
     for (const styleName of currentStyles) {
       const promptStatus = generationStatus[styleName];
-      const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
       previews[styleName] = {};
 
-      fs.appendFileSync(`categories/${safeCategoryName}.md`, `## ${styleName}\n`);
-      // create table heading for all the prompt types
-      for (const promptType of Object.keys(promptStatus)) {
-        fs.appendFileSync(`categories/${safeCategoryName}.md`, `| ${promptType} `);
-      }
-      fs.appendFileSync(`categories/${safeCategoryName}.md`, "|\n");
-      for (let i = 0; i < Object.keys(promptStatus).length; i++) {
-        fs.appendFileSync(`categories/${safeCategoryName}.md`, `| --- `);
-      }
-      fs.appendFileSync(`categories/${safeCategoryName}.md`, "|\n");
-
-      for (const [promptType, status] of Object.entries(promptStatus)) {
-        if (status) {
-          fs.appendFileSync(
-            `categories/${safeCategoryName}.md`,
-            `| ![${styleName} ${promptType} preview](/images/${safeStyleName}_${promptType}.webp?raw=true) `
-          );
-          previews[styleName][
-            promptType
-          ] = `${config.cdn_url_prefix}/${safeStyleName}_${promptType}.webp`;
-        } else {
-          fs.appendFileSync(`categories/${safeCategoryName}.md`, `| ❌ `);
-        }
-      }
-      fs.appendFileSync(`categories/${safeCategoryName}.md`, "|\n\n");
+      appendStyleTableToFile(
+        `categories/${safeCategoryName}.md`,
+        styleName,
+        promptStatus
+      );
     }
   }
+}
+
+function appendStyleTableToFile(fileName, styleName, promptStatus) {
+  const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+  fs.appendFileSync(fileName, `## ${styleName}\n`);
+  // create table heading for all the prompt types
+  for (const promptType of Object.keys(promptStatus)) {
+    fs.appendFileSync(fileName, `| ${promptType} `);
+  }
+  fs.appendFileSync(fileName, "|\n");
+  for (let i = 0; i < Object.keys(promptStatus).length; i++) {
+    fs.appendFileSync(fileName, `| --- `);
+  }
+  fs.appendFileSync(fileName, "|\n");
+
+  for (const [promptType, status] of Object.entries(promptStatus)) {
+    if (status) {
+      fs.appendFileSync(
+        fileName,
+        `| ![${styleName} ${promptType} preview](/images/${safeStyleName}_${promptType}.webp?raw=true) `
+      );
+    } else {
+      fs.appendFileSync(fileName, `| ❌ `);
+    }
+  }
+  fs.appendFileSync(fileName, "|\n\n");
 }
 
 async function generateImageForStyleAndPrompt(

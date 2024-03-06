@@ -223,7 +223,7 @@ function createRequestForStyleAndPrompt(styleContent, prompt) {
   if (styleContent.tis != null) {
     styleRequest.params.tis = styleContent.tis;
   }
-  if (modelBaseline.includes("stable_diffusion_xl")) {
+  if (modelBaseline.includes("stable_diffusion_xl") || modelBaseline.includes("stable_cascade")) {
     styleRequest.params.hires_fix = false;
   }
   if (styleContent.prompt != null) {

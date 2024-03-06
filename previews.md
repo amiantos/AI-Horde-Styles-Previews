@@ -20,25 +20,15 @@
 | --- | --- | --- |
 | ![raw2 person preview](/images/raw2_person.webp?raw=true) | ![raw2 place preview](/images/raw2_place.webp?raw=true) | ![raw2 thing preview](/images/raw2_thing.webp?raw=true) |
 
-## bd-ai
+## cascade
 | person | place | thing |
 | --- | --- | --- |
-| ![bd-ai person preview](/images/bd_ai_person.webp?raw=true) | ![bd-ai place preview](/images/bd_ai_place.webp?raw=true) | ![bd-ai thing preview](/images/bd_ai_thing.webp?raw=true) |
+| ![cascade person preview](/images/cascade_person.webp?raw=true) | ![cascade place preview](/images/cascade_place.webp?raw=true) | ![cascade thing preview](/images/cascade_thing.webp?raw=true) |
 
-## makoto birthday
+## neonlines
 | person | place | thing |
 | --- | --- | --- |
-| ![makoto birthday person preview](/images/makoto_birthday_person.webp?raw=true) | ![makoto birthday place preview](/images/makoto_birthday_place.webp?raw=true) | ![makoto birthday thing preview](/images/makoto_birthday_thing.webp?raw=true) |
-
-## artistic birthday
-| person | place | thing |
-| --- | --- | --- |
-| ![artistic birthday person preview](/images/artistic_birthday_person.webp?raw=true) | ![artistic birthday place preview](/images/artistic_birthday_place.webp?raw=true) | ![artistic birthday thing preview](/images/artistic_birthday_thing.webp?raw=true) |
-
-## bdcolordd
-| person | place | thing |
-| --- | --- | --- |
-| ![bdcolordd person preview](/images/bdcolordd_person.webp?raw=true) | ![bdcolordd place preview](/images/bdcolordd_place.webp?raw=true) | ![bdcolordd thing preview](/images/bdcolordd_thing.webp?raw=true) |
+| ![neonlines person preview](/images/neonlines_person.webp?raw=true) | ![neonlines place preview](/images/neonlines_place.webp?raw=true) | ![neonlines thing preview](/images/neonlines_thing.webp?raw=true) |
 
 ## sdxl-vertical
 | person | place | thing |
@@ -80,60 +70,55 @@
 | --- | --- | --- |
 | ![sdxl-cinematic person preview](/images/sdxl_cinematic_person.webp?raw=true) | ![sdxl-cinematic place preview](/images/sdxl_cinematic_place.webp?raw=true) | ![sdxl-cinematic thing preview](/images/sdxl_cinematic_thing.webp?raw=true) |
 
-## chinese wash painting
+## cascade-big
 | person | place | thing |
 | --- | --- | --- |
-| ![chinese wash painting person preview](/images/chinese_wash_painting_person.webp?raw=true) | ![chinese wash painting place preview](/images/chinese_wash_painting_place.webp?raw=true) | ![chinese wash painting thing preview](/images/chinese_wash_painting_thing.webp?raw=true) |
+| ![cascade-big person preview](/images/cascade_big_person.webp?raw=true) | ![cascade-big place preview](/images/cascade_big_place.webp?raw=true) | ![cascade-big thing preview](/images/cascade_big_thing.webp?raw=true) |
+
+## cascade-portrait
+| person | place | thing |
+| --- | --- | --- |
+| ![cascade-portrait person preview](/images/cascade_portrait_person.webp?raw=true) | ![cascade-portrait place preview](/images/cascade_portrait_place.webp?raw=true) | ![cascade-portrait thing preview](/images/cascade_portrait_thing.webp?raw=true) |
+
+## cascade-landscape
+| person | place | thing |
+| --- | --- | --- |
+| ![cascade-landscape person preview](/images/cascade_landscape_person.webp?raw=true) | ![cascade-landscape place preview](/images/cascade_landscape_place.webp?raw=true) | ![cascade-landscape thing preview](/images/cascade_landscape_thing.webp?raw=true) |
+
+## bd-ai
+| person | place | thing |
+| --- | --- | --- |
+| ![bd-ai person preview](/images/bd_ai_person.webp?raw=true) | ![bd-ai place preview](/images/bd_ai_place.webp?raw=true) | ![bd-ai thing preview](/images/bd_ai_thing.webp?raw=true) |
+
+## makoto birthday
+| person | place | thing |
+| --- | --- | --- |
+| ![makoto birthday person preview](/images/makoto_birthday_person.webp?raw=true) | ![makoto birthday place preview](/images/makoto_birthday_place.webp?raw=true) | ![makoto birthday thing preview](/images/makoto_birthday_thing.webp?raw=true) |
+
+## artistic birthday
+| person | place | thing |
+| --- | --- | --- |
+| ![artistic birthday person preview](/images/artistic_birthday_person.webp?raw=true) | ![artistic birthday place preview](/images/artistic_birthday_place.webp?raw=true) | ![artistic birthday thing preview](/images/artistic_birthday_thing.webp?raw=true) |
+
+## bdcolordd
+| person | place | thing |
+| --- | --- | --- |
+| ![bdcolordd person preview](/images/bdcolordd_person.webp?raw=true) | ![bdcolordd place preview](/images/bdcolordd_place.webp?raw=true) | ![bdcolordd thing preview](/images/bdcolordd_thing.webp?raw=true) |
+
+## traditional chinese art
+| person | place | thing |
+| --- | --- | --- |
+| ![traditional chinese art person preview](/images/traditional_chinese_art_person.webp?raw=true) | ![traditional chinese art place preview](/images/traditional_chinese_art_place.webp?raw=true) | ![traditional chinese art thing preview](/images/traditional_chinese_art_thing.webp?raw=true) |
+
+## hongbao coin
+| person | place | thing |
+| --- | --- | --- |
+| ![hongbao coin person preview](/images/hongbao_coin_person.webp?raw=true) | ![hongbao coin place preview](/images/hongbao_coin_place.webp?raw=true) | ![hongbao coin thing preview](/images/hongbao_coin_thing.webp?raw=true) |
 
 ## chinese paper art
 | person | place | thing |
 | --- | --- | --- |
 | ![chinese paper art person preview](/images/chinese_paper_art_person.webp?raw=true) | ![chinese paper art place preview](/images/chinese_paper_art_place.webp?raw=true) | ![chinese paper art thing preview](/images/chinese_paper_art_thing.webp?raw=true) |
-
-## flowers and sparks
-| person | place | thing |
-| --- | --- | --- |
-| ![flowers and sparks person preview](/images/flowers_and_sparks_person.webp?raw=true) | ![flowers and sparks place preview](/images/flowers_and_sparks_place.webp?raw=true) | ![flowers and sparks thing preview](/images/flowers_and_sparks_thing.webp?raw=true) |
-
-## chinese ink
-| person | place | thing |
-| --- | --- | --- |
-| ![chinese ink person preview](/images/chinese_ink_person.webp?raw=true) | ![chinese ink place preview](/images/chinese_ink_place.webp?raw=true) | ![chinese ink thing preview](/images/chinese_ink_thing.webp?raw=true) |
-
-## dragonpunk new year
-| person | place | thing |
-| --- | --- | --- |
-| ![dragonpunk new year person preview](/images/dragonpunk_new_year_person.webp?raw=true) | ![dragonpunk new year place preview](/images/dragonpunk_new_year_place.webp?raw=true) | ![dragonpunk new year thing preview](/images/dragonpunk_new_year_thing.webp?raw=true) |
-
-## rich red
-| person | place | thing |
-| --- | --- | --- |
-| ![rich red person preview](/images/rich_red_person.webp?raw=true) | ![rich red place preview](/images/rich_red_place.webp?raw=true) | ![rich red thing preview](/images/rich_red_thing.webp?raw=true) |
-
-## dragon propaganda poster
-| person | place | thing |
-| --- | --- | --- |
-| ![dragon propaganda poster person preview](/images/dragon_propaganda_poster_person.webp?raw=true) | ![dragon propaganda poster place preview](/images/dragon_propaganda_poster_place.webp?raw=true) | ![dragon propaganda poster thing preview](/images/dragon_propaganda_poster_thing.webp?raw=true) |
-
-## chinese digital oil painting
-| person | place | thing |
-| --- | --- | --- |
-| ![chinese digital oil painting person preview](/images/chinese_digital_oil_painting_person.webp?raw=true) | ![chinese digital oil painting place preview](/images/chinese_digital_oil_painting_place.webp?raw=true) | ![chinese digital oil painting thing preview](/images/chinese_digital_oil_painting_thing.webp?raw=true) |
-
-## the people's new year
-| person | place | thing |
-| --- | --- | --- |
-| ![the people's new year person preview](/images/the_people_s_new_year_person.webp?raw=true) | ![the people's new year place preview](/images/the_people_s_new_year_place.webp?raw=true) | ![the people's new year thing preview](/images/the_people_s_new_year_thing.webp?raw=true) |
-
-## chinese pictogram
-| person | place | thing |
-| --- | --- | --- |
-| ![chinese pictogram person preview](/images/chinese_pictogram_person.webp?raw=true) | ![chinese pictogram place preview](/images/chinese_pictogram_place.webp?raw=true) | ![chinese pictogram thing preview](/images/chinese_pictogram_thing.webp?raw=true) |
-
-## mad dragon world
-| person | place | thing |
-| --- | --- | --- |
-| ![mad dragon world person preview](/images/mad_dragon_world_person.webp?raw=true) | ![mad dragon world place preview](/images/mad_dragon_world_place.webp?raw=true) | ![mad dragon world thing preview](/images/mad_dragon_world_thing.webp?raw=true) |
 
 ## chinese blue porcelain
 | person | place | thing |
@@ -145,30 +130,10 @@
 | --- | --- | --- |
 | ![wuxia person preview](/images/wuxia_person.webp?raw=true) | ![wuxia place preview](/images/wuxia_place.webp?raw=true) | ![wuxia thing preview](/images/wuxia_thing.webp?raw=true) |
 
-## hongbao coin
+## ikea
 | person | place | thing |
 | --- | --- | --- |
-| ![hongbao coin person preview](/images/hongbao_coin_person.webp?raw=true) | ![hongbao coin place preview](/images/hongbao_coin_place.webp?raw=true) | ![hongbao coin thing preview](/images/hongbao_coin_thing.webp?raw=true) |
-
-## red gold style
-| person | place | thing |
-| --- | --- | --- |
-| ![red gold style person preview](/images/red_gold_style_person.webp?raw=true) | ![red gold style place preview](/images/red_gold_style_place.webp?raw=true) | ![red gold style thing preview](/images/red_gold_style_thing.webp?raw=true) |
-
-## chinese animation artstyle
-| person | place | thing |
-| --- | --- | --- |
-| ![chinese animation artstyle person preview](/images/chinese_animation_artstyle_person.webp?raw=true) | ![chinese animation artstyle place preview](/images/chinese_animation_artstyle_place.webp?raw=true) | ![chinese animation artstyle thing preview](/images/chinese_animation_artstyle_thing.webp?raw=true) |
-
-## chinese watercolor
-| person | place | thing |
-| --- | --- | --- |
-| ![chinese watercolor person preview](/images/chinese_watercolor_person.webp?raw=true) | ![chinese watercolor place preview](/images/chinese_watercolor_place.webp?raw=true) | ![chinese watercolor thing preview](/images/chinese_watercolor_thing.webp?raw=true) |
-
-## traditional chinese art
-| person | place | thing |
-| --- | --- | --- |
-| ![traditional chinese art person preview](/images/traditional_chinese_art_person.webp?raw=true) | ![traditional chinese art place preview](/images/traditional_chinese_art_place.webp?raw=true) | ![traditional chinese art thing preview](/images/traditional_chinese_art_thing.webp?raw=true) |
+| ![ikea person preview](/images/ikea_person.webp?raw=true) | ![ikea place preview](/images/ikea_place.webp?raw=true) | ![ikea thing preview](/images/ikea_thing.webp?raw=true) |
 
 ## graffiti
 | person | place | thing |
@@ -298,7 +263,7 @@
 ## lowpoly
 | person | place | thing |
 | --- | --- | --- |
-| ![lowpoly person preview](/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/images/lowpoly_place.webp?raw=true) | ❌ |
+| ![lowpoly person preview](/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/images/lowpoly_place.webp?raw=true) | ![lowpoly thing preview](/images/lowpoly_thing.webp?raw=true) |
 
 ## claymation
 | person | place | thing |
@@ -999,6 +964,26 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![icbinp person preview](/images/icbinp_person.webp?raw=true) | ![icbinp place preview](/images/icbinp_place.webp?raw=true) | ![icbinp thing preview](/images/icbinp_thing.webp?raw=true) |
+
+## juggernaut
+| person | place | thing |
+| --- | --- | --- |
+| ![juggernaut person preview](/images/juggernaut_person.webp?raw=true) | ![juggernaut place preview](/images/juggernaut_place.webp?raw=true) | ![juggernaut thing preview](/images/juggernaut_thing.webp?raw=true) |
+
+## anime illust
+| person | place | thing |
+| --- | --- | --- |
+| ![anime illust person preview](/images/anime_illust_person.webp?raw=true) | ![anime illust place preview](/images/anime_illust_place.webp?raw=true) | ![anime illust thing preview](/images/anime_illust_thing.webp?raw=true) |
+
+## pony
+| person | place | thing |
+| --- | --- | --- |
+| ![pony person preview](/images/pony_person.webp?raw=true) | ![pony place preview](/images/pony_place.webp?raw=true) | ![pony thing preview](/images/pony_thing.webp?raw=true) |
+
+## animagine
+| person | place | thing |
+| --- | --- | --- |
+| ![animagine person preview](/images/animagine_person.webp?raw=true) | ![animagine place preview](/images/animagine_place.webp?raw=true) | ![animagine thing preview](/images/animagine_thing.webp?raw=true) |
 
 ## icbinp xl
 | person | place | thing |

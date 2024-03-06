@@ -60,6 +60,21 @@
 | --- | --- | --- |
 | ![poison person preview](/images/poison_person.webp?raw=true) | ![poison place preview](/images/poison_place.webp?raw=true) | ![poison thing preview](/images/poison_thing.webp?raw=true) |
 
+## anime illust
+| person | place | thing |
+| --- | --- | --- |
+| ![anime illust person preview](/images/anime_illust_person.webp?raw=true) | ![anime illust place preview](/images/anime_illust_place.webp?raw=true) | ![anime illust thing preview](/images/anime_illust_thing.webp?raw=true) |
+
+## pony
+| person | place | thing |
+| --- | --- | --- |
+| ![pony person preview](/images/pony_person.webp?raw=true) | ![pony place preview](/images/pony_place.webp?raw=true) | ![pony thing preview](/images/pony_thing.webp?raw=true) |
+
+## animagine
+| person | place | thing |
+| --- | --- | --- |
+| ![animagine person preview](/images/animagine_person.webp?raw=true) | ![animagine place preview](/images/animagine_place.webp?raw=true) | ![animagine thing preview](/images/animagine_thing.webp?raw=true) |
+
 ## eimis
 | person | place | thing |
 | --- | --- | --- |

@@ -5,6 +5,11 @@
 | --- | --- | --- |
 | ![cyberrealistic person preview](/images/cyberrealistic_person.webp?raw=true) | ![cyberrealistic place preview](/images/cyberrealistic_place.webp?raw=true) | ![cyberrealistic thing preview](/images/cyberrealistic_thing.webp?raw=true) |
 
+## juggernaut
+| person | place | thing |
+| --- | --- | --- |
+| ![juggernaut person preview](/images/juggernaut_person.webp?raw=true) | ![juggernaut place preview](/images/juggernaut_place.webp?raw=true) | ![juggernaut thing preview](/images/juggernaut_thing.webp?raw=true) |
+
 ## deliberate
 | person | place | thing |
 | --- | --- | --- |

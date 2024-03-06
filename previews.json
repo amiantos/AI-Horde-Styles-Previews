@@ -19,25 +19,15 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/raw2_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/raw2_thing.webp"
   },
-  "bd-ai": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bd_ai_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bd_ai_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bd_ai_thing.webp"
+  "cascade": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_thing.webp"
   },
-  "makoto birthday": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/makoto_birthday_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/makoto_birthday_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/makoto_birthday_thing.webp"
-  },
-  "artistic birthday": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/artistic_birthday_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/artistic_birthday_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/artistic_birthday_thing.webp"
-  },
-  "bdcolordd": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bdcolordd_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bdcolordd_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bdcolordd_thing.webp"
+  "neonlines": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neonlines_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neonlines_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neonlines_thing.webp"
   },
   "sdxl-vertical": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sdxl_vertical_person.webp",
@@ -79,60 +69,55 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sdxl_cinematic_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sdxl_cinematic_thing.webp"
   },
-  "chinese wash painting": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_wash_painting_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_wash_painting_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_wash_painting_thing.webp"
+  "cascade-big": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_thing.webp"
+  },
+  "cascade-portrait": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_portrait_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_portrait_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_portrait_thing.webp"
+  },
+  "cascade-landscape": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_landscape_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_landscape_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_landscape_thing.webp"
+  },
+  "bd-ai": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bd_ai_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bd_ai_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bd_ai_thing.webp"
+  },
+  "makoto birthday": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/makoto_birthday_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/makoto_birthday_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/makoto_birthday_thing.webp"
+  },
+  "artistic birthday": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/artistic_birthday_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/artistic_birthday_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/artistic_birthday_thing.webp"
+  },
+  "bdcolordd": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bdcolordd_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bdcolordd_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bdcolordd_thing.webp"
+  },
+  "traditional chinese art": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/traditional_chinese_art_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/traditional_chinese_art_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/traditional_chinese_art_thing.webp"
+  },
+  "hongbao coin": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/hongbao_coin_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/hongbao_coin_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/hongbao_coin_thing.webp"
   },
   "chinese paper art": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_paper_art_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_paper_art_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_paper_art_thing.webp"
-  },
-  "flowers and sparks": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/flowers_and_sparks_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/flowers_and_sparks_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/flowers_and_sparks_thing.webp"
-  },
-  "chinese ink": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_ink_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_ink_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_ink_thing.webp"
-  },
-  "dragonpunk new year": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dragonpunk_new_year_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dragonpunk_new_year_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dragonpunk_new_year_thing.webp"
-  },
-  "rich red": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/rich_red_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/rich_red_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/rich_red_thing.webp"
-  },
-  "dragon propaganda poster": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dragon_propaganda_poster_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dragon_propaganda_poster_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dragon_propaganda_poster_thing.webp"
-  },
-  "chinese digital oil painting": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_digital_oil_painting_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_digital_oil_painting_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_digital_oil_painting_thing.webp"
-  },
-  "the people's new year": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/the_people_s_new_year_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/the_people_s_new_year_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/the_people_s_new_year_thing.webp"
-  },
-  "chinese pictogram": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_pictogram_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_pictogram_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_pictogram_thing.webp"
-  },
-  "mad dragon world": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mad_dragon_world_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mad_dragon_world_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mad_dragon_world_thing.webp"
   },
   "chinese blue porcelain": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_blue_porcelain_person.webp",
@@ -144,30 +129,10 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/wuxia_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/wuxia_thing.webp"
   },
-  "hongbao coin": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/hongbao_coin_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/hongbao_coin_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/hongbao_coin_thing.webp"
-  },
-  "red gold style": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/red_gold_style_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/red_gold_style_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/red_gold_style_thing.webp"
-  },
-  "chinese animation artstyle": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_animation_artstyle_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_animation_artstyle_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_animation_artstyle_thing.webp"
-  },
-  "chinese watercolor": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_watercolor_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_watercolor_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/chinese_watercolor_thing.webp"
-  },
-  "traditional chinese art": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/traditional_chinese_art_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/traditional_chinese_art_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/traditional_chinese_art_thing.webp"
+  "ikea": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/ikea_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/ikea_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/ikea_thing.webp"
   },
   "graffiti": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/graffiti_person.webp",
@@ -296,7 +261,8 @@
   },
   "lowpoly": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lowpoly_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lowpoly_place.webp"
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lowpoly_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lowpoly_thing.webp"
   },
   "claymation": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/claymation_person.webp",
@@ -997,6 +963,26 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/icbinp_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/icbinp_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/icbinp_thing.webp"
+  },
+  "juggernaut": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/juggernaut_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/juggernaut_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/juggernaut_thing.webp"
+  },
+  "anime illust": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/anime_illust_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/anime_illust_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/anime_illust_thing.webp"
+  },
+  "pony": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/pony_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/pony_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/pony_thing.webp"
+  },
+  "animagine": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/animagine_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/animagine_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/animagine_thing.webp"
   },
   "icbinp xl": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/icbinp_xl_person.webp",

@@ -2,6 +2,16 @@
 
 - [animation](/categories/animation.md)
 
+## neonlines
+| person | place | thing |
+| --- | --- | --- |
+| ![neonlines person preview](/images/neonlines_person.webp?raw=true) | ![neonlines place preview](/images/neonlines_place.webp?raw=true) | ![neonlines thing preview](/images/neonlines_thing.webp?raw=true) |
+
+## ikea
+| person | place | thing |
+| --- | --- | --- |
+| ![ikea person preview](/images/ikea_person.webp?raw=true) | ![ikea place preview](/images/ikea_place.webp?raw=true) | ![ikea thing preview](/images/ikea_thing.webp?raw=true) |
+
 ## graffiti
 | person | place | thing |
 | --- | --- | --- |
@@ -35,7 +45,7 @@
 ## lowpoly
 | person | place | thing |
 | --- | --- | --- |
-| ![lowpoly person preview](/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/images/lowpoly_place.webp?raw=true) | ❌ |
+| ![lowpoly person preview](/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/images/lowpoly_place.webp?raw=true) | ![lowpoly thing preview](/images/lowpoly_thing.webp?raw=true) |
 
 ## pixelart
 | person | place | thing |

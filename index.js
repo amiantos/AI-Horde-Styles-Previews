@@ -214,6 +214,18 @@ function createRequestForStyleAndPrompt(styleContent, prompt) {
   if (styleContent.cfg_scale != null) {
     styleRequest.params.cfg_scale = styleContent.cfg_scale;
   }
+  if (styleContent.clip_skip != null) {
+    styleRequest.params.clip_skip = styleContent.clip_skip;
+  }
+  if (styleContent.enhance != null) {
+    styleRequest.params.enhance = styleContent.enhance;
+  }
+  if (styleContent.hires_fix != null) {
+    styleRequest.params.hires_fix = styleContent.hires_fix;
+  }
+  if (styleContent.karras != null) {
+    styleRequest.params.karras = styleContent.karras;
+  }
   if (styleContent.sampler_name != null) {
     styleRequest.params.sampler_name = styleContent.sampler_name;
   }

@@ -90,6 +90,11 @@
 | --- | --- | --- |
 | ![duchaiten person preview](/images/duchaiten_person.webp?raw=true) | ![duchaiten place preview](/images/duchaiten_place.webp?raw=true) | ![duchaiten thing preview](/images/duchaiten_thing.webp?raw=true) |
 
+## vintage yearbook photo
+| person | place | thing |
+| --- | --- | --- |
+| ![vintage yearbook photo person preview](/images/vintage_yearbook_photo_person.webp?raw=true) | ![vintage yearbook photo place preview](/images/vintage_yearbook_photo_place.webp?raw=true) | ![vintage yearbook photo thing preview](/images/vintage_yearbook_photo_thing.webp?raw=true) |
+
 ## dreamshaper
 | person | place | thing |
 | --- | --- | --- |

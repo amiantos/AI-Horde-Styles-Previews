@@ -1,5 +1,15 @@
 # dreambooth
 
+## fustercluck
+| person | place | thing |
+| --- | --- | --- |
+| ![fustercluck person preview](/images/fustercluck_person.webp?raw=true) | ![fustercluck place preview](/images/fustercluck_place.webp?raw=true) | ![fustercluck thing preview](/images/fustercluck_thing.webp?raw=true) |
+
+## blank canvas xl
+| person | place | thing |
+| --- | --- | --- |
+| ![blank canvas xl person preview](/images/blank_canvas_xl_person.webp?raw=true) | ![blank canvas xl place preview](/images/blank_canvas_xl_place.webp?raw=true) | ![blank canvas xl thing preview](/images/blank_canvas_xl_thing.webp?raw=true) |
+
 ## danmumford
 | person | place | thing |
 | --- | --- | --- |

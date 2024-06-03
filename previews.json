@@ -24,6 +24,11 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_thing.webp"
   },
+  "cascade+": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade__person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade__place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade__thing.webp"
+  },
   "neonlines": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neonlines_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neonlines_place.webp",
@@ -73,6 +78,16 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_thing.webp"
+  },
+  "cascade-big-portrait": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_portrait_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_portrait_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_portrait_thing.webp"
+  },
+  "cascade-big-landscape": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_landscape_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_landscape_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_big_landscape_thing.webp"
   },
   "cascade-portrait": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cascade_portrait_person.webp",
@@ -128,11 +143,6 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/wuxia_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/wuxia_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/wuxia_thing.webp"
-  },
-  "ikea": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/ikea_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/ikea_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/ikea_thing.webp"
   },
   "graffiti": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/graffiti_person.webp",
@@ -498,6 +508,11 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/vintage_photo_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/vintage_photo_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/vintage_photo_thing.webp"
+  },
+  "vintage yearbook photo": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/vintage_yearbook_photo_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/vintage_yearbook_photo_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/vintage_yearbook_photo_thing.webp"
   },
   "line art": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/line_art_person.webp",
@@ -875,7 +890,6 @@
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/fantasy_snowstorm_thing.webp"
   },
   "christmas church": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/christmas_church_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/christmas_church_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/christmas_church_thing.webp"
   },
@@ -940,7 +954,6 @@
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/illuminati_thing.webp"
   },
   "realbiter": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/realbiter_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/realbiter_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/realbiter_thing.webp"
   },
@@ -969,6 +982,11 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/juggernaut_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/juggernaut_thing.webp"
   },
+  "unstable diffusers": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/unstable_diffusers_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/unstable_diffusers_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/unstable_diffusers_thing.webp"
+  },
   "anime illust": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/anime_illust_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/anime_illust_place.webp",
@@ -979,10 +997,45 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/pony_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/pony_thing.webp"
   },
+  "am pony": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/am_pony_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/am_pony_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/am_pony_thing.webp"
+  },
+  "blank canvas xl": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/blank_canvas_xl_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/blank_canvas_xl_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/blank_canvas_xl_thing.webp"
+  },
   "animagine": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/animagine_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/animagine_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/animagine_thing.webp"
+  },
+  "cheyenne": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cheyenne_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cheyenne_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/cheyenne_thing.webp"
+  },
+  "photon": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/photon_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/photon_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/photon_thing.webp"
+  },
+  "absolute reality": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/absolute_reality_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/absolute_reality_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/absolute_reality_thing.webp"
+  },
+  "aam xl": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/aam_xl_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/aam_xl_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/aam_xl_thing.webp"
+  },
+  "quiet goodnight xl": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/quiet_goodnight_xl_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/quiet_goodnight_xl_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/quiet_goodnight_xl_thing.webp"
   },
   "icbinp xl": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/icbinp_xl_person.webp",
@@ -1070,7 +1123,6 @@
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/waifu_thing.webp"
   },
   "waifu_raw": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/waifu_raw_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/waifu_raw_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/waifu_raw_thing.webp"
   },
@@ -1121,8 +1173,7 @@
   },
   "furry": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/furry_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/furry_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/furry_thing.webp"
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/furry_place.webp"
   },
   "impasto furry": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/impasto_furry_person.webp",
@@ -1413,5 +1464,10 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamshaper_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamshaper_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamshaper_thing.webp"
+  },
+  "summer rays": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/summer_rays_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/summer_rays_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/summer_rays_thing.webp"
   }
 }

@@ -8,7 +8,7 @@
 ## furry
 | person | place | thing |
 | --- | --- | --- |
-| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ![furry thing preview](/images/furry_thing.webp?raw=true) |
+| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ❌ |
 
 ## impasto furry
 | person | place | thing |

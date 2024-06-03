@@ -65,6 +65,16 @@
 | --- | --- | --- |
 | ![anime illust person preview](/images/anime_illust_person.webp?raw=true) | ![anime illust place preview](/images/anime_illust_place.webp?raw=true) | ![anime illust thing preview](/images/anime_illust_thing.webp?raw=true) |
 
+## aam xl
+| person | place | thing |
+| --- | --- | --- |
+| ![aam xl person preview](/images/aam_xl_person.webp?raw=true) | ![aam xl place preview](/images/aam_xl_place.webp?raw=true) | ![aam xl thing preview](/images/aam_xl_thing.webp?raw=true) |
+
+## cheyenne
+| person | place | thing |
+| --- | --- | --- |
+| ![cheyenne person preview](/images/cheyenne_person.webp?raw=true) | ![cheyenne place preview](/images/cheyenne_place.webp?raw=true) | ![cheyenne thing preview](/images/cheyenne_thing.webp?raw=true) |
+
 ## pony
 | person | place | thing |
 | --- | --- | --- |

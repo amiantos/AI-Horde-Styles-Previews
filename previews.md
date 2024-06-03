@@ -25,6 +25,11 @@
 | --- | --- | --- |
 | ![cascade person preview](/images/cascade_person.webp?raw=true) | ![cascade place preview](/images/cascade_place.webp?raw=true) | ![cascade thing preview](/images/cascade_thing.webp?raw=true) |
 
+## cascade+
+| person | place | thing |
+| --- | --- | --- |
+| ![cascade+ person preview](/images/cascade__person.webp?raw=true) | ![cascade+ place preview](/images/cascade__place.webp?raw=true) | ![cascade+ thing preview](/images/cascade__thing.webp?raw=true) |
+
 ## neonlines
 | person | place | thing |
 | --- | --- | --- |
@@ -74,6 +79,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![cascade-big person preview](/images/cascade_big_person.webp?raw=true) | ![cascade-big place preview](/images/cascade_big_place.webp?raw=true) | ![cascade-big thing preview](/images/cascade_big_thing.webp?raw=true) |
+
+## cascade-big-portrait
+| person | place | thing |
+| --- | --- | --- |
+| ![cascade-big-portrait person preview](/images/cascade_big_portrait_person.webp?raw=true) | ![cascade-big-portrait place preview](/images/cascade_big_portrait_place.webp?raw=true) | ![cascade-big-portrait thing preview](/images/cascade_big_portrait_thing.webp?raw=true) |
+
+## cascade-big-landscape
+| person | place | thing |
+| --- | --- | --- |
+| ![cascade-big-landscape person preview](/images/cascade_big_landscape_person.webp?raw=true) | ![cascade-big-landscape place preview](/images/cascade_big_landscape_place.webp?raw=true) | ![cascade-big-landscape thing preview](/images/cascade_big_landscape_thing.webp?raw=true) |
 
 ## cascade-portrait
 | person | place | thing |
@@ -129,11 +144,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![wuxia person preview](/images/wuxia_person.webp?raw=true) | ![wuxia place preview](/images/wuxia_place.webp?raw=true) | ![wuxia thing preview](/images/wuxia_thing.webp?raw=true) |
-
-## ikea
-| person | place | thing |
-| --- | --- | --- |
-| ![ikea person preview](/images/ikea_person.webp?raw=true) | ![ikea place preview](/images/ikea_place.webp?raw=true) | ![ikea thing preview](/images/ikea_thing.webp?raw=true) |
 
 ## graffiti
 | person | place | thing |
@@ -499,6 +509,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![vintage photo person preview](/images/vintage_photo_person.webp?raw=true) | ![vintage photo place preview](/images/vintage_photo_place.webp?raw=true) | ![vintage photo thing preview](/images/vintage_photo_thing.webp?raw=true) |
+
+## vintage yearbook photo
+| person | place | thing |
+| --- | --- | --- |
+| ![vintage yearbook photo person preview](/images/vintage_yearbook_photo_person.webp?raw=true) | ![vintage yearbook photo place preview](/images/vintage_yearbook_photo_place.webp?raw=true) | ![vintage yearbook photo thing preview](/images/vintage_yearbook_photo_thing.webp?raw=true) |
 
 ## line art
 | person | place | thing |
@@ -878,7 +893,7 @@
 ## christmas church
 | person | place | thing |
 | --- | --- | --- |
-| ![christmas church person preview](/images/christmas_church_person.webp?raw=true) | ![christmas church place preview](/images/christmas_church_place.webp?raw=true) | ![christmas church thing preview](/images/christmas_church_thing.webp?raw=true) |
+| ❌ | ![christmas church place preview](/images/christmas_church_place.webp?raw=true) | ![christmas church thing preview](/images/christmas_church_thing.webp?raw=true) |
 
 ## log cabin
 | person | place | thing |
@@ -943,7 +958,7 @@
 ## realbiter
 | person | place | thing |
 | --- | --- | --- |
-| ![realbiter person preview](/images/realbiter_person.webp?raw=true) | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
+| ❌ | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
 
 ## faetastic
 | person | place | thing |
@@ -970,6 +985,11 @@
 | --- | --- | --- |
 | ![juggernaut person preview](/images/juggernaut_person.webp?raw=true) | ![juggernaut place preview](/images/juggernaut_place.webp?raw=true) | ![juggernaut thing preview](/images/juggernaut_thing.webp?raw=true) |
 
+## unstable diffusers
+| person | place | thing |
+| --- | --- | --- |
+| ![unstable diffusers person preview](/images/unstable_diffusers_person.webp?raw=true) | ![unstable diffusers place preview](/images/unstable_diffusers_place.webp?raw=true) | ![unstable diffusers thing preview](/images/unstable_diffusers_thing.webp?raw=true) |
+
 ## anime illust
 | person | place | thing |
 | --- | --- | --- |
@@ -980,10 +1000,45 @@
 | --- | --- | --- |
 | ![pony person preview](/images/pony_person.webp?raw=true) | ![pony place preview](/images/pony_place.webp?raw=true) | ![pony thing preview](/images/pony_thing.webp?raw=true) |
 
+## am pony
+| person | place | thing |
+| --- | --- | --- |
+| ![am pony person preview](/images/am_pony_person.webp?raw=true) | ![am pony place preview](/images/am_pony_place.webp?raw=true) | ![am pony thing preview](/images/am_pony_thing.webp?raw=true) |
+
+## blank canvas xl
+| person | place | thing |
+| --- | --- | --- |
+| ![blank canvas xl person preview](/images/blank_canvas_xl_person.webp?raw=true) | ![blank canvas xl place preview](/images/blank_canvas_xl_place.webp?raw=true) | ![blank canvas xl thing preview](/images/blank_canvas_xl_thing.webp?raw=true) |
+
 ## animagine
 | person | place | thing |
 | --- | --- | --- |
 | ![animagine person preview](/images/animagine_person.webp?raw=true) | ![animagine place preview](/images/animagine_place.webp?raw=true) | ![animagine thing preview](/images/animagine_thing.webp?raw=true) |
+
+## cheyenne
+| person | place | thing |
+| --- | --- | --- |
+| ![cheyenne person preview](/images/cheyenne_person.webp?raw=true) | ![cheyenne place preview](/images/cheyenne_place.webp?raw=true) | ![cheyenne thing preview](/images/cheyenne_thing.webp?raw=true) |
+
+## photon
+| person | place | thing |
+| --- | --- | --- |
+| ![photon person preview](/images/photon_person.webp?raw=true) | ![photon place preview](/images/photon_place.webp?raw=true) | ![photon thing preview](/images/photon_thing.webp?raw=true) |
+
+## absolute reality
+| person | place | thing |
+| --- | --- | --- |
+| ![absolute reality person preview](/images/absolute_reality_person.webp?raw=true) | ![absolute reality place preview](/images/absolute_reality_place.webp?raw=true) | ![absolute reality thing preview](/images/absolute_reality_thing.webp?raw=true) |
+
+## aam xl
+| person | place | thing |
+| --- | --- | --- |
+| ![aam xl person preview](/images/aam_xl_person.webp?raw=true) | ![aam xl place preview](/images/aam_xl_place.webp?raw=true) | ![aam xl thing preview](/images/aam_xl_thing.webp?raw=true) |
+
+## quiet goodnight xl
+| person | place | thing |
+| --- | --- | --- |
+| ![quiet goodnight xl person preview](/images/quiet_goodnight_xl_person.webp?raw=true) | ![quiet goodnight xl place preview](/images/quiet_goodnight_xl_place.webp?raw=true) | ![quiet goodnight xl thing preview](/images/quiet_goodnight_xl_thing.webp?raw=true) |
 
 ## icbinp xl
 | person | place | thing |
@@ -1073,7 +1128,7 @@
 ## waifu_raw
 | person | place | thing |
 | --- | --- | --- |
-| ![waifu_raw person preview](/images/waifu_raw_person.webp?raw=true) | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
+| ❌ | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
 
 ## hentai
 | person | place | thing |
@@ -1123,7 +1178,7 @@
 ## furry
 | person | place | thing |
 | --- | --- | --- |
-| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ![furry thing preview](/images/furry_thing.webp?raw=true) |
+| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ❌ |
 
 ## impasto furry
 | person | place | thing |
@@ -1414,4 +1469,9 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![dreamshaper person preview](/images/dreamshaper_person.webp?raw=true) | ![dreamshaper place preview](/images/dreamshaper_place.webp?raw=true) | ![dreamshaper thing preview](/images/dreamshaper_thing.webp?raw=true) |
+
+## summer rays
+| person | place | thing |
+| --- | --- | --- |
+| ![summer rays person preview](/images/summer_rays_person.webp?raw=true) | ![summer rays place preview](/images/summer_rays_place.webp?raw=true) | ![summer rays thing preview](/images/summer_rays_thing.webp?raw=true) |
 

@@ -24,10 +24,6 @@ const paramsToCopy = [
   "tis",
 ];
 
-const modelsToDisableHiresFix = [
-  "flux_1",
-];
-
 const stylesToSkip = ["stonehenge sunrise"]
 
 var models = {};
@@ -324,16 +320,9 @@ async function generateImageForStyleAndPrompt(
 }
 
 function createRequestForStyleAndPrompt(styleContent, prompt) {
-  const model = models[styleContent.model];
-  const modelBaseline = model.baseline;
-
   var styleRequest = structuredClone(baseRequest);
   if (styleContent.model != null) {
     styleRequest.models = [styleContent.model];
-  }
-
-  if (modelsToDisableHiresFix.some((model) => modelBaseline.includes(model))) {
-    styleRequest.params.hires_fix = false;
   }
 
   for (const param of paramsToCopy) {

@@ -90,6 +90,16 @@ const main = async () => {
     generationStatus[styleName] = {};
     console.log("Generating previews for " + styleName + "...");
 
+    // check if all images exist already
+    var allImagesExist = true;
+    for (const promptType of Object.keys(promptSamples)) {
+      const fileName = safeStyleName + "_" + promptType + ".webp";
+      if (!fs.existsSync("images/" + fileName)) {
+        allImagesExist = false;
+        break;
+      }
+    }
+
     // Hash the contents of the style to determine if it needs to be regenerated
     const hash = require("crypto")
       .createHash("md5")
@@ -98,23 +108,25 @@ const main = async () => {
     const hashFile = `hashes/${safeStyleName}_hash.txt`;
     if (fs.existsSync(hashFile)) {
       const oldHash = fs.readFileSync(hashFile, "utf8");
-      if (oldHash === hash) {
-        console.log(
-          "Skipping generation for " +
-            styleName +
-            " because the contents have not changed."
-        );
-        continue;
-      } else {
-        console.log(
-          "Regenerating previews for " +
-            styleName +
-            " because the contents have changed."
-        );
-        for (const promptType of Object.keys(promptSamples)) {
-          const fileName = safeStyleName + "_" + promptType + ".webp";
-          if (fs.existsSync("images/" + fileName)) {
-            fs.unlinkSync("images/" + fileName);
+      if (allImagesExist) {
+        if (oldHash === hash) {
+          console.log(
+            "Skipping generation for " +
+              styleName +
+              " because the contents have not changed."
+          );
+          continue;
+        } else {
+          console.log(
+            "Regenerating previews for " +
+              styleName +
+              " because the contents have changed."
+          );
+          for (const promptType of Object.keys(promptSamples)) {
+            const fileName = safeStyleName + "_" + promptType + ".webp";
+            if (fs.existsSync("images/" + fileName)) {
+              fs.unlinkSync("images/" + fileName);
+            }
           }
         }
       }
@@ -123,14 +135,14 @@ const main = async () => {
 
     const generationPromises = Object.entries(promptSamples).map(
       async ([promptType, promptSample], index) => {
-      await setTimeout(index * 2000);
-      const success = await generateImageForStyleAndPrompt(
-        safeStyleName,
-        styleContents,
-        promptType,
-        promptSample
-      );
-      generationStatus[styleName][promptType] = success;
+        await setTimeout(index * 2000);
+        const success = await generateImageForStyleAndPrompt(
+          safeStyleName,
+          styleContents,
+          promptType,
+          promptSample
+        );
+        generationStatus[styleName][promptType] = success;
       }
     );
 
@@ -325,7 +337,7 @@ async function generateImages(request) {
       console.log("Generation complete.");
       break;
     }
-    await setTimeout(3000);
+    await setTimeout(15000);
   }
 
   const generationResult = await ai_horde.getImageGenerationStatus(

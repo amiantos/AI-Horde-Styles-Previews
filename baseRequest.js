@@ -5,7 +5,7 @@ const baseRequest = {
     steps: 30,
     post_processing: [],
     cfg_scale: 7.5,
-    hires_fix: true,
+    hires_fix: false,
     clip_skip: 1,
     width: 512,
     image_is_control: false,

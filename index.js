@@ -24,6 +24,8 @@ const paramsToCopy = [
   "tis",
 ];
 
+const modelsToDisableHiresFix = ["stable_diffusion_xl", "stable_cascade", "flux_1"];
+
 var models = {};
 var styles = {};
 var categories = {};
@@ -79,6 +81,27 @@ const main = async () => {
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     generationStatus[styleName] = {};
     console.log("Generating previews for " + styleName + "...");
+
+    // Hash the contents of the style to determine if it needs to be regenerated
+    const hash = require("crypto").createHash("md5").update(JSON.stringify(styleContents)).digest("hex");
+    const hashFile = `hashes/${safeStyleName}_hash.txt`;
+    if (fs.existsSync(hashFile)) {
+      const oldHash = fs.readFileSync(hashFile, "utf8");
+      if (oldHash === hash) {
+        console.log("Skipping generation for " + styleName + " because the contents have not changed.");
+        continue;
+      } else {
+        console.log("Regenerating previews for " + styleName + " because the contents have changed.");
+        for (const promptType of Object.keys(promptSamples)) {
+          const fileName = safeStyleName + "_" + promptType + ".webp";
+          if (fs.existsSync("images/" + fileName)) {
+            fs.unlinkSync("images/" + fileName);
+          }
+        }
+      }
+    }
+    fs.writeFileSync(hashFile, hash);
+
     for (const [promptType, promptSample] of Object.entries(promptSamples)) {
       const success = await generateImageForStyleAndPrompt(
         safeStyleName,
@@ -241,7 +264,7 @@ function createRequestForStyleAndPrompt(styleContent, prompt) {
     }
   }
 
-  if (modelBaseline.includes("stable_diffusion_xl") || modelBaseline.includes("stable_cascade")) {
+  if (modelsToDisableHiresFix.some(model => modelBaseline.includes(model))) {
     styleRequest.params.hires_fix = false;
   }
 

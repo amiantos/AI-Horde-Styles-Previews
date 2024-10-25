@@ -24,7 +24,11 @@ const paramsToCopy = [
   "tis",
 ];
 
-const modelsToDisableHiresFix = ["stable_diffusion_xl", "stable_cascade", "flux_1"];
+const modelsToDisableHiresFix = [
+  "stable_diffusion_xl",
+  "stable_cascade",
+  "flux_1",
+];
 
 var models = {};
 var styles = {};
@@ -60,7 +64,11 @@ const main = async () => {
   let errorFound = false;
   for (const [styleName, styleContents] of Object.entries(styles)) {
     for (const param of Object.keys(styleContents)) {
-      if (!paramsToCopy.includes(param) && param != "model" && param != "prompt") {
+      if (
+        !paramsToCopy.includes(param) &&
+        param != "model" &&
+        param != "prompt"
+      ) {
         console.error(
           `Style ${styleName} has a parameter ${param} that is not accounted for in paramsToCopy.`
         );
@@ -83,15 +91,26 @@ const main = async () => {
     console.log("Generating previews for " + styleName + "...");
 
     // Hash the contents of the style to determine if it needs to be regenerated
-    const hash = require("crypto").createHash("md5").update(JSON.stringify(styleContents)).digest("hex");
+    const hash = require("crypto")
+      .createHash("md5")
+      .update(JSON.stringify(styleContents))
+      .digest("hex");
     const hashFile = `hashes/${safeStyleName}_hash.txt`;
     if (fs.existsSync(hashFile)) {
       const oldHash = fs.readFileSync(hashFile, "utf8");
       if (oldHash === hash) {
-        console.log("Skipping generation for " + styleName + " because the contents have not changed.");
+        console.log(
+          "Skipping generation for " +
+            styleName +
+            " because the contents have not changed."
+        );
         continue;
       } else {
-        console.log("Regenerating previews for " + styleName + " because the contents have changed.");
+        console.log(
+          "Regenerating previews for " +
+            styleName +
+            " because the contents have changed."
+        );
         for (const promptType of Object.keys(promptSamples)) {
           const fileName = safeStyleName + "_" + promptType + ".webp";
           if (fs.existsSync("images/" + fileName)) {
@@ -102,19 +121,20 @@ const main = async () => {
     }
     fs.writeFileSync(hashFile, hash);
 
-    for (const [promptType, promptSample] of Object.entries(promptSamples)) {
+    const generationPromises = Object.entries(promptSamples).map(
+      async ([promptType, promptSample], index) => {
+      await setTimeout(index * 2000);
       const success = await generateImageForStyleAndPrompt(
         safeStyleName,
         styleContents,
         promptType,
         promptSample
       );
-      if (success) {
-        generationStatus[styleName][promptType] = true;
-      } else {
-        generationStatus[styleName][promptType] = false;
+      generationStatus[styleName][promptType] = success;
       }
-    }
+    );
+
+    await Promise.all(generationPromises);
   }
 
   // write previews.md and previews.json files
@@ -264,7 +284,7 @@ function createRequestForStyleAndPrompt(styleContent, prompt) {
     }
   }
 
-  if (modelsToDisableHiresFix.some(model => modelBaseline.includes(model))) {
+  if (modelsToDisableHiresFix.some((model) => modelBaseline.includes(model))) {
     styleRequest.params.hires_fix = false;
   }
 

@@ -55,11 +55,6 @@
 | --- | --- | --- |
 | ![james daly person preview](/images/james_daly_person.webp?raw=true) | ![james daly place preview](/images/james_daly_place.webp?raw=true) | ![james daly thing preview](/images/james_daly_thing.webp?raw=true) |
 
-## tron legacy
-| person | place | thing |
-| --- | --- | --- |
-| ![tron legacy person preview](/images/tron_legacy_person.webp?raw=true) | ![tron legacy place preview](/images/tron_legacy_place.webp?raw=true) | ![tron legacy thing preview](/images/tron_legacy_thing.webp?raw=true) |
-
 ## microworlds
 | person | place | thing |
 | --- | --- | --- |
@@ -74,11 +69,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![vectorartz person preview](/images/vectorartz_person.webp?raw=true) | ![vectorartz place preview](/images/vectorartz_place.webp?raw=true) | ![vectorartz thing preview](/images/vectorartz_thing.webp?raw=true) |
-
-## ranma
-| person | place | thing |
-| --- | --- | --- |
-| ![ranma person preview](/images/ranma_person.webp?raw=true) | ![ranma place preview](/images/ranma_place.webp?raw=true) | ![ranma thing preview](/images/ranma_thing.webp?raw=true) |
 
 ## inkpunk
 | person | place | thing |
@@ -104,11 +94,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![papercut person preview](/images/papercut_person.webp?raw=true) | ![papercut place preview](/images/papercut_place.webp?raw=true) | ![papercut thing preview](/images/papercut_thing.webp?raw=true) |
-
-## chroma
-| person | place | thing |
-| --- | --- | --- |
-| ![chroma person preview](/images/chroma_person.webp?raw=true) | ![chroma place preview](/images/chroma_place.webp?raw=true) | ![chroma thing preview](/images/chroma_thing.webp?raw=true) |
 
 ## ghibli
 | person | place | thing |

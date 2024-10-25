@@ -13,7 +13,7 @@
 ## waifu_raw
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
+| ![waifu_raw person preview](/images/waifu_raw_person.webp?raw=true) | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
 
 ## poison_raw
 | person | place | thing |

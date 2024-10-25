@@ -1,9 +1,11 @@
 # featured
 
-## unstable diffusers
+- [flux-aspect-ratio](/categories/flux_aspect_ratio.md)
+
+## flux
 | person | place | thing |
 | --- | --- | --- |
-| ![unstable diffusers person preview](/images/unstable_diffusers_person.webp?raw=true) | ![unstable diffusers place preview](/images/unstable_diffusers_place.webp?raw=true) | ![unstable diffusers thing preview](/images/unstable_diffusers_thing.webp?raw=true) |
+| ![flux person preview](/images/flux_person.webp?raw=true) | ![flux place preview](/images/flux_place.webp?raw=true) | ![flux thing preview](/images/flux_thing.webp?raw=true) |
 
 ## cascade+
 | person | place | thing |

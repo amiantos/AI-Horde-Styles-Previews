@@ -1,5 +1,10 @@
 # Style Previews
 
+## flux
+| person | place | thing |
+| --- | --- | --- |
+| ![flux person preview](/images/flux_person.webp?raw=true) | ![flux place preview](/images/flux_place.webp?raw=true) | ![flux thing preview](/images/flux_thing.webp?raw=true) |
+
 ## sdxl
 | person | place | thing |
 | --- | --- | --- |
@@ -34,6 +39,61 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![neonlines person preview](/images/neonlines_person.webp?raw=true) | ![neonlines place preview](/images/neonlines_place.webp?raw=true) | ![neonlines thing preview](/images/neonlines_thing.webp?raw=true) |
+
+## flux-small
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-small person preview](/images/flux_small_person.webp?raw=true) | ![flux-small place preview](/images/flux_small_place.webp?raw=true) | ![flux-small thing preview](/images/flux_small_thing.webp?raw=true) |
+
+## flux-vertical
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-vertical person preview](/images/flux_vertical_person.webp?raw=true) | ![flux-vertical place preview](/images/flux_vertical_place.webp?raw=true) | ![flux-vertical thing preview](/images/flux_vertical_thing.webp?raw=true) |
+
+## flux-extreme-vertical
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-extreme-vertical person preview](/images/flux_extreme_vertical_person.webp?raw=true) | ![flux-extreme-vertical place preview](/images/flux_extreme_vertical_place.webp?raw=true) | ![flux-extreme-vertical thing preview](/images/flux_extreme_vertical_thing.webp?raw=true) |
+
+## flux-portrait
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-portrait person preview](/images/flux_portrait_person.webp?raw=true) | ![flux-portrait place preview](/images/flux_portrait_place.webp?raw=true) | ![flux-portrait thing preview](/images/flux_portrait_thing.webp?raw=true) |
+
+## flux-portrait-big
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-portrait-big person preview](/images/flux_portrait_big_person.webp?raw=true) | ![flux-portrait-big place preview](/images/flux_portrait_big_place.webp?raw=true) | ![flux-portrait-big thing preview](/images/flux_portrait_big_thing.webp?raw=true) |
+
+## flux-photo
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-photo person preview](/images/flux_photo_person.webp?raw=true) | ![flux-photo place preview](/images/flux_photo_place.webp?raw=true) | ![flux-photo thing preview](/images/flux_photo_thing.webp?raw=true) |
+
+## flux-photo-horizontal
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-photo-horizontal person preview](/images/flux_photo_horizontal_person.webp?raw=true) | ![flux-photo-horizontal place preview](/images/flux_photo_horizontal_place.webp?raw=true) | ![flux-photo-horizontal thing preview](/images/flux_photo_horizontal_thing.webp?raw=true) |
+
+## flux-landscape
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-landscape person preview](/images/flux_landscape_person.webp?raw=true) | ![flux-landscape place preview](/images/flux_landscape_place.webp?raw=true) | ![flux-landscape thing preview](/images/flux_landscape_thing.webp?raw=true) |
+
+## flux-landscape-big
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-landscape-big person preview](/images/flux_landscape_big_person.webp?raw=true) | ![flux-landscape-big place preview](/images/flux_landscape_big_place.webp?raw=true) | ![flux-landscape-big thing preview](/images/flux_landscape_big_thing.webp?raw=true) |
+
+## flux-widescreen
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-widescreen person preview](/images/flux_widescreen_person.webp?raw=true) | ![flux-widescreen place preview](/images/flux_widescreen_place.webp?raw=true) | ![flux-widescreen thing preview](/images/flux_widescreen_thing.webp?raw=true) |
+
+## flux-cinematic
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-cinematic person preview](/images/flux_cinematic_person.webp?raw=true) | ![flux-cinematic place preview](/images/flux_cinematic_place.webp?raw=true) | ![flux-cinematic thing preview](/images/flux_cinematic_thing.webp?raw=true) |
 
 ## sdxl-vertical
 | person | place | thing |
@@ -324,6 +384,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![sdxlstreetfashion person preview](/images/sdxlstreetfashion_person.webp?raw=true) | ![sdxlstreetfashion place preview](/images/sdxlstreetfashion_place.webp?raw=true) | ![sdxlstreetfashion thing preview](/images/sdxlstreetfashion_thing.webp?raw=true) |
+
+## weirdies animals
+| person | place | thing |
+| --- | --- | --- |
+| ![weirdies animals person preview](/images/weirdies_animals_person.webp?raw=true) | ![weirdies animals place preview](/images/weirdies_animals_place.webp?raw=true) | ![weirdies animals thing preview](/images/weirdies_animals_thing.webp?raw=true) |
+
+## sd3
+| person | place | thing |
+| --- | --- | --- |
+| ![sd3 person preview](/images/sd3_person.webp?raw=true) | ![sd3 place preview](/images/sd3_place.webp?raw=true) | ![sd3 thing preview](/images/sd3_thing.webp?raw=true) |
 
 ## sdxlhorror
 | person | place | thing |
@@ -893,7 +963,7 @@
 ## christmas church
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![christmas church place preview](/images/christmas_church_place.webp?raw=true) | ![christmas church thing preview](/images/christmas_church_thing.webp?raw=true) |
+| ![christmas church person preview](/images/christmas_church_person.webp?raw=true) | ![christmas church place preview](/images/christmas_church_place.webp?raw=true) | ![christmas church thing preview](/images/christmas_church_thing.webp?raw=true) |
 
 ## log cabin
 | person | place | thing |
@@ -958,7 +1028,7 @@
 ## realbiter
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
+| ![realbiter person preview](/images/realbiter_person.webp?raw=true) | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
 
 ## faetastic
 | person | place | thing |
@@ -1004,6 +1074,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![am pony person preview](/images/am_pony_person.webp?raw=true) | ![am pony place preview](/images/am_pony_place.webp?raw=true) | ![am pony thing preview](/images/am_pony_thing.webp?raw=true) |
+
+## swam pony
+| person | place | thing |
+| --- | --- | --- |
+| ![swam pony person preview](/images/swam_pony_person.webp?raw=true) | ![swam pony place preview](/images/swam_pony_place.webp?raw=true) | ![swam pony thing preview](/images/swam_pony_thing.webp?raw=true) |
 
 ## blank canvas xl
 | person | place | thing |
@@ -1128,7 +1203,7 @@
 ## waifu_raw
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
+| ![waifu_raw person preview](/images/waifu_raw_person.webp?raw=true) | ![waifu_raw place preview](/images/waifu_raw_place.webp?raw=true) | ![waifu_raw thing preview](/images/waifu_raw_thing.webp?raw=true) |
 
 ## hentai
 | person | place | thing |
@@ -1178,7 +1253,7 @@
 ## furry
 | person | place | thing |
 | --- | --- | --- |
-| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ❌ |
+| ![furry person preview](/images/furry_person.webp?raw=true) | ![furry place preview](/images/furry_place.webp?raw=true) | ![furry thing preview](/images/furry_thing.webp?raw=true) |
 
 ## impasto furry
 | person | place | thing |
@@ -1194,11 +1269,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![seekart person preview](/images/seekart_person.webp?raw=true) | ![seekart place preview](/images/seekart_place.webp?raw=true) | ![seekart thing preview](/images/seekart_thing.webp?raw=true) |
-
-## hassanblend
-| person | place | thing |
-| --- | --- | --- |
-| ![hassanblend person preview](/images/hassanblend_person.webp?raw=true) | ![hassanblend place preview](/images/hassanblend_place.webp?raw=true) | ![hassanblend thing preview](/images/hassanblend_thing.webp?raw=true) |
 
 ## rpg portrait
 | person | place | thing |
@@ -1245,11 +1315,6 @@
 | --- | --- | --- |
 | ![james daly person preview](/images/james_daly_person.webp?raw=true) | ![james daly place preview](/images/james_daly_place.webp?raw=true) | ![james daly thing preview](/images/james_daly_thing.webp?raw=true) |
 
-## tron legacy
-| person | place | thing |
-| --- | --- | --- |
-| ![tron legacy person preview](/images/tron_legacy_person.webp?raw=true) | ![tron legacy place preview](/images/tron_legacy_place.webp?raw=true) | ![tron legacy thing preview](/images/tron_legacy_thing.webp?raw=true) |
-
 ## microworlds
 | person | place | thing |
 | --- | --- | --- |
@@ -1269,11 +1334,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![vectorartz person preview](/images/vectorartz_person.webp?raw=true) | ![vectorartz place preview](/images/vectorartz_place.webp?raw=true) | ![vectorartz thing preview](/images/vectorartz_thing.webp?raw=true) |
-
-## ranma
-| person | place | thing |
-| --- | --- | --- |
-| ![ranma person preview](/images/ranma_person.webp?raw=true) | ![ranma place preview](/images/ranma_place.webp?raw=true) | ![ranma thing preview](/images/ranma_thing.webp?raw=true) |
 
 ## inkpunk
 | person | place | thing |
@@ -1304,11 +1364,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![papercut person preview](/images/papercut_person.webp?raw=true) | ![papercut place preview](/images/papercut_place.webp?raw=true) | ![papercut thing preview](/images/papercut_thing.webp?raw=true) |
-
-## chroma
-| person | place | thing |
-| --- | --- | --- |
-| ![chroma person preview](/images/chroma_person.webp?raw=true) | ![chroma place preview](/images/chroma_place.webp?raw=true) | ![chroma thing preview](/images/chroma_thing.webp?raw=true) |
 
 ## dreamlike
 | person | place | thing |
@@ -1370,11 +1425,6 @@
 | --- | --- | --- |
 | ![portraitplus person preview](/images/portraitplus_person.webp?raw=true) | ![portraitplus place preview](/images/portraitplus_place.webp?raw=true) | ![portraitplus thing preview](/images/portraitplus_thing.webp?raw=true) |
 
-## dark victorian
-| person | place | thing |
-| --- | --- | --- |
-| ![dark victorian person preview](/images/dark_victorian_person.webp?raw=true) | ![dark victorian place preview](/images/dark_victorian_place.webp?raw=true) | ![dark victorian thing preview](/images/dark_victorian_thing.webp?raw=true) |
-
 ## dnd item
 | person | place | thing |
 | --- | --- | --- |
@@ -1399,11 +1449,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![3dkx person preview](/images/3dkx_person.webp?raw=true) | ![3dkx place preview](/images/3dkx_place.webp?raw=true) | ![3dkx thing preview](/images/3dkx_thing.webp?raw=true) |
-
-## moedel
-| person | place | thing |
-| --- | --- | --- |
-| ![moedel person preview](/images/moedel_person.webp?raw=true) | ![moedel place preview](/images/moedel_place.webp?raw=true) | ![moedel thing preview](/images/moedel_thing.webp?raw=true) |
 
 ## dreamlikesam
 | person | place | thing |
@@ -1440,11 +1485,6 @@
 | --- | --- | --- |
 | ![sci-fi person preview](/images/sci_fi_person.webp?raw=true) | ![sci-fi place preview](/images/sci_fi_place.webp?raw=true) | ![sci-fi thing preview](/images/sci_fi_thing.webp?raw=true) |
 
-## ultraskin
-| person | place | thing |
-| --- | --- | --- |
-| ![ultraskin person preview](/images/ultraskin_person.webp?raw=true) | ![ultraskin place preview](/images/ultraskin_place.webp?raw=true) | ![ultraskin thing preview](/images/ultraskin_thing.webp?raw=true) |
-
 ## ppp
 | person | place | thing |
 | --- | --- | --- |
@@ -1470,8 +1510,138 @@
 | --- | --- | --- |
 | ![dreamshaper person preview](/images/dreamshaper_person.webp?raw=true) | ![dreamshaper place preview](/images/dreamshaper_place.webp?raw=true) | ![dreamshaper thing preview](/images/dreamshaper_thing.webp?raw=true) |
 
+## sunbeam solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![sunbeam solstice person preview](/images/sunbeam_solstice_person.webp?raw=true) | ![sunbeam solstice place preview](/images/sunbeam_solstice_place.webp?raw=true) | ![sunbeam solstice thing preview](/images/sunbeam_solstice_thing.webp?raw=true) |
+
+## a midsummer night's dream
+| person | place | thing |
+| --- | --- | --- |
+| ![a midsummer night's dream person preview](/images/a_midsummer_night_s_dream_person.webp?raw=true) | ![a midsummer night's dream place preview](/images/a_midsummer_night_s_dream_place.webp?raw=true) | ![a midsummer night's dream thing preview](/images/a_midsummer_night_s_dream_thing.webp?raw=true) |
+
+## celtic solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![celtic solstice person preview](/images/celtic_solstice_person.webp?raw=true) | ![celtic solstice place preview](/images/celtic_solstice_place.webp?raw=true) | ![celtic solstice thing preview](/images/celtic_solstice_thing.webp?raw=true) |
+
+## solstice serenity
+| person | place | thing |
+| --- | --- | --- |
+| ![solstice serenity person preview](/images/solstice_serenity_person.webp?raw=true) | ![solstice serenity place preview](/images/solstice_serenity_place.webp?raw=true) | ![solstice serenity thing preview](/images/solstice_serenity_thing.webp?raw=true) |
+
+## nouveau solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![nouveau solstice person preview](/images/nouveau_solstice_person.webp?raw=true) | ![nouveau solstice place preview](/images/nouveau_solstice_place.webp?raw=true) | ![nouveau solstice thing preview](/images/nouveau_solstice_thing.webp?raw=true) |
+
+## mayan solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![mayan solstice person preview](/images/mayan_solstice_person.webp?raw=true) | ![mayan solstice place preview](/images/mayan_solstice_place.webp?raw=true) | ![mayan solstice thing preview](/images/mayan_solstice_thing.webp?raw=true) |
+
+## golden solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![golden solstice person preview](/images/golden_solstice_person.webp?raw=true) | ![golden solstice place preview](/images/golden_solstice_place.webp?raw=true) | ![golden solstice thing preview](/images/golden_solstice_thing.webp?raw=true) |
+
+## floral solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![floral solstice person preview](/images/floral_solstice_person.webp?raw=true) | ![floral solstice place preview](/images/floral_solstice_place.webp?raw=true) | ![floral solstice thing preview](/images/floral_solstice_thing.webp?raw=true) |
+
+## stonehenge sunrise
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+
+## sunny solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![sunny solstice person preview](/images/sunny_solstice_person.webp?raw=true) | ![sunny solstice place preview](/images/sunny_solstice_place.webp?raw=true) | ![sunny solstice thing preview](/images/sunny_solstice_thing.webp?raw=true) |
+
+## yellow solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![yellow solstice person preview](/images/yellow_solstice_person.webp?raw=true) | ![yellow solstice place preview](/images/yellow_solstice_place.webp?raw=true) | ![yellow solstice thing preview](/images/yellow_solstice_thing.webp?raw=true) |
+
+## burning sun cascade
+| person | place | thing |
+| --- | --- | --- |
+| ![burning sun cascade person preview](/images/burning_sun_cascade_person.webp?raw=true) | ![burning sun cascade place preview](/images/burning_sun_cascade_place.webp?raw=true) | ![burning sun cascade thing preview](/images/burning_sun_cascade_thing.webp?raw=true) |
+
+## verdant solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![verdant solstice person preview](/images/verdant_solstice_person.webp?raw=true) | ![verdant solstice place preview](/images/verdant_solstice_place.webp?raw=true) | ![verdant solstice thing preview](/images/verdant_solstice_thing.webp?raw=true) |
+
+## bonfire beats on the beach
+| person | place | thing |
+| --- | --- | --- |
+| ![bonfire beats on the beach person preview](/images/bonfire_beats_on_the_beach_person.webp?raw=true) | ![bonfire beats on the beach place preview](/images/bonfire_beats_on_the_beach_place.webp?raw=true) | ![bonfire beats on the beach thing preview](/images/bonfire_beats_on_the_beach_thing.webp?raw=true) |
+
+## ghibli solstice
+| person | place | thing |
+| --- | --- | --- |
+| ![ghibli solstice person preview](/images/ghibli_solstice_person.webp?raw=true) | ![ghibli solstice place preview](/images/ghibli_solstice_place.webp?raw=true) | ![ghibli solstice thing preview](/images/ghibli_solstice_thing.webp?raw=true) |
+
 ## summer rays
 | person | place | thing |
 | --- | --- | --- |
 | ![summer rays person preview](/images/summer_rays_person.webp?raw=true) | ![summer rays place preview](/images/summer_rays_place.webp?raw=true) | ![summer rays thing preview](/images/summer_rays_thing.webp?raw=true) |
+
+## 8pm
+| person | place | thing |
+| --- | --- | --- |
+| ![8pm person preview](/images/8pm_person.webp?raw=true) | ![8pm place preview](/images/8pm_place.webp?raw=true) | ![8pm thing preview](/images/8pm_thing.webp?raw=true) |
+
+## leaping–fire–cascade
+| person | place | thing |
+| --- | --- | --- |
+| ![leaping–fire–cascade person preview](/images/leaping_fire_cascade_person.webp?raw=true) | ![leaping–fire–cascade place preview](/images/leaping_fire_cascade_place.webp?raw=true) | ![leaping–fire–cascade thing preview](/images/leaping_fire_cascade_thing.webp?raw=true) |
+
+## ultraspice
+| person | place | thing |
+| --- | --- | --- |
+| ![ultraspice person preview](/images/ultraspice_person.webp?raw=true) | ![ultraspice place preview](/images/ultraspice_place.webp?raw=true) | ![ultraspice thing preview](/images/ultraspice_thing.webp?raw=true) |
+
+## wai-anime-pony
+| person | place | thing |
+| --- | --- | --- |
+| ![wai-anime-pony person preview](/images/wai_anime_pony_person.webp?raw=true) | ![wai-anime-pony place preview](/images/wai_anime_pony_place.webp?raw=true) | ![wai-anime-pony thing preview](/images/wai_anime_pony_thing.webp?raw=true) |
+
+## flat-2d animerge
+| person | place | thing |
+| --- | --- | --- |
+| ![flat-2d animerge person preview](/images/flat_2d_animerge_person.webp?raw=true) | ![flat-2d animerge place preview](/images/flat_2d_animerge_place.webp?raw=true) | ![flat-2d animerge thing preview](/images/flat_2d_animerge_thing.webp?raw=true) |
+
+## ether-real
+| person | place | thing |
+| --- | --- | --- |
+| ![ether-real person preview](/images/ether_real_person.webp?raw=true) | ![ether-real place preview](/images/ether_real_place.webp?raw=true) | ![ether-real thing preview](/images/ether_real_thing.webp?raw=true) |
+
+## blendermix
+| person | place | thing |
+| --- | --- | --- |
+| ![blendermix person preview](/images/blendermix_person.webp?raw=true) | ![blendermix place preview](/images/blendermix_place.webp?raw=true) | ![blendermix thing preview](/images/blendermix_thing.webp?raw=true) |
+
+## duchaiten unreal
+| person | place | thing |
+| --- | --- | --- |
+| ![duchaiten unreal person preview](/images/duchaiten_unreal_person.webp?raw=true) | ![duchaiten unreal place preview](/images/duchaiten_unreal_place.webp?raw=true) | ![duchaiten unreal thing preview](/images/duchaiten_unreal_thing.webp?raw=true) |
+
+## tunix
+| person | place | thing |
+| --- | --- | --- |
+| ![tunix person preview](/images/tunix_person.webp?raw=true) | ![tunix place preview](/images/tunix_place.webp?raw=true) | ![tunix thing preview](/images/tunix_thing.webp?raw=true) |
+
+## wai-cute-pony
+| person | place | thing |
+| --- | --- | --- |
+| ![wai-cute-pony person preview](/images/wai_cute_pony_person.webp?raw=true) | ![wai-cute-pony place preview](/images/wai_cute_pony_place.webp?raw=true) | ![wai-cute-pony thing preview](/images/wai_cute_pony_thing.webp?raw=true) |
+
+## pony realism
+| person | place | thing |
+| --- | --- | --- |
+| ![pony realism person preview](/images/pony_realism_person.webp?raw=true) | ![pony realism place preview](/images/pony_realism_place.webp?raw=true) | ![pony realism thing preview](/images/pony_realism_thing.webp?raw=true) |
 

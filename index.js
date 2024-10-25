@@ -25,10 +25,10 @@ const paramsToCopy = [
 ];
 
 const modelsToDisableHiresFix = [
-  "stable_diffusion_xl",
-  "stable_cascade",
   "flux_1",
 ];
+
+const stylesToSkip = ["stonehenge sunrise"]
 
 var models = {};
 var styles = {};
@@ -51,14 +51,18 @@ const main = async () => {
   models = await getJSON(
     "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-image-model-reference/main/stable_diffusion.json"
   );
+
   console.log("Fetching styles...");
   styles = await getJSON(
     "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-Styles/main/styles.json"
   );
+
   console.log("Fetching categories...");
   categories = await getJSON(
     "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-Styles/main/categories.json"
   );
+
+  console.log("Performing sanity checks...");
 
   // Perform a sanity check, look through styles and make sure every param present is accounted for in paramsToCopy
   let errorFound = false;
@@ -81,13 +85,45 @@ const main = async () => {
     return;
   }
 
+  console.log("Pruning removed styles from storage...");
+  const lastRunStyles = fs.existsSync("styles.last-run.json")
+    ? JSON.parse(fs.readFileSync("styles.last-run.json"))
+    : {};
+  for (const [styleName, styleContents] of Object.entries(lastRunStyles)) {
+    if (!(styleName in styles)) {
+      console.log("Removing style " + styleName + " from storage.");
+
+      const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
+      for (const promptType of Object.keys(promptSamples)) {
+        const fileName = safeStyleName + "_" + promptType + ".webp";
+        if (fs.existsSync("images/" + fileName)) {
+          fs.unlinkSync("images/" + fileName);
+        }
+      }
+      const hashFile = `hashes/${safeStyleName}_hash.txt`;
+      if (fs.existsSync(hashFile)) {
+        fs.unlinkSync(hashFile);
+      }
+    }
+  }
+
   console.log("Okay, let's go!");
 
   var generationStatus = {};
 
   for (const [styleName, styleContents] of Object.entries(styles)) {
+
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     generationStatus[styleName] = {};
+
+    if (stylesToSkip.includes(styleName)) {
+      console.log("Skipping previews for " + styleName + "...");
+      for (const promptType of Object.keys(promptSamples)) {
+        generationStatus[styleName][promptType] = false;
+      }
+      continue;
+    }
+
     console.log("Generating previews for " + styleName + "...");
 
     // check if all images exist already
@@ -115,6 +151,9 @@ const main = async () => {
               styleName +
               " because the contents have not changed."
           );
+          for (const promptType of Object.keys(promptSamples)) {
+            generationStatus[styleName][promptType] = true;
+          }
           continue;
         } else {
           console.log(
@@ -151,6 +190,9 @@ const main = async () => {
 
   // write previews.md and previews.json files
   generateFlatFiles(generationStatus);
+
+  // Save styles to styles.last-run.json
+  fs.writeFileSync("styles.last-run.json", JSON.stringify(styles, null, 2));
 
   console.log("I am finished!");
 };
@@ -290,14 +332,14 @@ function createRequestForStyleAndPrompt(styleContent, prompt) {
     styleRequest.models = [styleContent.model];
   }
 
+  if (modelsToDisableHiresFix.some((model) => modelBaseline.includes(model))) {
+    styleRequest.params.hires_fix = false;
+  }
+
   for (const param of paramsToCopy) {
     if (styleContent[param] != null) {
       styleRequest.params[param] = styleContent[param];
     }
-  }
-
-  if (modelsToDisableHiresFix.some((model) => modelBaseline.includes(model))) {
-    styleRequest.params.hires_fix = false;
   }
 
   if (styleContent.prompt != null) {

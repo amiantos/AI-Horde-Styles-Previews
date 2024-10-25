@@ -35,6 +35,11 @@
 | --- | --- | --- |
 | ![cyborgpunkportrait person preview](/images/cyborgpunkportrait_person.webp?raw=true) | ![cyborgpunkportrait place preview](/images/cyborgpunkportrait_place.webp?raw=true) | ![cyborgpunkportrait thing preview](/images/cyborgpunkportrait_thing.webp?raw=true) |
 
+## weirdies animals
+| person | place | thing |
+| --- | --- | --- |
+| ![weirdies animals person preview](/images/weirdies_animals_person.webp?raw=true) | ![weirdies animals place preview](/images/weirdies_animals_place.webp?raw=true) | ![weirdies animals thing preview](/images/weirdies_animals_thing.webp?raw=true) |
+
 ## sdxlstreetfashion
 | person | place | thing |
 | --- | --- | --- |

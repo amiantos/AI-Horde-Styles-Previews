@@ -1,14 +1,11 @@
 # anime
 
+- [pony](/categories/pony.md)
+
 ## acertainthing
 | person | place | thing |
 | --- | --- | --- |
 | ![acertainthing person preview](/images/acertainthing_person.webp?raw=true) | ![acertainthing place preview](/images/acertainthing_place.webp?raw=true) | ![acertainthing thing preview](/images/acertainthing_thing.webp?raw=true) |
-
-## ranma
-| person | place | thing |
-| --- | --- | --- |
-| ![ranma person preview](/images/ranma_person.webp?raw=true) | ![ranma place preview](/images/ranma_place.webp?raw=true) | ![ranma thing preview](/images/ranma_thing.webp?raw=true) |
 
 ## ghibli
 | person | place | thing |
@@ -75,10 +72,10 @@
 | --- | --- | --- |
 | ![cheyenne person preview](/images/cheyenne_person.webp?raw=true) | ![cheyenne place preview](/images/cheyenne_place.webp?raw=true) | ![cheyenne thing preview](/images/cheyenne_thing.webp?raw=true) |
 
-## pony
+## am pony
 | person | place | thing |
 | --- | --- | --- |
-| ![pony person preview](/images/pony_person.webp?raw=true) | ![pony place preview](/images/pony_place.webp?raw=true) | ![pony thing preview](/images/pony_thing.webp?raw=true) |
+| ![am pony person preview](/images/am_pony_person.webp?raw=true) | ![am pony place preview](/images/am_pony_place.webp?raw=true) | ![am pony thing preview](/images/am_pony_thing.webp?raw=true) |
 
 ## animagine
 | person | place | thing |

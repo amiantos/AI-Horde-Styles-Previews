@@ -28,7 +28,7 @@
 ## christmas church
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![christmas church place preview](/images/christmas_church_place.webp?raw=true) | ![christmas church thing preview](/images/christmas_church_thing.webp?raw=true) |
+| ![christmas church person preview](/images/christmas_church_person.webp?raw=true) | ![christmas church place preview](/images/christmas_church_place.webp?raw=true) | ![christmas church thing preview](/images/christmas_church_thing.webp?raw=true) |
 
 ## log cabin
 | person | place | thing |

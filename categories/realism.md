@@ -48,7 +48,7 @@
 ## realbiter
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
+| ![realbiter person preview](/images/realbiter_person.webp?raw=true) | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
 
 ## absolute reality
 | person | place | thing |
@@ -65,10 +65,10 @@
 | --- | --- | --- |
 | ![icbinp xl person preview](/images/icbinp_xl_person.webp?raw=true) | ![icbinp xl place preview](/images/icbinp_xl_place.webp?raw=true) | ![icbinp xl thing preview](/images/icbinp_xl_thing.webp?raw=true) |
 
-## am pony
+## swam pony
 | person | place | thing |
 | --- | --- | --- |
-| ![am pony person preview](/images/am_pony_person.webp?raw=true) | ![am pony place preview](/images/am_pony_place.webp?raw=true) | ![am pony thing preview](/images/am_pony_thing.webp?raw=true) |
+| ![swam pony person preview](/images/swam_pony_person.webp?raw=true) | ![swam pony place preview](/images/swam_pony_place.webp?raw=true) | ![swam pony thing preview](/images/swam_pony_thing.webp?raw=true) |
 
 ## analog madness
 | person | place | thing |
@@ -84,4 +84,14 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![reliberate person preview](/images/reliberate_person.webp?raw=true) | ![reliberate place preview](/images/reliberate_place.webp?raw=true) | ![reliberate thing preview](/images/reliberate_thing.webp?raw=true) |
+
+## pony realism
+| person | place | thing |
+| --- | --- | --- |
+| ![pony realism person preview](/images/pony_realism_person.webp?raw=true) | ![pony realism place preview](/images/pony_realism_place.webp?raw=true) | ![pony realism thing preview](/images/pony_realism_thing.webp?raw=true) |
+
+## ultraspice
+| person | place | thing |
+| --- | --- | --- |
+| ![ultraspice person preview](/images/ultraspice_person.webp?raw=true) | ![ultraspice place preview](/images/ultraspice_place.webp?raw=true) | ![ultraspice thing preview](/images/ultraspice_thing.webp?raw=true) |
 

@@ -24,11 +24,13 @@ const paramsToCopy = [
   "tis",
 ];
 
-const stylesToSkip = ["stonehenge sunrise"]
+const stylesToSkip = ["stonehenge sunrise"];
 
 var models = {};
 var styles = {};
 var categories = {};
+
+var totalKudosCost = 0;
 
 const main = async () => {
   console.log(
@@ -108,7 +110,6 @@ const main = async () => {
   var generationStatus = {};
 
   for (const [styleName, styleContents] of Object.entries(styles)) {
-
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     generationStatus[styleName] = {};
 
@@ -120,7 +121,7 @@ const main = async () => {
       continue;
     }
 
-    console.log("Generating previews for " + styleName + "...");
+    console.log("Generating previews for " + styleName + "... (" + totalKudosCost.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + " kudos spent so far)");
 
     // check if all images exist already
     var allImagesExist = true;
@@ -140,28 +141,26 @@ const main = async () => {
     const hashFile = `hashes/${safeStyleName}_hash.txt`;
     if (fs.existsSync(hashFile)) {
       const oldHash = fs.readFileSync(hashFile, "utf8");
-      if (allImagesExist) {
-        if (oldHash === hash) {
-          console.log(
-            "Skipping generation for " +
-              styleName +
-              " because the contents have not changed."
-          );
-          for (const promptType of Object.keys(promptSamples)) {
-            generationStatus[styleName][promptType] = true;
-          }
-          continue;
-        } else {
-          console.log(
-            "Regenerating previews for " +
-              styleName +
-              " because the contents have changed."
-          );
-          for (const promptType of Object.keys(promptSamples)) {
-            const fileName = safeStyleName + "_" + promptType + ".webp";
-            if (fs.existsSync("images/" + fileName)) {
-              fs.unlinkSync("images/" + fileName);
-            }
+      if (oldHash === hash && allImagesExist) {
+        console.log(
+          "Skipping generation for " +
+            styleName +
+            " because the contents have not changed."
+        );
+        for (const promptType of Object.keys(promptSamples)) {
+          generationStatus[styleName][promptType] = true;
+        }
+        continue;
+      } else {
+        console.log(
+          "Regenerating previews for " +
+            styleName +
+            " because the contents have changed, or all images did not generate previously."
+        );
+        for (const promptType of Object.keys(promptSamples)) {
+          const fileName = safeStyleName + "_" + promptType + ".webp";
+          if (fs.existsSync("images/" + fileName)) {
+            fs.unlinkSync("images/" + fileName);
           }
         }
       }
@@ -190,7 +189,11 @@ const main = async () => {
   // Save styles to styles.last-run.json
   fs.writeFileSync("styles.last-run.json", JSON.stringify(styles, null, 2));
 
-  console.log("I am finished!");
+  console.log(
+    "I am finished! I spent " +
+      totalKudosCost.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") +
+      " kudos."
+  );
 };
 
 function generateFlatFiles(generationStatus) {
@@ -355,18 +358,26 @@ async function generateImages(request) {
 
   // start the generation of an image with the given payload
   const generation = await ai_horde.postAsyncImageGenerate(request);
-  console.log(
-    "Generation Submitted, ID: " +
-      generation.id +
-      ", kudos cost: " +
-      generation.kudos
-  );
+  console.log(generation.id + ": Submitted successfully.");
 
   while (true) {
     const check = await ai_horde.getImageGenerationCheck(generation.id);
     if (check.done) {
-      console.log("Generation complete.");
+      console.log(
+        generation.id + ": Generation complete. Kudos cost: " + check.kudos
+      );
+      totalKudosCost += check.kudos;
       break;
+    } else {
+      console.log(
+        generation.id +
+          ": Queue Position: " +
+          check.queue_position +
+          " | Is Possible: " +
+          check.is_possible +
+          " | Wait time: " +
+          check.wait_time
+      );
     }
     await setTimeout(15000);
   }

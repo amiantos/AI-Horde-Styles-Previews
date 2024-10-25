@@ -10,6 +10,20 @@ const promptSamples = {
   thing: "a red car parked on the side of the road",
 };
 
+const paramsToCopy = [
+  "steps",
+  "width",
+  "height",
+  "cfg_scale",
+  "clip_skip",
+  "enhance",
+  "hires_fix",
+  "karras",
+  "sampler_name",
+  "loras",
+  "tis",
+];
+
 var models = {};
 var styles = {};
 var categories = {};
@@ -39,6 +53,24 @@ const main = async () => {
   categories = await getJSON(
     "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-Styles/main/categories.json"
   );
+
+  // Perform a sanity check, look through styles and make sure every param present is accounted for in paramsToCopy
+  let errorFound = false;
+  for (const [styleName, styleContents] of Object.entries(styles)) {
+    for (const param of Object.keys(styleContents)) {
+      if (!paramsToCopy.includes(param) && param != "model" && param != "prompt") {
+        console.error(
+          `Style ${styleName} has a parameter ${param} that is not accounted for in paramsToCopy.`
+        );
+        errorFound = true;
+      }
+    }
+  }
+  if (errorFound) {
+    console.error("Errors found during the sanity check. Aborting script.");
+    return;
+  }
+
   console.log("Okay, let's go!");
 
   var generationStatus = {};
@@ -202,47 +234,23 @@ function createRequestForStyleAndPrompt(styleContent, prompt) {
   if (styleContent.model != null) {
     styleRequest.models = [styleContent.model];
   }
-  if (styleContent.steps != null) {
-    styleRequest.params.steps = styleContent.steps;
+
+  for (const param of paramsToCopy) {
+    if (styleContent[param] != null) {
+      styleRequest.params[param] = styleContent[param];
+    }
   }
-  if (styleContent.width != null) {
-    styleRequest.params.width = styleContent.width;
-  }
-  if (styleContent.height != null) {
-    styleRequest.params.height = styleContent.height;
-  }
-  if (styleContent.cfg_scale != null) {
-    styleRequest.params.cfg_scale = styleContent.cfg_scale;
-  }
-  if (styleContent.clip_skip != null) {
-    styleRequest.params.clip_skip = styleContent.clip_skip;
-  }
-  if (styleContent.enhance != null) {
-    styleRequest.params.enhance = styleContent.enhance;
-  }
-  if (styleContent.hires_fix != null) {
-    styleRequest.params.hires_fix = styleContent.hires_fix;
-  }
-  if (styleContent.karras != null) {
-    styleRequest.params.karras = styleContent.karras;
-  }
-  if (styleContent.sampler_name != null) {
-    styleRequest.params.sampler_name = styleContent.sampler_name;
-  }
-  if (styleContent.loras != null) {
-    styleRequest.params.loras = styleContent.loras;
-  }
-  if (styleContent.tis != null) {
-    styleRequest.params.tis = styleContent.tis;
-  }
+
   if (modelBaseline.includes("stable_diffusion_xl") || modelBaseline.includes("stable_cascade")) {
     styleRequest.params.hires_fix = false;
   }
+
   if (styleContent.prompt != null) {
     styleRequest.prompt = styleContent.prompt
       .replace("{p}", prompt)
       .replace("{np}", "");
   }
+
   return styleRequest;
 }
 

@@ -199,6 +199,11 @@ const main = async () => {
 function generateFlatFiles(generationStatus) {
   fs.writeFileSync("previews.md", "# Style Previews\n\n");
   const previews = {};
+  
+  generationStatus = Object.fromEntries(
+    Object.entries(generationStatus).sort((a, b) => a[0].localeCompare(b[0]))
+  );
+
   for (const [styleName, promptStatus] of Object.entries(generationStatus)) {
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     previews[styleName] = {};
@@ -267,7 +272,7 @@ function appendStyleTableToFile(fileName, styleName, promptStatus) {
   promptStatus = Object.fromEntries(
     Object.entries(promptStatus).sort((a, b) => a[0].localeCompare(b[0]))
   );
-  
+
   // create table heading for all the prompt types
   for (const promptType of Object.keys(promptStatus)) {
     fs.appendFileSync(fileName, `| ${promptType} `);

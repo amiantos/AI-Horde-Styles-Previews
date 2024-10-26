@@ -262,6 +262,12 @@ function generateFlatFiles(generationStatus) {
 function appendStyleTableToFile(fileName, styleName, promptStatus) {
   const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
   fs.appendFileSync(fileName, `## ${styleName}\n`);
+
+  // sort promptStatus by key
+  promptStatus = Object.fromEntries(
+    Object.entries(promptStatus).sort((a, b) => a[0].localeCompare(b[0]))
+  );
+  
   // create table heading for all the prompt types
   for (const promptType of Object.keys(promptStatus)) {
     fs.appendFileSync(fileName, `| ${promptType} `);

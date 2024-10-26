@@ -8,7 +8,7 @@
 ## faetastic
 | person | place | thing |
 | --- | --- | --- |
-| ![faetastic person preview](/images/faetastic_person.webp?raw=true) | ![faetastic place preview](/images/faetastic_place.webp?raw=true) | ![faetastic thing preview](/images/faetastic_thing.webp?raw=true) |
+| ❌ | ![faetastic place preview](/images/faetastic_place.webp?raw=true) | ![faetastic thing preview](/images/faetastic_thing.webp?raw=true) |
 
 ## moonmix fantasy
 | person | place | thing |

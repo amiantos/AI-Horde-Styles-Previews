@@ -1033,7 +1033,7 @@
 ## faetastic
 | person | place | thing |
 | --- | --- | --- |
-| ![faetastic person preview](/images/faetastic_person.webp?raw=true) | ![faetastic place preview](/images/faetastic_place.webp?raw=true) | ![faetastic thing preview](/images/faetastic_thing.webp?raw=true) |
+| ❌ | ![faetastic place preview](/images/faetastic_place.webp?raw=true) | ![faetastic thing preview](/images/faetastic_thing.webp?raw=true) |
 
 ## danmumford
 | person | place | thing |
@@ -1503,7 +1503,7 @@
 ## duchaiten
 | person | place | thing |
 | --- | --- | --- |
-| ![duchaiten person preview](/images/duchaiten_person.webp?raw=true) | ![duchaiten place preview](/images/duchaiten_place.webp?raw=true) | ![duchaiten thing preview](/images/duchaiten_thing.webp?raw=true) |
+| ❌ | ![duchaiten place preview](/images/duchaiten_place.webp?raw=true) | ![duchaiten thing preview](/images/duchaiten_thing.webp?raw=true) |
 
 ## dreamshaper
 | person | place | thing |
@@ -1549,11 +1549,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![floral solstice person preview](/images/floral_solstice_person.webp?raw=true) | ![floral solstice place preview](/images/floral_solstice_place.webp?raw=true) | ![floral solstice thing preview](/images/floral_solstice_thing.webp?raw=true) |
-
-## stonehenge sunrise
-| person | place | thing |
-| --- | --- | --- |
-| ❌ | ❌ | ❌ |
 
 ## sunny solstice
 | person | place | thing |

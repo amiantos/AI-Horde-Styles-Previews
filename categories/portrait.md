@@ -63,7 +63,7 @@
 ## duchaiten
 | person | place | thing |
 | --- | --- | --- |
-| ![duchaiten person preview](/images/duchaiten_person.webp?raw=true) | ![duchaiten place preview](/images/duchaiten_place.webp?raw=true) | ![duchaiten thing preview](/images/duchaiten_thing.webp?raw=true) |
+| ❌ | ![duchaiten place preview](/images/duchaiten_place.webp?raw=true) | ![duchaiten thing preview](/images/duchaiten_thing.webp?raw=true) |
 
 ## vintage yearbook photo
 | person | place | thing |

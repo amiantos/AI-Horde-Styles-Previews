@@ -45,11 +45,6 @@
 | --- | --- | --- |
 | ![sunny solstice person preview](/images/sunny_solstice_person.webp?raw=true) | ![sunny solstice place preview](/images/sunny_solstice_place.webp?raw=true) | ![sunny solstice thing preview](/images/sunny_solstice_thing.webp?raw=true) |
 
-## stonehenge sunrise
-| person | place | thing |
-| --- | --- | --- |
-| ❌ | ❌ | ❌ |
-
 ## yellow solstice
 | person | place | thing |
 | --- | --- | --- |

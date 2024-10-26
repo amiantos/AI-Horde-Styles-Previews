@@ -1640,3 +1640,73 @@
 | --- | --- | --- |
 | ![pony realism person preview](/images/pony_realism_person.webp?raw=true) | ![pony realism place preview](/images/pony_realism_place.webp?raw=true) | ![pony realism thing preview](/images/pony_realism_thing.webp?raw=true) |
 
+## flux-impressionist
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-impressionist person preview](/images/flux_impressionist_person.webp?raw=true) | ![flux-impressionist place preview](/images/flux_impressionist_place.webp?raw=true) | ![flux-impressionist thing preview](/images/flux_impressionist_thing.webp?raw=true) |
+
+## flux-baroque
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-baroque person preview](/images/flux_baroque_person.webp?raw=true) | ![flux-baroque place preview](/images/flux_baroque_place.webp?raw=true) | ![flux-baroque thing preview](/images/flux_baroque_thing.webp?raw=true) |
+
+## flux-dreamscape
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-dreamscape person preview](/images/flux_dreamscape_person.webp?raw=true) | ![flux-dreamscape place preview](/images/flux_dreamscape_place.webp?raw=true) | ![flux-dreamscape thing preview](/images/flux_dreamscape_thing.webp?raw=true) |
+
+## flux-watercolor
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-watercolor person preview](/images/flux_watercolor_person.webp?raw=true) | ![flux-watercolor place preview](/images/flux_watercolor_place.webp?raw=true) | ❌ |
+
+## flux-pixel-art
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-pixel-art person preview](/images/flux_pixel_art_person.webp?raw=true) | ![flux-pixel-art place preview](/images/flux_pixel_art_place.webp?raw=true) | ![flux-pixel-art thing preview](/images/flux_pixel_art_thing.webp?raw=true) |
+
+## flux-storybook
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-storybook person preview](/images/flux_storybook_person.webp?raw=true) | ![flux-storybook place preview](/images/flux_storybook_place.webp?raw=true) | ![flux-storybook thing preview](/images/flux_storybook_thing.webp?raw=true) |
+
+## flux-comic
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-comic person preview](/images/flux_comic_person.webp?raw=true) | ![flux-comic place preview](/images/flux_comic_place.webp?raw=true) | ![flux-comic thing preview](/images/flux_comic_thing.webp?raw=true) |
+
+## flux-vintage-poster
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-vintage-poster person preview](/images/flux_vintage_poster_person.webp?raw=true) | ![flux-vintage-poster place preview](/images/flux_vintage_poster_place.webp?raw=true) | ![flux-vintage-poster thing preview](/images/flux_vintage_poster_thing.webp?raw=true) |
+
+## flux-pop-art
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-pop-art person preview](/images/flux_pop_art_person.webp?raw=true) | ![flux-pop-art place preview](/images/flux_pop_art_place.webp?raw=true) | ![flux-pop-art thing preview](/images/flux_pop_art_thing.webp?raw=true) |
+
+## flux-glowing-aura
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-glowing-aura person preview](/images/flux_glowing_aura_person.webp?raw=true) | ![flux-glowing-aura place preview](/images/flux_glowing_aura_place.webp?raw=true) | ![flux-glowing-aura thing preview](/images/flux_glowing_aura_thing.webp?raw=true) |
+
+## flux-winter-wonderland
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-winter-wonderland person preview](/images/flux_winter_wonderland_person.webp?raw=true) | ![flux-winter-wonderland place preview](/images/flux_winter_wonderland_place.webp?raw=true) | ![flux-winter-wonderland thing preview](/images/flux_winter_wonderland_thing.webp?raw=true) |
+
+## flux-stick-figures
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-stick-figures person preview](/images/flux_stick_figures_person.webp?raw=true) | ![flux-stick-figures place preview](/images/flux_stick_figures_place.webp?raw=true) | ![flux-stick-figures thing preview](/images/flux_stick_figures_thing.webp?raw=true) |
+
+## flux-glitch-art
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-glitch-art person preview](/images/flux_glitch_art_person.webp?raw=true) | ![flux-glitch-art place preview](/images/flux_glitch_art_place.webp?raw=true) | ![flux-glitch-art thing preview](/images/flux_glitch_art_thing.webp?raw=true) |
+
+## flux-pointillism
+| person | place | thing |
+| --- | --- | --- |
+| ![flux-pointillism person preview](/images/flux_pointillism_person.webp?raw=true) | ![flux-pointillism place preview](/images/flux_pointillism_place.webp?raw=true) | ![flux-pointillism thing preview](/images/flux_pointillism_thing.webp?raw=true) |
+

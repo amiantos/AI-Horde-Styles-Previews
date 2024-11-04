@@ -3479,7 +3479,7 @@
   },
   "tunix": {
     "prompt": "score_9, score_8_up, score_7_up, {p}###score_4, score_5, score_6, {np}",
-    "model": "DucHaiten GameArt (Unreal) Pony",
+    "model": "TUNIX Pony",
     "steps": 25,
     "width": 1024,
     "height": 1024,
@@ -3646,6 +3646,16 @@
     "sampler_name": "k_euler",
     "cfg_scale": 1,
     "karras": false,
+    "width": 1024,
+    "height": 1024
+  },
+  "prefect pony": {
+    "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, {p}###{np}",
+    "model": "Prefect Pony",
+    "steps": 20,
+    "sampler_name": "k_euler",
+    "clip_skip": 2,
+    "cfg_scale": 5,
     "width": 1024,
     "height": 1024
   }

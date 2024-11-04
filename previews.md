@@ -1250,6 +1250,11 @@
 | --- | --- | --- |
 | ![ppp person preview](/images/ppp_person.webp?raw=true) | ![ppp place preview](/images/ppp_place.webp?raw=true) | ![ppp thing preview](/images/ppp_thing.webp?raw=true) |
 
+## prefect pony
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ![prefect pony place preview](/images/prefect_pony_place.webp?raw=true) | ![prefect pony thing preview](/images/prefect_pony_thing.webp?raw=true) |
+
 ## prehistoric winter
 | person | place | thing |
 | --- | --- | --- |

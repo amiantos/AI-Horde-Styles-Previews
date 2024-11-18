@@ -553,7 +553,7 @@
 ## faetastic
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![faetastic place preview](/images/faetastic_place.webp?raw=true) | ![faetastic thing preview](/images/faetastic_thing.webp?raw=true) |
+| ![faetastic person preview](/images/faetastic_person.webp?raw=true) | ![faetastic place preview](/images/faetastic_place.webp?raw=true) | ![faetastic thing preview](/images/faetastic_thing.webp?raw=true) |
 
 ## fantasy snowstorm
 | person | place | thing |
@@ -1253,7 +1253,7 @@
 ## prefect pony
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![prefect pony place preview](/images/prefect_pony_place.webp?raw=true) | ![prefect pony thing preview](/images/prefect_pony_thing.webp?raw=true) |
+| ![prefect pony person preview](/images/prefect_pony_person.webp?raw=true) | ![prefect pony place preview](/images/prefect_pony_place.webp?raw=true) | ![prefect pony thing preview](/images/prefect_pony_thing.webp?raw=true) |
 
 ## prehistoric winter
 | person | place | thing |

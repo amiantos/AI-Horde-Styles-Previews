@@ -1,10 +1,5 @@
 # new
 
-## pony realism
-| person | place | thing |
-| --- | --- | --- |
-| ![pony realism person preview](/images/pony_realism_person.webp?raw=true) | ![pony realism place preview](/images/pony_realism_place.webp?raw=true) | ![pony realism thing preview](/images/pony_realism_thing.webp?raw=true) |
-
 ## wai-anime-pony
 | person | place | thing |
 | --- | --- | --- |
@@ -34,4 +29,24 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![wai-cute-pony person preview](/images/wai_cute_pony_person.webp?raw=true) | ![wai-cute-pony place preview](/images/wai_cute_pony_place.webp?raw=true) | ![wai-cute-pony thing preview](/images/wai_cute_pony_thing.webp?raw=true) |
+
+## mhxl-aventis horizon
+| person | place | thing |
+| --- | --- | --- |
+| ![mhxl-aventis horizon person preview](/images/mhxl_aventis_horizon_person.webp?raw=true) | ![mhxl-aventis horizon place preview](/images/mhxl_aventis_horizon_place.webp?raw=true) | ![mhxl-aventis horizon thing preview](/images/mhxl_aventis_horizon_thing.webp?raw=true) |
+
+## nova furry pony
+| person | place | thing |
+| --- | --- | --- |
+| ![nova furry pony person preview](/images/nova_furry_pony_person.webp?raw=true) | ![nova furry pony place preview](/images/nova_furry_pony_place.webp?raw=true) | ![nova furry pony thing preview](/images/nova_furry_pony_thing.webp?raw=true) |
+
+## nova anime xl
+| person | place | thing |
+| --- | --- | --- |
+| ![nova anime xl person preview](/images/nova_anime_xl_person.webp?raw=true) | ![nova anime xl place preview](/images/nova_anime_xl_place.webp?raw=true) | ![nova anime xl thing preview](/images/nova_anime_xl_thing.webp?raw=true) |
+
+## white pony diffusion
+| person | place | thing |
+| --- | --- | --- |
+| ![white pony diffusion person preview](/images/white_pony_diffusion_person.webp?raw=true) | ![white pony diffusion place preview](/images/white_pony_diffusion_place.webp?raw=true) | ![white pony diffusion thing preview](/images/white_pony_diffusion_thing.webp?raw=true) |
 

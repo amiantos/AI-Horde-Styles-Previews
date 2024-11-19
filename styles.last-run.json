@@ -3112,10 +3112,6 @@
     "prompt": "{p}{np}",
     "model": "Trinart Characters"
   },
-  "portraitplus": {
-    "prompt": "{p}, portrait+ style{np}",
-    "model": "PortraitPlus"
-  },
   "dnd item": {
     "prompt": "{p}, dnditem{np}",
     "model": "DnD Item"
@@ -3148,17 +3144,9 @@
     "prompt": "{p}, dreamlikeart{np}",
     "model": "DreamLikeSamKuvshinov"
   },
-  "moistmix": {
-    "prompt": "{p}{np}",
-    "model": "MoistMix"
-  },
   "healys anime": {
     "prompt": "{p}{np}",
     "model": "Healy's Anime Blend"
-  },
-  "lucid mix": {
-    "prompt": "{p}{np}",
-    "model": "Elldreth's Lucid Mix"
   },
   "sci-fi": {
     "prompt": "{p}{np}",
@@ -3171,10 +3159,6 @@
   "anygen": {
     "prompt": "{p}{np}",
     "model": "Anygen"
-  },
-  "sci-fi protogen": {
-    "prompt": "{p}{np}",
-    "model": "Protogen Infinity"
   },
   "duchaiten": {
     "prompt": "{p}{np}",
@@ -3658,5 +3642,45 @@
     "cfg_scale": 5,
     "width": 1024,
     "height": 1024
+  },
+  "mhxl-aventis horizon": {
+    "prompt": "{p}###{np}",
+    "model": "MHXL - Aventis Horizon",
+    "steps": 25,
+    "sampler_name": "k_euler",
+    "cfg_scale": 5,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
+  },
+  "nova furry pony": {
+    "prompt": "score_9, score_8_up, score_7_up, masterpiece {p} source_anime, detailed face eyes and fur, source_furry, furry###score_6, score_5, score_4, blurry, jpeg artifacts, username, watermark, signature, normal quality, worst quality, text, error, low quality, missing fingers, extra digits, fewer digits, bad eye, {np}",
+    "model": "Nova Furry Pony",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_sde",
+    "cfg_scale": 6,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
+  },
+  "nova anime xl": {
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, {p}, detailed eyes, masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting ###modern, recent, old, oldest, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, very displeasing,lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, signature, loli, simple background, conjoined, ai-generated, {np}",
+    "model": "Nova Anime XL",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_sde",
+    "cfg_scale": 5,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
+  },
+  "white pony diffusion": {
+    "prompt": "score_9, score_8_up, score_7_up, {p}###score_6, score_5, score_4, {np}",
+    "model": "White Pony Diffusion 4",
+    "steps": 25,
+    "sampler_name": "k_euler",
+    "cfg_scale": 5,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
   }
 }

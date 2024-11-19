@@ -975,11 +975,6 @@
 | --- | --- | --- |
 | ![lowpoly person preview](/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/images/lowpoly_place.webp?raw=true) | ![lowpoly thing preview](/images/lowpoly_thing.webp?raw=true) |
 
-## lucid mix
-| person | place | thing |
-| --- | --- | --- |
-| ![lucid mix person preview](/images/lucid_mix_person.webp?raw=true) | ![lucid mix place preview](/images/lucid_mix_place.webp?raw=true) | ![lucid mix thing preview](/images/lucid_mix_thing.webp?raw=true) |
-
 ## lunarpunk
 | person | place | thing |
 | --- | --- | --- |
@@ -1015,6 +1010,11 @@
 | --- | --- | --- |
 | ![meinamix person preview](/images/meinamix_person.webp?raw=true) | ![meinamix place preview](/images/meinamix_place.webp?raw=true) | ![meinamix thing preview](/images/meinamix_thing.webp?raw=true) |
 
+## mhxl-aventis horizon
+| person | place | thing |
+| --- | --- | --- |
+| ![mhxl-aventis horizon person preview](/images/mhxl_aventis_horizon_person.webp?raw=true) | ![mhxl-aventis horizon place preview](/images/mhxl_aventis_horizon_place.webp?raw=true) | ![mhxl-aventis horizon thing preview](/images/mhxl_aventis_horizon_thing.webp?raw=true) |
+
 ## microverse
 | person | place | thing |
 | --- | --- | --- |
@@ -1039,11 +1039,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![moderntarotcard person preview](/images/moderntarotcard_person.webp?raw=true) | ![moderntarotcard place preview](/images/moderntarotcard_place.webp?raw=true) | ![moderntarotcard thing preview](/images/moderntarotcard_thing.webp?raw=true) |
-
-## moistmix
-| person | place | thing |
-| --- | --- | --- |
-| ![moistmix person preview](/images/moistmix_person.webp?raw=true) | ![moistmix place preview](/images/moistmix_place.webp?raw=true) | ![moistmix thing preview](/images/moistmix_thing.webp?raw=true) |
 
 ## mongolpunk
 | person | place | thing |
@@ -1124,6 +1119,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![nouveau solstice person preview](/images/nouveau_solstice_person.webp?raw=true) | ![nouveau solstice place preview](/images/nouveau_solstice_place.webp?raw=true) | ![nouveau solstice thing preview](/images/nouveau_solstice_thing.webp?raw=true) |
+
+## nova anime xl
+| person | place | thing |
+| --- | --- | --- |
+| ![nova anime xl person preview](/images/nova_anime_xl_person.webp?raw=true) | ![nova anime xl place preview](/images/nova_anime_xl_place.webp?raw=true) | ![nova anime xl thing preview](/images/nova_anime_xl_thing.webp?raw=true) |
+
+## nova furry pony
+| person | place | thing |
+| --- | --- | --- |
+| ![nova furry pony person preview](/images/nova_furry_pony_person.webp?raw=true) | ![nova furry pony place preview](/images/nova_furry_pony_place.webp?raw=true) | ![nova furry pony thing preview](/images/nova_furry_pony_thing.webp?raw=true) |
 
 ## oldegyptpunk
 | person | place | thing |
@@ -1229,11 +1234,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![portraitphoto person preview](/images/portraitphoto_person.webp?raw=true) | ![portraitphoto place preview](/images/portraitphoto_place.webp?raw=true) | ![portraitphoto thing preview](/images/portraitphoto_thing.webp?raw=true) |
-
-## portraitplus
-| person | place | thing |
-| --- | --- | --- |
-| ![portraitplus person preview](/images/portraitplus_person.webp?raw=true) | ![portraitplus place preview](/images/portraitplus_place.webp?raw=true) | ![portraitplus thing preview](/images/portraitplus_thing.webp?raw=true) |
 
 ## postcard
 | person | place | thing |
@@ -1354,11 +1354,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![sci-fi person preview](/images/sci_fi_person.webp?raw=true) | ![sci-fi place preview](/images/sci_fi_place.webp?raw=true) | ![sci-fi thing preview](/images/sci_fi_thing.webp?raw=true) |
-
-## sci-fi protogen
-| person | place | thing |
-| --- | --- | --- |
-| ![sci-fi protogen person preview](/images/sci_fi_protogen_person.webp?raw=true) | ![sci-fi protogen place preview](/images/sci_fi_protogen_place.webp?raw=true) | ![sci-fi protogen thing preview](/images/sci_fi_protogen_thing.webp?raw=true) |
 
 ## sd3
 | person | place | thing |
@@ -1679,6 +1674,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![western animation person preview](/images/western_animation_person.webp?raw=true) | ![western animation place preview](/images/western_animation_place.webp?raw=true) | ![western animation thing preview](/images/western_animation_thing.webp?raw=true) |
+
+## white pony diffusion
+| person | place | thing |
+| --- | --- | --- |
+| ![white pony diffusion person preview](/images/white_pony_diffusion_person.webp?raw=true) | ![white pony diffusion place preview](/images/white_pony_diffusion_place.webp?raw=true) | ![white pony diffusion thing preview](/images/white_pony_diffusion_thing.webp?raw=true) |
 
 ## wintersun temple
 | person | place | thing |

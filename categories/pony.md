@@ -42,3 +42,13 @@
 | --- | --- | --- |
 | ![swam pony person preview](/images/swam_pony_person.webp?raw=true) | ![swam pony place preview](/images/swam_pony_place.webp?raw=true) | ![swam pony thing preview](/images/swam_pony_thing.webp?raw=true) |
 
+## nova furry pony
+| person | place | thing |
+| --- | --- | --- |
+| ![nova furry pony person preview](/images/nova_furry_pony_person.webp?raw=true) | ![nova furry pony place preview](/images/nova_furry_pony_place.webp?raw=true) | ![nova furry pony thing preview](/images/nova_furry_pony_thing.webp?raw=true) |
+
+## white pony diffusion
+| person | place | thing |
+| --- | --- | --- |
+| ![white pony diffusion person preview](/images/white_pony_diffusion_person.webp?raw=true) | ![white pony diffusion place preview](/images/white_pony_diffusion_place.webp?raw=true) | ![white pony diffusion thing preview](/images/white_pony_diffusion_thing.webp?raw=true) |
+

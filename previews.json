@@ -974,11 +974,6 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lowpoly_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lowpoly_thing.webp"
   },
-  "lucid mix": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lucid_mix_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lucid_mix_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lucid_mix_thing.webp"
-  },
   "lunarpunk": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lunarpunk_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/lunarpunk_place.webp",
@@ -1014,6 +1009,11 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/meinamix_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/meinamix_thing.webp"
   },
+  "mhxl-aventis horizon": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mhxl_aventis_horizon_person.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mhxl_aventis_horizon_thing.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mhxl_aventis_horizon_place.webp"
+  },
   "microverse": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/microverse_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/microverse_place.webp",
@@ -1038,11 +1038,6 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/moderntarotcard_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/moderntarotcard_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/moderntarotcard_thing.webp"
-  },
-  "moistmix": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/moistmix_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/moistmix_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/moistmix_thing.webp"
   },
   "mongolpunk": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mongolpunk_person.webp",
@@ -1123,6 +1118,16 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nouveau_solstice_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nouveau_solstice_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nouveau_solstice_thing.webp"
+  },
+  "nova anime xl": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nova_anime_xl_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nova_anime_xl_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nova_anime_xl_thing.webp"
+  },
+  "nova furry pony": {
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nova_furry_pony_thing.webp",
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nova_furry_pony_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nova_furry_pony_place.webp"
   },
   "oldegyptpunk": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/oldegyptpunk_person.webp",
@@ -1228,11 +1233,6 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/portraitphoto_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/portraitphoto_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/portraitphoto_thing.webp"
-  },
-  "portraitplus": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/portraitplus_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/portraitplus_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/portraitplus_thing.webp"
   },
   "postcard": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/postcard_person.webp",
@@ -1353,11 +1353,6 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sci_fi_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sci_fi_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sci_fi_thing.webp"
-  },
-  "sci-fi protogen": {
-    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sci_fi_protogen_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sci_fi_protogen_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sci_fi_protogen_thing.webp"
   },
   "sd3": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/sd3_person.webp",
@@ -1678,6 +1673,11 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/western_animation_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/western_animation_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/western_animation_thing.webp"
+  },
+  "white pony diffusion": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/white_pony_diffusion_person.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/white_pony_diffusion_thing.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/white_pony_diffusion_place.webp"
   },
   "wintersun temple": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/wintersun_temple_person.webp",

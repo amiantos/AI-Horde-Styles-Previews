@@ -20,11 +20,6 @@
 | --- | --- | --- |
 | ![dreamlike photoreal person preview](/images/dreamlike_photoreal_person.webp?raw=true) | ![dreamlike photoreal place preview](/images/dreamlike_photoreal_place.webp?raw=true) | ![dreamlike photoreal thing preview](/images/dreamlike_photoreal_thing.webp?raw=true) |
 
-## portraitplus
-| person | place | thing |
-| --- | --- | --- |
-| ![portraitplus person preview](/images/portraitplus_person.webp?raw=true) | ![portraitplus place preview](/images/portraitplus_place.webp?raw=true) | ![portraitplus thing preview](/images/portraitplus_thing.webp?raw=true) |
-
 ## protogen
 | person | place | thing |
 | --- | --- | --- |
@@ -35,16 +30,6 @@
 | --- | --- | --- |
 | ![3dkx person preview](/images/3dkx_person.webp?raw=true) | ![3dkx place preview](/images/3dkx_place.webp?raw=true) | ![3dkx thing preview](/images/3dkx_thing.webp?raw=true) |
 
-## moistmix
-| person | place | thing |
-| --- | --- | --- |
-| ![moistmix person preview](/images/moistmix_person.webp?raw=true) | ![moistmix place preview](/images/moistmix_place.webp?raw=true) | ![moistmix thing preview](/images/moistmix_thing.webp?raw=true) |
-
-## lucid mix
-| person | place | thing |
-| --- | --- | --- |
-| ![lucid mix person preview](/images/lucid_mix_person.webp?raw=true) | ![lucid mix place preview](/images/lucid_mix_place.webp?raw=true) | ![lucid mix thing preview](/images/lucid_mix_thing.webp?raw=true) |
-
 ## ppp
 | person | place | thing |
 | --- | --- | --- |
@@ -54,11 +39,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![anygen person preview](/images/anygen_person.webp?raw=true) | ![anygen place preview](/images/anygen_place.webp?raw=true) | ![anygen thing preview](/images/anygen_thing.webp?raw=true) |
-
-## sci-fi protogen
-| person | place | thing |
-| --- | --- | --- |
-| ![sci-fi protogen person preview](/images/sci_fi_protogen_person.webp?raw=true) | ![sci-fi protogen place preview](/images/sci_fi_protogen_place.webp?raw=true) | ![sci-fi protogen thing preview](/images/sci_fi_protogen_thing.webp?raw=true) |
 
 ## duchaiten
 | person | place | thing |

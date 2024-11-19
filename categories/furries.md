@@ -15,3 +15,8 @@
 | --- | --- | --- |
 | ![impasto furry person preview](/images/impasto_furry_person.webp?raw=true) | ![impasto furry place preview](/images/impasto_furry_place.webp?raw=true) | ![impasto furry thing preview](/images/impasto_furry_thing.webp?raw=true) |
 
+## nova furry pony
+| person | place | thing |
+| --- | --- | --- |
+| ![nova furry pony person preview](/images/nova_furry_pony_person.webp?raw=true) | ![nova furry pony place preview](/images/nova_furry_pony_place.webp?raw=true) | ![nova furry pony thing preview](/images/nova_furry_pony_thing.webp?raw=true) |
+

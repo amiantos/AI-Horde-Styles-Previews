@@ -95,3 +95,8 @@
 | --- | --- | --- |
 | ![ultraspice person preview](/images/ultraspice_person.webp?raw=true) | ![ultraspice place preview](/images/ultraspice_place.webp?raw=true) | ![ultraspice thing preview](/images/ultraspice_thing.webp?raw=true) |
 
+## white pony diffusion
+| person | place | thing |
+| --- | --- | --- |
+| ![white pony diffusion person preview](/images/white_pony_diffusion_person.webp?raw=true) | ![white pony diffusion place preview](/images/white_pony_diffusion_place.webp?raw=true) | ![white pony diffusion thing preview](/images/white_pony_diffusion_thing.webp?raw=true) |
+

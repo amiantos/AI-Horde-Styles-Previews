@@ -87,3 +87,8 @@
 | --- | --- | --- |
 | ![eimis person preview](/images/eimis_person.webp?raw=true) | ![eimis place preview](/images/eimis_place.webp?raw=true) | ![eimis thing preview](/images/eimis_thing.webp?raw=true) |
 
+## nova anime xl
+| person | place | thing |
+| --- | --- | --- |
+| ![nova anime xl person preview](/images/nova_anime_xl_person.webp?raw=true) | ![nova anime xl place preview](/images/nova_anime_xl_place.webp?raw=true) | ![nova anime xl thing preview](/images/nova_anime_xl_thing.webp?raw=true) |
+

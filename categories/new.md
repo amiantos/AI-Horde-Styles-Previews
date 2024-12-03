@@ -1,5 +1,7 @@
 # new
 
+- [album and book art](/categories/album_and_book_art.md)
+
 ## wai-anime-pony
 | person | place | thing |
 | --- | --- | --- |

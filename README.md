@@ -4,6 +4,7 @@ This repo contains preview images for [AI Horde Styles](https://github.com/Haidr
 
 ## How to use in your horde app
 - Fetch [/previews.json](previews.json) to get image urls to use in your app.
+- Fetch [/hashes.json](hashes.json) to get the hash of the current version of the previews. You can use this hash if you cache images locally to detect when existing styles change.
 
 ## How to view
 - View images by category by going to [/categories](/categories)

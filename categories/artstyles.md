@@ -1,6 +1,6 @@
 # artstyles
 
-- [animation](https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/categories/animation.md)
+- [animation](/categories/animation.md)
 
 ## neonlines
 | person | place | thing |

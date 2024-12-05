@@ -1,6 +1,6 @@
 # pony
 
-- [pony](https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/categories/pony.md)
+- [pony](/categories/pony.md)
 
 ## blendermix
 | person | place | thing |

@@ -122,7 +122,13 @@ const main = async () => {
       continue;
     }
 
-    console.log("Generating previews for " + styleName + "... (" + totalKudosCost.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + " kudos spent so far)");
+    console.log(
+      "Generating previews for " +
+        styleName +
+        "... (" +
+        totalKudosCost.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") +
+        " kudos spent so far)"
+    );
 
     // check if all images exist already
     var allImagesExist = true;
@@ -201,7 +207,7 @@ const main = async () => {
 function generateFlatFiles(generationStatus, styleHashes) {
   fs.writeFileSync("previews.md", "# Style Previews\n\n");
   const previews = {};
-  
+
   generationStatus = Object.fromEntries(
     Object.entries(generationStatus).sort((a, b) => a[0].localeCompare(b[0]))
   );
@@ -406,6 +412,8 @@ async function generateImages(request) {
   for (const result of generationResult.generations) {
     if (result.censored) {
       console.error("Censored image detected! Image discarded...");
+    } else if (result.gen_metadata && result.gen_metadata.length > 0) {
+      console.error("Possible error generating image: " + result.gen_metadata);
     } else {
       results.push({ id: result.id, url: result.img });
     }

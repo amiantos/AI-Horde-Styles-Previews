@@ -1,6 +1,6 @@
 # featured
 
-- [flux-aspect-ratio](/categories/flux_aspect_ratio.md)
+- [flux-aspect-ratio](https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/categories/flux_aspect_ratio.md)
 
 ## flux
 | person | place | thing |

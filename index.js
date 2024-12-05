@@ -150,6 +150,7 @@ const main = async () => {
         for (const promptType of Object.keys(promptSamples)) {
           generationStatus[styleName][promptType] = true;
         }
+        generationStatus[styleName]["hash"] = hash;
         continue;
       } else {
         console.log(
@@ -208,21 +209,33 @@ function generateFlatFiles(generationStatus) {
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
     previews[styleName] = {};
 
-    // write to file
-    appendStyleTableToFile("previews.md", styleName, promptStatus);
-
     // generate previews object for json export
     for (const [promptType, status] of Object.entries(promptStatus)) {
       if (status) {
-        previews[styleName][
-          promptType
-        ] = `${config.cdn_url_prefix}/${safeStyleName}_${promptType}.webp`;
+        if (promptType == "hash") {
+          previews[styleName]["hash"] = status;
+        } else {
+          previews[styleName][promptType] = `${config.cdn_url_prefix}/${safeStyleName}_${promptType}.webp`;
+        }
       }
     }
   }
 
   // export previews object to json
   fs.writeFileSync("previews.json", JSON.stringify(previews, null, 2));
+
+  // remove hash from all entries in generationStatus
+  for (const [styleName, promptStatus] of Object.entries(generationStatus)) {
+    delete generationStatus[styleName]["hash"];
+    delete previews[styleName]["hash"];
+  }
+
+  for (const [styleName, promptStatus] of Object.entries(generationStatus)) {
+    for (const [promptType, status] of Object.entries(promptStatus)) {
+      // write to file
+      appendStyleTableToFile("previews.md", styleName, promptStatus);
+    }
+  }
 
   // iterate over categories and create a category .md file for each key
   for (const [category, styles] of Object.entries(categories)) {
@@ -244,7 +257,7 @@ function generateFlatFiles(generationStatus) {
       const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
       fs.appendFileSync(
         `categories/${safeCategoryName}.md`,
-        `- [${styleName}](/categories/${safeStyleName}.md)\n`
+        `- [${styleName}](${config.cdn_url_prefix}/categories/${safeStyleName}.md)\n`
       );
     }
     if (currentCategories.length > 0 && currentStyles.length > 0) {

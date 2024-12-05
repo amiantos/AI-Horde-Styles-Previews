@@ -1,6 +1,6 @@
 # reshape
 
-- [icons](/categories/icons.md)
+- [icons](https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/categories/icons.md)
 
 ## microworlds
 | person | place | thing |

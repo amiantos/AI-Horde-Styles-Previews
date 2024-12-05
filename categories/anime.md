@@ -1,6 +1,6 @@
 # anime
 
-- [pony](/categories/pony.md)
+- [pony](https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/categories/pony.md)
 
 ## acertainthing
 | person | place | thing |

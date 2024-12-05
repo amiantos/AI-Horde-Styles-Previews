@@ -1,6 +1,6 @@
 # new
 
-- [album and book art](/categories/album_and_book_art.md)
+- [album and book art](https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/categories/album_and_book_art.md)
 
 ## wai-anime-pony
 | person | place | thing |

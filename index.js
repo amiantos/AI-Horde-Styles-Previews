@@ -108,6 +108,7 @@ const main = async () => {
   console.log("Okay, let's go!");
 
   var generationStatus = {};
+  var styleHashes = {};
 
   for (const [styleName, styleContents] of Object.entries(styles)) {
     const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
@@ -139,6 +140,7 @@ const main = async () => {
       .update(JSON.stringify(styleContents))
       .digest("hex");
     const hashFile = `hashes/${safeStyleName}_hash.txt`;
+    styleHashes[styleName] = hash;
     if (fs.existsSync(hashFile)) {
       const oldHash = fs.readFileSync(hashFile, "utf8");
       if (oldHash === hash && allImagesExist) {
@@ -184,7 +186,7 @@ const main = async () => {
   }
 
   // write previews.md and previews.json files
-  generateFlatFiles(generationStatus);
+  generateFlatFiles(generationStatus, styleHashes);
 
   // Save styles to styles.last-run.json
   fs.writeFileSync("styles.last-run.json", JSON.stringify(styles, null, 2));
@@ -196,7 +198,7 @@ const main = async () => {
   );
 };
 
-function generateFlatFiles(generationStatus) {
+function generateFlatFiles(generationStatus, styleHashes) {
   fs.writeFileSync("previews.md", "# Style Previews\n\n");
   const previews = {};
   
@@ -262,6 +264,9 @@ function generateFlatFiles(generationStatus) {
       );
     }
   }
+
+  // write hashes.json file
+  fs.writeFileSync("hashes.json", JSON.stringify(styleHashes, null, 2));
 }
 
 function appendStyleTableToFile(fileName, styleName, promptStatus) {

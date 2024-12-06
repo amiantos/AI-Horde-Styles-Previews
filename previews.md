@@ -1045,11 +1045,6 @@
 | --- | --- | --- |
 | ![manga person preview](/images/manga_person.webp?raw=true) | ![manga place preview](/images/manga_place.webp?raw=true) | ![manga thing preview](/images/manga_thing.webp?raw=true) |
 
-## mastodon album cover
-| person | place | thing |
-| --- | --- | --- |
-| ![mastodon album cover person preview](/images/mastodon_album_cover_person.webp?raw=true) | ![mastodon album cover place preview](/images/mastodon_album_cover_place.webp?raw=true) | ![mastodon album cover thing preview](/images/mastodon_album_cover_thing.webp?raw=true) |
-
 ## mayan solstice
 | person | place | thing |
 | --- | --- | --- |

@@ -5,11 +5,6 @@
 | --- | --- | --- |
 | ![gta5 person preview](/images/gta5_person.webp?raw=true) | ![gta5 place preview](/images/gta5_place.webp?raw=true) | ![gta5 thing preview](/images/gta5_thing.webp?raw=true) |
 
-## classic animation
-| person | place | thing |
-| --- | --- | --- |
-| ![classic animation person preview](/images/classic_animation_person.webp?raw=true) | ![classic animation place preview](/images/classic_animation_place.webp?raw=true) | ![classic animation thing preview](/images/classic_animation_thing.webp?raw=true) |
-
 ## comic mashup
 | person | place | thing |
 | --- | --- | --- |

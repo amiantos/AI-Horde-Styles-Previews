@@ -30,11 +30,6 @@
 | --- | --- | --- |
 | ![edge of realism person preview](/images/edge_of_realism_person.webp?raw=true) | ![edge of realism place preview](/images/edge_of_realism_place.webp?raw=true) | ![edge of realism thing preview](/images/edge_of_realism_thing.webp?raw=true) |
 
-## dreamlike photoreal
-| person | place | thing |
-| --- | --- | --- |
-| ![dreamlike photoreal person preview](/images/dreamlike_photoreal_person.webp?raw=true) | ![dreamlike photoreal place preview](/images/dreamlike_photoreal_place.webp?raw=true) | ![dreamlike photoreal thing preview](/images/dreamlike_photoreal_thing.webp?raw=true) |
-
 ## realistic vision
 | person | place | thing |
 | --- | --- | --- |
@@ -74,11 +69,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![analog madness person preview](/images/analog_madness_person.webp?raw=true) | ![analog madness place preview](/images/analog_madness_place.webp?raw=true) | ![analog madness thing preview](/images/analog_madness_thing.webp?raw=true) |
-
-## realisian
-| person | place | thing |
-| --- | --- | --- |
-| ![realisian person preview](/images/realisian_person.webp?raw=true) | ![realisian place preview](/images/realisian_place.webp?raw=true) | ![realisian thing preview](/images/realisian_thing.webp?raw=true) |
 
 ## reliberate
 | person | place | thing |

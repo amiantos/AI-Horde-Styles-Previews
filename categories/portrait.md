@@ -15,20 +15,10 @@
 | --- | --- | --- |
 | ![rpg portrait person preview](/images/rpg_portrait_person.webp?raw=true) | ![rpg portrait place preview](/images/rpg_portrait_place.webp?raw=true) | ![rpg portrait thing preview](/images/rpg_portrait_thing.webp?raw=true) |
 
-## dreamlike photoreal
-| person | place | thing |
-| --- | --- | --- |
-| ![dreamlike photoreal person preview](/images/dreamlike_photoreal_person.webp?raw=true) | ![dreamlike photoreal place preview](/images/dreamlike_photoreal_place.webp?raw=true) | ![dreamlike photoreal thing preview](/images/dreamlike_photoreal_thing.webp?raw=true) |
-
 ## protogen
 | person | place | thing |
 | --- | --- | --- |
 | ![protogen person preview](/images/protogen_person.webp?raw=true) | ![protogen place preview](/images/protogen_place.webp?raw=true) | ![protogen thing preview](/images/protogen_thing.webp?raw=true) |
-
-## 3dkx
-| person | place | thing |
-| --- | --- | --- |
-| ![3dkx person preview](/images/3dkx_person.webp?raw=true) | ![3dkx place preview](/images/3dkx_place.webp?raw=true) | ![3dkx thing preview](/images/3dkx_thing.webp?raw=true) |
 
 ## ppp
 | person | place | thing |
@@ -54,4 +44,9 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![dreamshaper person preview](/images/dreamshaper_person.webp?raw=true) | ![dreamshaper place preview](/images/dreamshaper_place.webp?raw=true) | ![dreamshaper thing preview](/images/dreamshaper_thing.webp?raw=true) |
+
+## natvis
+| person | place | thing |
+| --- | --- | --- |
+| ![natvis person preview](/images/natvis_person.webp?raw=true) | ![natvis place preview](/images/natvis_place.webp?raw=true) | ![natvis thing preview](/images/natvis_thing.webp?raw=true) |
 

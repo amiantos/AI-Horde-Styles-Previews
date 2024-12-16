@@ -87,6 +87,21 @@
 | --- | --- | --- |
 | ![eimis person preview](/images/eimis_person.webp?raw=true) | ![eimis place preview](/images/eimis_place.webp?raw=true) | ![eimis thing preview](/images/eimis_thing.webp?raw=true) |
 
+## kayneg
+| person | place | thing |
+| --- | --- | --- |
+| ![kayneg person preview](/images/kayneg_person.webp?raw=true) | ![kayneg place preview](/images/kayneg_place.webp?raw=true) | ![kayneg thing preview](/images/kayneg_thing.webp?raw=true) |
+
+## noob-v-pencil
+| person | place | thing |
+| --- | --- | --- |
+| ![noob-v-pencil person preview](/images/noob_v_pencil_person.webp?raw=true) | ![noob-v-pencil place preview](/images/noob_v_pencil_place.webp?raw=true) | ![noob-v-pencil thing preview](/images/noob_v_pencil_thing.webp?raw=true) |
+
+## noob-evo
+| person | place | thing |
+| --- | --- | --- |
+| ![noob-evo person preview](/images/noob_evo_person.webp?raw=true) | ![noob-evo place preview](/images/noob_evo_place.webp?raw=true) | ![noob-evo thing preview](/images/noob_evo_thing.webp?raw=true) |
+
 ## nova anime xl
 | person | place | thing |
 | --- | --- | --- |

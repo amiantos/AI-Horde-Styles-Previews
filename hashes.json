@@ -200,7 +200,6 @@
   "deliberate3": "42c5c04d8dcee777bae97e37acea4a09",
   "majicmix realistic": "9678c5f40eb41353c98731af3a1f0e04",
   "edge of realism": "68c2a7fb0e1452ede9fb0a4a5593ac9b",
-  "dreamlike photoreal": "71fab6160fb673857d4d158e3bc20f23",
   "realistic vision": "42180cae4048d8f1d736a2381890428a",
   "neurogen": "e07705091ffb4cb02530ed37f2c98a14",
   "illuminati": "8210a51320e0f8fe4f99b12ddbc8e6e7",
@@ -232,7 +231,6 @@
   "bweshmix": "afb4329ce40d1673037eb36548d6bd4d",
   "revanimated": "7550cb3bef0afb7f70333da1e21674cd",
   "cetus-mix": "e6267dd6b4470db50c1843c4ddf30ec5",
-  "realisian": "c0539dae9b4174b6c325d1337f338e08",
   "reliberate": "420f62a8eda297d51fadd217ccf73d91",
   "toonyou": "5bec8ff20e9954913d3512be5e40df10",
   "western animation": "5edea9dcc764f3d24e2b4d821ac06cf7",
@@ -255,7 +253,6 @@
   "seekart": "1c0c557dd39fa9b8d8234fbadec252d9",
   "rpg portrait": "3155acda2e3716f18d63fc186154e6ef",
   "robo": "5880a0650ec99e6c3a7c802c64facf65",
-  "classic animation": "cd1fd0f4cf06468190e796b6226baabc",
   "comic mashup": "4a63a2e3e255e9456a37132ac0c87bff",
   "charlie bo": "bd653505c4ef25dda535e84280cc6836",
   "hollie mengert": "23133fef49735fc708c401c91d7e57cf",
@@ -287,7 +284,6 @@
   "modern art": "18b050de2c298470b01f92d611c972fc",
   "hasdx": "0492ab4811d6def170b37e7d3e1eb53f",
   "protogen": "eeada74b8d276074cd959e315bc99b3f",
-  "3dkx": "94e4e30ee44461abca28250cc405451d",
   "dreamlikesam": "169d9473ab9545074d210b2914bd8cd4",
   "dreamlikekuvshinov": "336db7b92acde389f1f3b0f8054b1638",
   "dreamlikeart": "0ed5d9ff8dd5d5879e9b20a515691d63",
@@ -355,5 +351,9 @@
   "magazine cover": "63b4e8e83a2887871d0e1d8cc8f6783a",
   "vintage vogue cover": "cd0a37c4045dcfadb5204cb6fd1d1e33",
   "dan seagrave album cover": "efedf64a39e0a57f1555d9d4ba24e5da",
-  "weird tales cover": "5484a29740cbe3ef89e3c50bb7c926e3"
+  "weird tales cover": "5484a29740cbe3ef89e3c50bb7c926e3",
+  "noob-evo": "0600753a9abd48e2c137e6fa25b755cd",
+  "noob-v-pencil": "e7f00bf00de7b13c1aaacb1046ef7aee",
+  "kayneg": "5a94bb872f29e7459e5ffb7681a1a118",
+  "natvis": "689b786722e3ec8094065e97449771ec"
 }

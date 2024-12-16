@@ -20,11 +20,6 @@
 | --- | --- | --- |
 | ![robo person preview](/images/robo_person.webp?raw=true) | ![robo place preview](/images/robo_place.webp?raw=true) | ![robo thing preview](/images/robo_thing.webp?raw=true) |
 
-## classic animation
-| person | place | thing |
-| --- | --- | --- |
-| ![classic animation person preview](/images/classic_animation_person.webp?raw=true) | ![classic animation place preview](/images/classic_animation_place.webp?raw=true) | ![classic animation thing preview](/images/classic_animation_thing.webp?raw=true) |
-
 ## comic mashup
 | person | place | thing |
 | --- | --- | --- |

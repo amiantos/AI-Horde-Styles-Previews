@@ -5,11 +5,6 @@
 | --- | --- | --- |
 | ![19th century painting person preview](/images/19th_century_painting_person.webp?raw=true) | ![19th century painting place preview](/images/19th_century_painting_place.webp?raw=true) | ![19th century painting thing preview](/images/19th_century_painting_thing.webp?raw=true) |
 
-## 3dkx
-| person | place | thing |
-| --- | --- | --- |
-| ![3dkx person preview](/images/3dkx_person.webp?raw=true) | ![3dkx place preview](/images/3dkx_place.webp?raw=true) | ![3dkx thing preview](/images/3dkx_thing.webp?raw=true) |
-
 ## 8pm
 | person | place | thing |
 | --- | --- | --- |
@@ -345,11 +340,6 @@
 | --- | --- | --- |
 | ![circuspunk person preview](/images/circuspunk_person.webp?raw=true) | ![circuspunk place preview](/images/circuspunk_place.webp?raw=true) | ![circuspunk thing preview](/images/circuspunk_thing.webp?raw=true) |
 
-## classic animation
-| person | place | thing |
-| --- | --- | --- |
-| ![classic animation person preview](/images/classic_animation_person.webp?raw=true) | ![classic animation place preview](/images/classic_animation_place.webp?raw=true) | ![classic animation thing preview](/images/classic_animation_thing.webp?raw=true) |
-
 ## claymation
 | person | place | thing |
 | --- | --- | --- |
@@ -474,11 +464,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![dreamlike person preview](/images/dreamlike_person.webp?raw=true) | ![dreamlike place preview](/images/dreamlike_place.webp?raw=true) | ![dreamlike thing preview](/images/dreamlike_thing.webp?raw=true) |
-
-## dreamlike photoreal
-| person | place | thing |
-| --- | --- | --- |
-| ![dreamlike photoreal person preview](/images/dreamlike_photoreal_person.webp?raw=true) | ![dreamlike photoreal place preview](/images/dreamlike_photoreal_place.webp?raw=true) | ![dreamlike photoreal thing preview](/images/dreamlike_photoreal_thing.webp?raw=true) |
 
 ## dreamlikeart
 | person | place | thing |
@@ -975,6 +960,11 @@
 | --- | --- | --- |
 | ![juggernaut person preview](/images/juggernaut_person.webp?raw=true) | ![juggernaut place preview](/images/juggernaut_place.webp?raw=true) | ![juggernaut thing preview](/images/juggernaut_thing.webp?raw=true) |
 
+## kayneg
+| person | place | thing |
+| --- | --- | --- |
+| ![kayneg person preview](/images/kayneg_person.webp?raw=true) | ![kayneg place preview](/images/kayneg_place.webp?raw=true) | ![kayneg thing preview](/images/kayneg_thing.webp?raw=true) |
+
 ## kazakpunk
 | person | place | thing |
 | --- | --- | --- |
@@ -1125,6 +1115,11 @@
 | --- | --- | --- |
 | ![nastyhorrors person preview](/images/nastyhorrors_person.webp?raw=true) | ![nastyhorrors place preview](/images/nastyhorrors_place.webp?raw=true) | ![nastyhorrors thing preview](/images/nastyhorrors_thing.webp?raw=true) |
 
+## natvis
+| person | place | thing |
+| --- | --- | --- |
+| ![natvis person preview](/images/natvis_person.webp?raw=true) | ![natvis place preview](/images/natvis_place.webp?raw=true) | ![natvis thing preview](/images/natvis_thing.webp?raw=true) |
+
 ## neonlines
 | person | place | thing |
 | --- | --- | --- |
@@ -1159,6 +1154,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![nightmarepunk person preview](/images/nightmarepunk_person.webp?raw=true) | ![nightmarepunk place preview](/images/nightmarepunk_place.webp?raw=true) | ![nightmarepunk thing preview](/images/nightmarepunk_thing.webp?raw=true) |
+
+## noob-evo
+| person | place | thing |
+| --- | --- | --- |
+| ![noob-evo person preview](/images/noob_evo_person.webp?raw=true) | ![noob-evo place preview](/images/noob_evo_place.webp?raw=true) | ![noob-evo thing preview](/images/noob_evo_thing.webp?raw=true) |
+
+## noob-v-pencil
+| person | place | thing |
+| --- | --- | --- |
+| ![noob-v-pencil person preview](/images/noob_v_pencil_person.webp?raw=true) | ![noob-v-pencil place preview](/images/noob_v_pencil_place.webp?raw=true) | ![noob-v-pencil thing preview](/images/noob_v_pencil_thing.webp?raw=true) |
 
 ## nouveau solstice
 | person | place | thing |
@@ -1339,11 +1344,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![realbiter person preview](/images/realbiter_person.webp?raw=true) | ![realbiter place preview](/images/realbiter_place.webp?raw=true) | ![realbiter thing preview](/images/realbiter_thing.webp?raw=true) |
-
-## realisian
-| person | place | thing |
-| --- | --- | --- |
-| ![realisian person preview](/images/realisian_person.webp?raw=true) | ![realisian place preview](/images/realisian_place.webp?raw=true) | ![realisian thing preview](/images/realisian_thing.webp?raw=true) |
 
 ## realistic vision
 | person | place | thing |

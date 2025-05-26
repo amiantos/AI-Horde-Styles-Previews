@@ -1,10 +1,5 @@
 # animation
 
-## mistoon amethyst
-| person | place | thing |
-| --- | --- | --- |
-| ![mistoon amethyst person preview](/images/mistoon_amethyst_person.webp?raw=true) | ![mistoon amethyst place preview](/images/mistoon_amethyst_place.webp?raw=true) | ![mistoon amethyst thing preview](/images/mistoon_amethyst_thing.webp?raw=true) |
-
 ## toonyou
 | person | place | thing |
 | --- | --- | --- |

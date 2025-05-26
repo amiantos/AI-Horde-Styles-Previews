@@ -15,11 +15,6 @@
 | --- | --- | --- |
 | ![rpg portrait person preview](/images/rpg_portrait_person.webp?raw=true) | ![rpg portrait place preview](/images/rpg_portrait_place.webp?raw=true) | ![rpg portrait thing preview](/images/rpg_portrait_thing.webp?raw=true) |
 
-## protogen
-| person | place | thing |
-| --- | --- | --- |
-| ![protogen person preview](/images/protogen_person.webp?raw=true) | ![protogen place preview](/images/protogen_place.webp?raw=true) | ![protogen thing preview](/images/protogen_thing.webp?raw=true) |
-
 ## ppp
 | person | place | thing |
 | --- | --- | --- |

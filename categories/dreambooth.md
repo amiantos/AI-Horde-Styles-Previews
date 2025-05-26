@@ -15,10 +15,10 @@
 | --- | --- | --- |
 | ![danmumford person preview](/images/danmumford_person.webp?raw=true) | ![danmumford place preview](/images/danmumford_place.webp?raw=true) | ![danmumford thing preview](/images/danmumford_thing.webp?raw=true) |
 
-## robo
+## jim eidomode
 | person | place | thing |
 | --- | --- | --- |
-| ![robo person preview](/images/robo_person.webp?raw=true) | ![robo place preview](/images/robo_place.webp?raw=true) | ![robo thing preview](/images/robo_thing.webp?raw=true) |
+| ![jim eidomode person preview](/images/jim_eidomode_person.webp?raw=true) | ![jim eidomode place preview](/images/jim_eidomode_place.webp?raw=true) | ![jim eidomode thing preview](/images/jim_eidomode_thing.webp?raw=true) |
 
 ## comic mashup
 | person | place | thing |
@@ -60,11 +60,6 @@
 | --- | --- | --- |
 | ![appicon person preview](/images/appicon_person.webp?raw=true) | ![appicon place preview](/images/appicon_place.webp?raw=true) | ![appicon thing preview](/images/appicon_thing.webp?raw=true) |
 
-## vectorartz
-| person | place | thing |
-| --- | --- | --- |
-| ![vectorartz person preview](/images/vectorartz_person.webp?raw=true) | ![vectorartz place preview](/images/vectorartz_place.webp?raw=true) | ![vectorartz thing preview](/images/vectorartz_thing.webp?raw=true) |
-
 ## inkpunk
 | person | place | thing |
 | --- | --- | --- |
@@ -84,11 +79,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![rpg portrait person preview](/images/rpg_portrait_person.webp?raw=true) | ![rpg portrait place preview](/images/rpg_portrait_place.webp?raw=true) | ![rpg portrait thing preview](/images/rpg_portrait_thing.webp?raw=true) |
-
-## papercut
-| person | place | thing |
-| --- | --- | --- |
-| ![papercut person preview](/images/papercut_person.webp?raw=true) | ![papercut place preview](/images/papercut_place.webp?raw=true) | ![papercut thing preview](/images/papercut_thing.webp?raw=true) |
 
 ## ghibli
 | person | place | thing |
@@ -110,11 +100,6 @@
 | --- | --- | --- |
 | ![dreamlike person preview](/images/dreamlike_person.webp?raw=true) | ![dreamlike place preview](/images/dreamlike_place.webp?raw=true) | ![dreamlike thing preview](/images/dreamlike_thing.webp?raw=true) |
 
-## seekart
-| person | place | thing |
-| --- | --- | --- |
-| ![seekart person preview](/images/seekart_person.webp?raw=true) | ![seekart place preview](/images/seekart_place.webp?raw=true) | ![seekart thing preview](/images/seekart_thing.webp?raw=true) |
-
 ## gta5
 | person | place | thing |
 | --- | --- | --- |
@@ -125,11 +110,6 @@
 | --- | --- | --- |
 | ![acertainthing person preview](/images/acertainthing_person.webp?raw=true) | ![acertainthing place preview](/images/acertainthing_place.webp?raw=true) | ![acertainthing thing preview](/images/acertainthing_thing.webp?raw=true) |
 
-## space
-| person | place | thing |
-| --- | --- | --- |
-| ![space person preview](/images/space_person.webp?raw=true) | ![space place preview](/images/space_place.webp?raw=true) | ![space thing preview](/images/space_thing.webp?raw=true) |
-
 ## modern art
 | person | place | thing |
 | --- | --- | --- |
@@ -139,9 +119,4 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![dnd person preview](/images/dnd_person.webp?raw=true) | ![dnd place preview](/images/dnd_place.webp?raw=true) | ![dnd thing preview](/images/dnd_thing.webp?raw=true) |
-
-## dnd item
-| person | place | thing |
-| --- | --- | --- |
-| ![dnd item person preview](/images/dnd_item_person.webp?raw=true) | ![dnd item place preview](/images/dnd_item_place.webp?raw=true) | ![dnd item thing preview](/images/dnd_item_thing.webp?raw=true) |
 

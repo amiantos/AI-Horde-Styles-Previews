@@ -47,6 +47,11 @@
 | --- | --- | --- |
 | ![anything person preview](/images/anything_person.webp?raw=true) | ![anything place preview](/images/anything_place.webp?raw=true) | ![anything thing preview](/images/anything_thing.webp?raw=true) |
 
+## perfect world
+| person | place | thing |
+| --- | --- | --- |
+| ![perfect world person preview](/images/perfect_world_person.webp?raw=true) | ![perfect world place preview](/images/perfect_world_place.webp?raw=true) | ![perfect world thing preview](/images/perfect_world_thing.webp?raw=true) |
+
 ## waifu
 | person | place | thing |
 | --- | --- | --- |
@@ -102,8 +107,28 @@
 | --- | --- | --- |
 | ![noob-evo person preview](/images/noob_evo_person.webp?raw=true) | ![noob-evo place preview](/images/noob_evo_place.webp?raw=true) | ![noob-evo thing preview](/images/noob_evo_thing.webp?raw=true) |
 
+## ntr-mix
+| person | place | thing |
+| --- | --- | --- |
+| ![ntr-mix person preview](/images/ntr_mix_person.webp?raw=true) | ![ntr-mix place preview](/images/ntr_mix_place.webp?raw=true) | ![ntr-mix thing preview](/images/ntr_mix_thing.webp?raw=true) |
+
+## holymix
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ![holymix place preview](/images/holymix_place.webp?raw=true) | ![holymix thing preview](/images/holymix_thing.webp?raw=true) |
+
 ## nova anime xl
 | person | place | thing |
 | --- | --- | --- |
 | ![nova anime xl person preview](/images/nova_anime_xl_person.webp?raw=true) | ![nova anime xl place preview](/images/nova_anime_xl_place.webp?raw=true) | ![nova anime xl thing preview](/images/nova_anime_xl_thing.webp?raw=true) |
+
+## hassaku
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ❌ |
+
+## mistoon anime
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
 

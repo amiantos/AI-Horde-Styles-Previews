@@ -40,6 +40,21 @@
 | --- | --- | --- |
 | ![weirdies animals person preview](/images/weirdies_animals_person.webp?raw=true) | ![weirdies animals place preview](/images/weirdies_animals_place.webp?raw=true) | ![weirdies animals thing preview](/images/weirdies_animals_thing.webp?raw=true) |
 
+## dreamy portrait
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+
+## fragoanato zombie
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+
+## bioluminescent
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+
 ## sdxlstreetfashion
 | person | place | thing |
 | --- | --- | --- |

@@ -122,3 +122,8 @@
 | --- | --- | --- |
 | ![pencil drawing person preview](/images/pencil_drawing_person.webp?raw=true) | ![pencil drawing place preview](/images/pencil_drawing_place.webp?raw=true) | ![pencil drawing thing preview](/images/pencil_drawing_thing.webp?raw=true) |
 
+## papercut
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+

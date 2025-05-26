@@ -547,7 +547,7 @@
     ]
   },
   "sdxlcatgirlportrait": {
-    "prompt": "high quality, intricate, fluffy tail, cat ears, a full-body portrait of a catgirl, {p}, photorealistic, magical realism, fantasy###{np}, (Drawing cartoon comic sketch 2d render:0.7)",
+    "prompt": "high quality, intricate, fluffy tail, cat ears, a full-body portrait of a catgirl, {p}, photorealistic, magical realism, fantasy###{np}, (Drawing cartoon comic sketch 2d render:0.7), nsfw, nude, naked, porn",
     "model": "AlbedoBase XL (SDXL)",
     "width": 832,
     "height": 1216,
@@ -1914,16 +1914,26 @@
     "enhance": true
   },
   "steampunk": {
-    "prompt": "{p}, SteampunkAI{np}",
-    "model": "Dreamshaper",
-    "steps": 40,
-    "cfg_scale": 7.5,
+    "prompt": "{p}, DonMSt34mPXL{np}",
+    "model": "DreamShaper XL",
+    "width": 1024,
+    "height": 1024,
+    "steps": 4,
+    "cfg_scale": 2,
+    "sampler_name": "k_dpmpp_sde",
     "loras": [
       {
-        "name": "59338"
+        "name": "1076692",
+        "is_version": true,
+        "strength": 0.6
+      },
+      {
+        "name": "375228",
+        "is_version": true,
+        "strength": 0.6
       }
     ],
-    "enhance": true
+    "enhance": false
   },
   "cogpunk": {
     "prompt": "{p}, CogPunkAI{np}",
@@ -2454,16 +2464,6 @@
     "prompt": "beautiful warrior fairy {p}, portrait, up close, cinematic, snowy background, dramatic lighting, highly detailed, very intricate, meta, fanciful, optimistic, wide shot, volumetric lighting, bokeh blur, unreal engine, octane render ### deformed, ugly, mutated, watermark, trademark, border, nude, NSFW{np}",
     "model": "stable_diffusion"
   },
-  "cyberrealistic": {
-    "prompt": "{p}{np}",
-    "model": "CyberRealistic",
-    "tis": [
-      {
-        "name": "77976",
-        "inject_ti": "negprompt"
-      }
-    ]
-  },
   "deliberate": {
     "prompt": "{p}{np}",
     "model": "Deliberate"
@@ -2516,6 +2516,17 @@
     "width": 768,
     "height": 960,
     "steps": 27,
+    "hires_fix": true,
+    "cfg_scale": 7,
+    "enhance": true
+  },
+  "jim eidomode": {
+    "prompt": "{p}, (fantastic horror perfect art, 64k ultra hd:1.1), ({art by apterus|art by dan mumford|art by lovecraft|art by apterus, art by dan mumford|art by apterus, art by lovecraft|art by dan mumford, art by lovecraft|art by apterus, art by dan mumford, art by lovecraft}:1.2), best quality, 500px, cgsociety###{np}, lowres, watermark",
+    "model": "Dan Mumford Style",
+    "sampler_name": "k_dpmpp_2m",
+    "width": 768,
+    "height": 960,
+    "steps": 22,
     "hires_fix": true,
     "cfg_scale": 7,
     "enhance": true
@@ -2725,10 +2736,15 @@
     "model": "MeinaMix",
     "enhance": true
   },
-  "mistoon amethyst": {
+  "mistoon anime": {
+    "prompt": "masterpiece,best quality, {p}##lowres,(bad),error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,unfinished,displeasing,extra digits,artistic error, {np}",
+    "model": "Mistoon Anime"
+  },
+  "perfect world": {
     "prompt": "{p}{np}",
-    "model": "Mistoon Amethyst",
-    "enhance": true
+    "model": "Perfect World",
+    "steps": 50,
+    "cfg_scale": 9
   },
   "galena redux": {
     "prompt": "{p}{np}",
@@ -2873,19 +2889,10 @@
     "model": "Yiffy",
     "enhance": true
   },
-  "seekart": {
-    "prompt": "{p}{np}",
-    "model": "Seek.art MEGA",
-    "enhance": true
-  },
   "rpg portrait": {
     "prompt": "{p}{np}",
     "model": "RPG",
     "enhance": true
-  },
-  "robo": {
-    "prompt": "{p}, nousr robot{np}",
-    "model": "Robo-Diffusion"
   },
   "comic mashup": {
     "prompt": "{p}, charliebo artsyle, holliemengert artstyle, pepelarraz artstyle, andreasrocha artstyle, jamesdaly artstyle{np}",
@@ -2959,10 +2966,6 @@
       }
     ]
   },
-  "vectorartz": {
-    "prompt": "{p}, vectorartz{np}",
-    "model": "vectorartz"
-  },
   "inkpunk": {
     "prompt": "{p}, nvinkpunk{np}",
     "model": "Inkpunk Diffusion",
@@ -2986,11 +2989,6 @@
   "ghibli": {
     "prompt": "{p}, ghibli style{np}",
     "model": "Ghibli Diffusion",
-    "enhance": true
-  },
-  "papercut": {
-    "prompt": "{p}, PaperCut{np}",
-    "model": "Papercut Diffusion",
     "enhance": true
   },
   "dreamlike": {
@@ -3085,21 +3083,9 @@
       }
     ]
   },
-  "space": {
-    "prompt": "{p}, jwst{np}",
-    "model": "JWST Deep Space Diffusion"
-  },
   "dnd": {
     "prompt": "{p}{np}",
     "model": "Dungeons and Diffusion"
-  },
-  "trinart_character_raw": {
-    "prompt": "{p}{np}",
-    "model": "Trinart Characters"
-  },
-  "dnd item": {
-    "prompt": "{p}, dnditem{np}",
-    "model": "DnD Item"
   },
   "modern art": {
     "prompt": "{p}, modernartst{np}",
@@ -3108,10 +3094,6 @@
   "hasdx": {
     "prompt": "{p}{np}",
     "model": "HASDX"
-  },
-  "protogen": {
-    "prompt": "{p}{np}",
-    "model": "ProtoGen"
   },
   "dreamlikesam": {
     "prompt": "{p}, samdoesart{np}",
@@ -3473,6 +3455,30 @@
     "sampler_name": "k_dpmpp_sde",
     "karras": true,
     "clip_skip": 2
+  },
+  "bioluminescent": {
+    "prompt": "{p}, bo-bioluminescent, crystalz ###{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 704,
+    "height": 1024,
+    "loras": [
+      {
+        "name": "793777",
+        "is_version": true,
+        "model": 0.3,
+        "clip": 0.3
+      },
+      {
+        "name": "763697",
+        "is_version": true,
+        "model": 0.3,
+        "clip": 0.3
+      }
+    ]
   },
   "flux-impressionist": {
     "prompt": "{p} . A vibrant impressionist painting with bold brush strokes and rich color contrasts, capturing light and shadow in a dynamic and emotional way.###{np}",
@@ -3882,6 +3888,42 @@
       }
     ]
   },
+  "dreamy portrait": {
+    "prompt": "serene dreamlike vibrant, high saturation portrait of {p}, peaceful dreamy dreamlike pastel###{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 960,
+    "height": 1408,
+    "loras": [
+      {
+        "name": "1547032",
+        "is_version": true,
+        "model": 1.5,
+        "clip": 1.5
+      }
+    ]
+  },
+  "fragoanato zombie": {
+    "prompt": "{p}###{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 960,
+    "height": 1408,
+    "loras": [
+      {
+        "name": "972561",
+        "is_version": true,
+        "model": 0.3,
+        "clip": 0.3
+      }
+    ]
+  },
   "noob-evo": {
     "prompt": "{p}, Masterpiece, best quality, ### {np}, lowres, worst quality, low quality, bad anatomy, bad hands, too many fingers",
     "model": "noobEvo",
@@ -3890,6 +3932,26 @@
     "clip_skip": 2,
     "cfg_scale": 6,
     "width": 768,
+    "height": 1024
+  },
+  "ntr-mix": {
+    "prompt": "{p}, Masterpiece, best quality, ### {np}, lowres, worst quality, low quality",
+    "model": "NTR MIX IL-Noob XL",
+    "steps": 25,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2,
+    "cfg_scale": 6,
+    "width": 1024,
+    "height": 1024
+  },
+  "holymix": {
+    "prompt": "{p}, Masterpiece, best quality, ### {np}, lowres, worst quality, low quality",
+    "model": "HolyMix ILXL",
+    "steps": 25,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2,
+    "cfg_scale": 6,
+    "width": 1024,
     "height": 1024
   },
   "noob-v-pencil": {
@@ -3912,12 +3974,190 @@
     "width": 768,
     "height": 1024
   },
+  "noob-evo_raw": {
+    "prompt": "{p}###{np}",
+    "model": "noobEvo",
+    "steps": 25,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2,
+    "cfg_scale": 6,
+    "width": 896,
+    "height": 1152
+  },
+  "ntr-mix_raw": {
+    "prompt": "{p}###{np}",
+    "model": "NTR MIX IL-Noob XL",
+    "steps": 25,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2,
+    "cfg_scale": 6,
+    "width": 1024,
+    "height": 1024
+  },
+  "holymix_raw": {
+    "prompt": "{p}###{np}",
+    "model": "HolyMix ILXL",
+    "steps": 25,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2,
+    "cfg_scale": 6,
+    "width": 1024,
+    "height": 1024
+  },
+  "noob-v-pencil_raw": {
+    "prompt": "{p}###{np}",
+    "model": "noob_v_pencil XL",
+    "steps": 25,
+    "sampler_name": "k_euler",
+    "clip_skip": 2,
+    "cfg_scale": 5,
+    "width": 896,
+    "height": 1152
+  },
+  "kayneg_raw": {
+    "prompt": "{p}###{np}",
+    "model": "KaynegIllustriousXL",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_2m",
+    "clip_skip": 2,
+    "cfg_scale": 7,
+    "width": 896,
+    "height": 1152
+  },
+  "nova furry pony_raw": {
+    "prompt": "{p}###{np}",
+    "model": "Nova Furry Pony",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_sde",
+    "cfg_scale": 6,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
+  },
+  "nova anime xl_raw": {
+    "prompt": "{p}###{np}",
+    "model": "Nova Anime XL",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_sde",
+    "cfg_scale": 5,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
+  },
+  "white pony diffusion_raw": {
+    "prompt": "{p}###{np}",
+    "model": "White Pony Diffusion 4",
+    "steps": 25,
+    "sampler_name": "k_euler",
+    "cfg_scale": 5,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
+  },
+  "wai-cute-pony_raw": {
+    "prompt": "{p}###{np}",
+    "model": "WAI-CUTE Pony",
+    "steps": 10,
+    "width": 1024,
+    "height": 1024,
+    "sampler_name": "k_dpmpp_2m",
+    "karras": true,
+    "clip_skip": 2
+  },
+  "edge of realism_raw": {
+    "prompt": "{p}###{np}",
+    "model": "Edge Of Realism"
+  },
+  "526mix animated": {
+    "prompt": "{p}{np}",
+    "model": "526Mix-Animated",
+    "width": 640,
+    "height": 832,
+    "hires_fix": true,
+    "steps": 20,
+    "cfg_scale": 9,
+    "enhance": true
+  },
   "natvis": {
     "prompt": "{p}###{np}",
     "model": "NatViS",
     "steps": 28,
     "sampler_name": "k_dpmpp_2m",
     "cfg_scale": 7,
+    "width": 1024,
+    "height": 1024
+  },
+  "hassaku": {
+    "prompt": "{p}###worst quality, bad quality, {np}",
+    "model": "Hassaku XL",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_2m",
+    "cfg_scale": 7,
+    "width": 1024,
+    "height": 1024
+  },
+  "2dn": {
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, {p}###lowres, worst quality, low quality, bad anatomy, bad hands, {np}",
+    "model": "2DN",
+    "steps": 20,
+    "sampler_name": "k_dpmpp_sde",
+    "cfg_scale": 1.5,
+    "clip_skip": 2,
+    "width": 1024,
+    "height": 1024
+  },
+  "zavychromaxl": {
+    "prompt": "{p}###{np}",
+    "model": "ZavyChromaXL",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_2m",
+    "cfg_scale": 6,
+    "clip_skip": 2,
+    "width": 1024,
+    "height": 1024
+  },
+  "albedo3.1": {
+    "prompt": "{p}{np}",
+    "model": "AlbedoBase XL 3.1",
+    "steps": 8,
+    "width": 1024,
+    "height": 1024,
+    "cfg_scale": 2,
+    "sampler_name": "k_dpmpp_sde",
+    "loras": [
+      {
+        "name": "247778",
+        "is_version": true
+      }
+    ]
+  },
+  "papercut": {
+    "prompt": "A papercut image of a {p}, detailed, vibrant colors, detailed background, papercut art ### {np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 1024,
+    "height": 1024
+  },
+  "dnd map": {
+    "prompt": "A dnd map of a {p}, top down view, isometric view, 2d map, top-down map, detailed, no watermark, no text ### {np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 1280,
+    "height": 960
+  },
+  "dnd item": {
+    "prompt": "painterly rendition of a {p}, dnd item, stylized art, resting on a wooden table for presentation, magical aura, best quality, high quality art ### {np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
     "width": 1024,
     "height": 1024
   }

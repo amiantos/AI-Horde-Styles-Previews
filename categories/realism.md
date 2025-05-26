@@ -1,10 +1,5 @@
 # realism
 
-## cyberrealistic
-| person | place | thing |
-| --- | --- | --- |
-| ![cyberrealistic person preview](/images/cyberrealistic_person.webp?raw=true) | ![cyberrealistic place preview](/images/cyberrealistic_place.webp?raw=true) | ![cyberrealistic thing preview](/images/cyberrealistic_thing.webp?raw=true) |
-
 ## juggernaut
 | person | place | thing |
 | --- | --- | --- |
@@ -29,6 +24,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![edge of realism person preview](/images/edge_of_realism_person.webp?raw=true) | ![edge of realism place preview](/images/edge_of_realism_place.webp?raw=true) | ![edge of realism thing preview](/images/edge_of_realism_thing.webp?raw=true) |
+
+## edge of realism_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![edge of realism_raw person preview](/images/edge_of_realism_raw_person.webp?raw=true) | ![edge of realism_raw place preview](/images/edge_of_realism_raw_place.webp?raw=true) | ![edge of realism_raw thing preview](/images/edge_of_realism_raw_thing.webp?raw=true) |
 
 ## realistic vision
 | person | place | thing |

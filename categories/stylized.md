@@ -25,3 +25,8 @@
 | --- | --- | --- |
 | ![rainbow person preview](/images/rainbow_person.webp?raw=true) | ![rainbow place preview](/images/rainbow_place.webp?raw=true) | ![rainbow thing preview](/images/rainbow_thing.webp?raw=true) |
 
+## papercut
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+

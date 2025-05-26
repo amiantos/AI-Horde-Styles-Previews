@@ -1,21 +1,14 @@
 # new
 
-- [album and book art](/categories/album_and_book_art.md)
-
-## flux
+## hassaku
 | person | place | thing |
 | --- | --- | --- |
-| ![flux person preview](/images/flux_person.webp?raw=true) | ![flux place preview](/images/flux_place.webp?raw=true) | ![flux thing preview](/images/flux_thing.webp?raw=true) |
+| ❌ | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ❌ |
 
-## photon
+## 2dn
 | person | place | thing |
 | --- | --- | --- |
-| ![photon person preview](/images/photon_person.webp?raw=true) | ![photon place preview](/images/photon_place.webp?raw=true) | ![photon thing preview](/images/photon_thing.webp?raw=true) |
-
-## unstable diffusers
-| person | place | thing |
-| --- | --- | --- |
-| ![unstable diffusers person preview](/images/unstable_diffusers_person.webp?raw=true) | ![unstable diffusers place preview](/images/unstable_diffusers_place.webp?raw=true) | ![unstable diffusers thing preview](/images/unstable_diffusers_thing.webp?raw=true) |
+| ![2dn person preview](/images/2dn_person.webp?raw=true) | ![2dn place preview](/images/2dn_place.webp?raw=true) | ![2dn thing preview](/images/2dn_thing.webp?raw=true) |
 
 ## noob-evo
 | person | place | thing |
@@ -36,4 +29,14 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![natvis person preview](/images/natvis_person.webp?raw=true) | ![natvis place preview](/images/natvis_place.webp?raw=true) | ![natvis thing preview](/images/natvis_thing.webp?raw=true) |
+
+## zavychromaxl
+| person | place | thing |
+| --- | --- | --- |
+| ![zavychromaxl person preview](/images/zavychromaxl_person.webp?raw=true) | ![zavychromaxl place preview](/images/zavychromaxl_place.webp?raw=true) | ![zavychromaxl thing preview](/images/zavychromaxl_thing.webp?raw=true) |
+
+## mistoon anime
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
 

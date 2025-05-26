@@ -390,6 +390,13 @@ async function generateImages(request) {
       );
       totalKudosCost += check.kudos;
       break;
+    } if (check.is_possible === false) {
+      console.error(
+        generation.id +
+          ": Generation is not possible at this time. Kudos cost: " +
+          check.kudos
+      );
+      break;
     } else {
       console.log(
         generation.id +

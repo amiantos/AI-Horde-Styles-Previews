@@ -53,7 +53,7 @@
 ## holymix
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![holymix place preview](/images/holymix_place.webp?raw=true) | ![holymix thing preview](/images/holymix_thing.webp?raw=true) |
+| ![holymix person preview](/images/holymix_person.webp?raw=true) | ![holymix place preview](/images/holymix_place.webp?raw=true) | ![holymix thing preview](/images/holymix_thing.webp?raw=true) |
 
 ## nova anime xl
 | person | place | thing |

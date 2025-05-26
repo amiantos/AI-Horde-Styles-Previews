@@ -1,5 +1,10 @@
 # anime_raw
 
+## 2dn_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![2dn_raw person preview](/images/2dn_raw_person.webp?raw=true) | ![2dn_raw place preview](/images/2dn_raw_place.webp?raw=true) | ![2dn_raw thing preview](/images/2dn_raw_thing.webp?raw=true) |
+
 ## acertainthing_raw
 | person | place | thing |
 | --- | --- | --- |
@@ -40,6 +45,11 @@
 | --- | --- | --- |
 | ![holymix_raw person preview](/images/holymix_raw_person.webp?raw=true) | ![holymix_raw place preview](/images/holymix_raw_place.webp?raw=true) | ![holymix_raw thing preview](/images/holymix_raw_thing.webp?raw=true) |
 
+## mistoon anime_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![mistoon anime_raw person preview](/images/mistoon_anime_raw_person.webp?raw=true) | ![mistoon anime_raw place preview](/images/mistoon_anime_raw_place.webp?raw=true) | ![mistoon anime_raw thing preview](/images/mistoon_anime_raw_thing.webp?raw=true) |
+
 ## noob-v-pencil_raw
 | person | place | thing |
 | --- | --- | --- |
@@ -48,7 +58,7 @@
 ## nova furry pony_raw
 | person | place | thing |
 | --- | --- | --- |
-| ![nova furry pony_raw person preview](/images/nova_furry_pony_raw_person.webp?raw=true) | ❌ | ![nova furry pony_raw thing preview](/images/nova_furry_pony_raw_thing.webp?raw=true) |
+| ![nova furry pony_raw person preview](/images/nova_furry_pony_raw_person.webp?raw=true) | ![nova furry pony_raw place preview](/images/nova_furry_pony_raw_place.webp?raw=true) | ![nova furry pony_raw thing preview](/images/nova_furry_pony_raw_thing.webp?raw=true) |
 
 ## nova anime xl_raw
 | person | place | thing |

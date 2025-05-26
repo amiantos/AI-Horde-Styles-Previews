@@ -28,5 +28,5 @@
 ## papercut
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![papercut person preview](/images/papercut_person.webp?raw=true) | ![papercut place preview](/images/papercut_place.webp?raw=true) | ![papercut thing preview](/images/papercut_thing.webp?raw=true) |
 

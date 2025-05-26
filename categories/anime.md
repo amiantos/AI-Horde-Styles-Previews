@@ -115,7 +115,7 @@
 ## holymix
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![holymix place preview](/images/holymix_place.webp?raw=true) | ![holymix thing preview](/images/holymix_thing.webp?raw=true) |
+| ![holymix person preview](/images/holymix_person.webp?raw=true) | ![holymix place preview](/images/holymix_place.webp?raw=true) | ![holymix thing preview](/images/holymix_thing.webp?raw=true) |
 
 ## nova anime xl
 | person | place | thing |
@@ -125,10 +125,10 @@
 ## hassaku
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ❌ |
+| ![hassaku person preview](/images/hassaku_person.webp?raw=true) | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ![hassaku thing preview](/images/hassaku_thing.webp?raw=true) |
 
 ## mistoon anime
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![mistoon anime person preview](/images/mistoon_anime_person.webp?raw=true) | ![mistoon anime place preview](/images/mistoon_anime_place.webp?raw=true) | ![mistoon anime thing preview](/images/mistoon_anime_thing.webp?raw=true) |
 

@@ -10,6 +10,11 @@
 | --- | --- | --- |
 | ![2dn person preview](/images/2dn_person.webp?raw=true) | ![2dn place preview](/images/2dn_place.webp?raw=true) | ![2dn thing preview](/images/2dn_thing.webp?raw=true) |
 
+## 2dn_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![2dn_raw person preview](/images/2dn_raw_person.webp?raw=true) | ![2dn_raw place preview](/images/2dn_raw_place.webp?raw=true) | ![2dn_raw thing preview](/images/2dn_raw_thing.webp?raw=true) |
+
 ## 526mix animated
 | person | place | thing |
 | --- | --- | --- |
@@ -193,7 +198,7 @@
 ## bioluminescent
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![bioluminescent person preview](/images/bioluminescent_person.webp?raw=true) | ![bioluminescent place preview](/images/bioluminescent_place.webp?raw=true) | ![bioluminescent thing preview](/images/bioluminescent_thing.webp?raw=true) |
 
 ## biopunk
 | person | place | thing |
@@ -463,12 +468,12 @@
 ## dnd item
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![dnd item person preview](/images/dnd_item_person.webp?raw=true) | ![dnd item place preview](/images/dnd_item_place.webp?raw=true) | ![dnd item thing preview](/images/dnd_item_thing.webp?raw=true) |
 
 ## dnd map
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ❌ | ![dnd map place preview](/images/dnd_map_place.webp?raw=true) | ❌ |
 
 ## dnd5e cover
 | person | place | thing |
@@ -508,7 +513,7 @@
 ## dreamy portrait
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ❌ | ![dreamy portrait place preview](/images/dreamy_portrait_place.webp?raw=true) | ![dreamy portrait thing preview](/images/dreamy_portrait_thing.webp?raw=true) |
 
 ## dublex
 | person | place | thing |
@@ -758,7 +763,7 @@
 ## fragoanato zombie
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![fragoanato zombie person preview](/images/fragoanato_zombie_person.webp?raw=true) | ![fragoanato zombie place preview](/images/fragoanato_zombie_place.webp?raw=true) | ![fragoanato zombie thing preview](/images/fragoanato_zombie_thing.webp?raw=true) |
 
 ## frozen village
 | person | place | thing |
@@ -893,7 +898,7 @@
 ## hassaku
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ❌ |
+| ![hassaku person preview](/images/hassaku_person.webp?raw=true) | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ![hassaku thing preview](/images/hassaku_thing.webp?raw=true) |
 
 ## healys anime
 | person | place | thing |
@@ -923,7 +928,7 @@
 ## holymix
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![holymix place preview](/images/holymix_place.webp?raw=true) | ![holymix thing preview](/images/holymix_thing.webp?raw=true) |
+| ![holymix person preview](/images/holymix_person.webp?raw=true) | ![holymix place preview](/images/holymix_place.webp?raw=true) | ![holymix thing preview](/images/holymix_thing.webp?raw=true) |
 
 ## holymix_raw
 | person | place | thing |
@@ -1123,7 +1128,12 @@
 ## mistoon anime
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![mistoon anime person preview](/images/mistoon_anime_person.webp?raw=true) | ![mistoon anime place preview](/images/mistoon_anime_place.webp?raw=true) | ![mistoon anime thing preview](/images/mistoon_anime_thing.webp?raw=true) |
+
+## mistoon anime_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![mistoon anime_raw person preview](/images/mistoon_anime_raw_person.webp?raw=true) | ![mistoon anime_raw place preview](/images/mistoon_anime_raw_place.webp?raw=true) | ![mistoon anime_raw thing preview](/images/mistoon_anime_raw_thing.webp?raw=true) |
 
 ## modern art
 | person | place | thing |
@@ -1258,7 +1268,7 @@
 ## nova furry pony_raw
 | person | place | thing |
 | --- | --- | --- |
-| ![nova furry pony_raw person preview](/images/nova_furry_pony_raw_person.webp?raw=true) | ❌ | ![nova furry pony_raw thing preview](/images/nova_furry_pony_raw_thing.webp?raw=true) |
+| ![nova furry pony_raw person preview](/images/nova_furry_pony_raw_person.webp?raw=true) | ![nova furry pony_raw place preview](/images/nova_furry_pony_raw_place.webp?raw=true) | ![nova furry pony_raw thing preview](/images/nova_furry_pony_raw_thing.webp?raw=true) |
 
 ## ntr-mix
 | person | place | thing |
@@ -1293,7 +1303,7 @@
 ## papercut
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![papercut person preview](/images/papercut_person.webp?raw=true) | ![papercut place preview](/images/papercut_place.webp?raw=true) | ![papercut thing preview](/images/papercut_thing.webp?raw=true) |
 
 ## parchment
 | person | place | thing |

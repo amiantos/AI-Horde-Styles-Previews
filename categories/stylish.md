@@ -43,17 +43,17 @@
 ## dreamy portrait
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ❌ | ![dreamy portrait place preview](/images/dreamy_portrait_place.webp?raw=true) | ![dreamy portrait thing preview](/images/dreamy_portrait_thing.webp?raw=true) |
 
 ## fragoanato zombie
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![fragoanato zombie person preview](/images/fragoanato_zombie_person.webp?raw=true) | ![fragoanato zombie place preview](/images/fragoanato_zombie_place.webp?raw=true) | ![fragoanato zombie thing preview](/images/fragoanato_zombie_thing.webp?raw=true) |
 
 ## bioluminescent
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![bioluminescent person preview](/images/bioluminescent_person.webp?raw=true) | ![bioluminescent place preview](/images/bioluminescent_place.webp?raw=true) | ![bioluminescent thing preview](/images/bioluminescent_thing.webp?raw=true) |
 
 ## sdxlstreetfashion
 | person | place | thing |

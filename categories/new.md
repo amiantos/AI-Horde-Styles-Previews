@@ -3,7 +3,7 @@
 ## hassaku
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ❌ |
+| ![hassaku person preview](/images/hassaku_person.webp?raw=true) | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ![hassaku thing preview](/images/hassaku_thing.webp?raw=true) |
 
 ## 2dn
 | person | place | thing |
@@ -38,5 +38,5 @@
 ## mistoon anime
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![mistoon anime person preview](/images/mistoon_anime_person.webp?raw=true) | ![mistoon anime place preview](/images/mistoon_anime_place.webp?raw=true) | ![mistoon anime thing preview](/images/mistoon_anime_thing.webp?raw=true) |
 

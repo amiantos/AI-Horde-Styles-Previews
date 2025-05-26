@@ -2738,7 +2738,23 @@
   },
   "mistoon anime": {
     "prompt": "masterpiece,best quality, {p}##lowres,(bad),error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,unfinished,displeasing,extra digits,artistic error, {np}",
-    "model": "Mistoon Anime"
+    "model": "Mistoon Anime",
+    "width": 832,
+    "height": 1216,
+    "steps": 30,
+    "cfg_scale": 5,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2
+  },
+  "mistoon anime_raw": {
+    "prompt": "{p}##{np}",
+    "model": "Mistoon Anime",
+    "width": 832,
+    "height": 1216,
+    "steps": 30,
+    "cfg_scale": 5,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2
   },
   "perfect world": {
     "prompt": "{p}{np}",
@@ -4093,11 +4109,22 @@
     "steps": 25,
     "sampler_name": "k_dpmpp_2m",
     "cfg_scale": 7,
+    "clip_skip": 2,
     "width": 1024,
     "height": 1024
   },
   "2dn": {
     "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, {p}###lowres, worst quality, low quality, bad anatomy, bad hands, {np}",
+    "model": "2DN",
+    "steps": 20,
+    "sampler_name": "k_dpmpp_sde",
+    "cfg_scale": 1.5,
+    "clip_skip": 2,
+    "width": 1024,
+    "height": 1024
+  },
+  "2dn_raw": {
+    "prompt": "{p}###{np}",
     "model": "2DN",
     "steps": 20,
     "sampler_name": "k_dpmpp_sde",

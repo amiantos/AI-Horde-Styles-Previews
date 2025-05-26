@@ -384,17 +384,16 @@ async function generateImages(request) {
 
   while (true) {
     const check = await ai_horde.getImageGenerationCheck(generation.id);
+    
     if (check.done) {
       console.log(
         generation.id + ": Generation complete. Kudos cost: " + check.kudos
       );
       totalKudosCost += check.kudos;
       break;
-    } if (check.is_possible === false) {
+    } else if (!check.done && !check.processing && !check.waiting) {
       console.error(
-        generation.id +
-          ": Generation is not possible at this time. Kudos cost: " +
-          check.kudos
+        generation.id + ": Generation failed?"
       );
       break;
     } else {
@@ -420,7 +419,10 @@ async function generateImages(request) {
     if (result.censored) {
       console.error("Censored image detected! Image discarded...");
     } else if (result.gen_metadata && result.gen_metadata.length > 0) {
-      console.error("Possible error generating image: " + result.gen_metadata);
+      console.error("Possible error generating image: ", JSON.stringify(result.gen_metadata, null, 2));
+      if (result.gen_metadata[0].type == "information") {
+        results.push({ id: result.id, url: result.img });
+      }
     } else {
       results.push({ id: result.id, url: result.img });
     }

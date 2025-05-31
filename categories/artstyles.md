@@ -7,6 +7,11 @@
 | --- | --- | --- |
 | ![neonlines person preview](/images/neonlines_person.webp?raw=true) | ![neonlines place preview](/images/neonlines_place.webp?raw=true) | ![neonlines thing preview](/images/neonlines_thing.webp?raw=true) |
 
+## surreal
+| person | place | thing |
+| --- | --- | --- |
+| ![surreal person preview](/images/surreal_person.webp?raw=true) | ![surreal place preview](/images/surreal_place.webp?raw=true) | ![surreal thing preview](/images/surreal_thing.webp?raw=true) |
+
 ## graffiti
 | person | place | thing |
 | --- | --- | --- |
@@ -86,6 +91,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![schematic person preview](/images/schematic_person.webp?raw=true) | ![schematic place preview](/images/schematic_place.webp?raw=true) | ![schematic thing preview](/images/schematic_thing.webp?raw=true) |
+
+## mosaics
+| person | place | thing |
+| --- | --- | --- |
+| ![mosaics person preview](/images/mosaics_person.webp?raw=true) | ![mosaics place preview](/images/mosaics_place.webp?raw=true) | ❌ |
 
 ## disney
 | person | place | thing |

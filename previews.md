@@ -763,7 +763,7 @@
 ## fragoanato zombie
 | person | place | thing |
 | --- | --- | --- |
-| ![fragoanato zombie person preview](/images/fragoanato_zombie_person.webp?raw=true) | ![fragoanato zombie place preview](/images/fragoanato_zombie_place.webp?raw=true) | ![fragoanato zombie thing preview](/images/fragoanato_zombie_thing.webp?raw=true) |
+| ❌ | ❌ | ❌ |
 
 ## frozen village
 | person | place | thing |
@@ -1159,6 +1159,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![moonmix fantasy person preview](/images/moonmix_fantasy_person.webp?raw=true) | ![moonmix fantasy place preview](/images/moonmix_fantasy_place.webp?raw=true) | ![moonmix fantasy thing preview](/images/moonmix_fantasy_thing.webp?raw=true) |
+
+## mosaics
+| person | place | thing |
+| --- | --- | --- |
+| ![mosaics person preview](/images/mosaics_person.webp?raw=true) | ![mosaics place preview](/images/mosaics_place.webp?raw=true) | ❌ |
 
 ## movieposter
 | person | place | thing |
@@ -1654,6 +1659,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![sunny solstice person preview](/images/sunny_solstice_person.webp?raw=true) | ![sunny solstice place preview](/images/sunny_solstice_place.webp?raw=true) | ![sunny solstice thing preview](/images/sunny_solstice_thing.webp?raw=true) |
+
+## surreal
+| person | place | thing |
+| --- | --- | --- |
+| ![surreal person preview](/images/surreal_person.webp?raw=true) | ![surreal place preview](/images/surreal_place.webp?raw=true) | ![surreal thing preview](/images/surreal_thing.webp?raw=true) |
 
 ## swam pony
 | person | place | thing |

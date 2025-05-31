@@ -2493,6 +2493,11 @@
   "neurogen": {
     "prompt": "{p}{np}",
     "model": "Neurogen",
+    "width": 576,
+    "height": 832,
+    "steps": 20,
+    "hires_fix": true,
+    "cfg_scale": 7,
     "enhance": true
   },
   "illuminati": {
@@ -2770,11 +2775,43 @@
   "dark sushi": {
     "prompt": "{p}{np}",
     "model": "Dark Sushi Mix",
+    "width": 576,
+    "height": 832,
+    "steps": 20,
+    "hires_fix": true,
+    "cfg_scale": 7,
     "enhance": true
   },
   "analog madness": {
     "prompt": "{p}{np}",
     "model": "Analog Madness",
+    "width": 576,
+    "height": 832,
+    "steps": 20,
+    "hires_fix": true,
+    "cfg_scale": 7,
+    "enhance": true
+  },
+  "surreal": {
+    "prompt": "{p}, surreal00d, xs-abstract###{np}",
+    "model": "Analog Madness",
+    "width": 832,
+    "height": 832,
+    "steps": 20,
+    "hires_fix": true,
+    "cfg_scale": 7,
+    "loras": [
+      {
+        "name": "192757",
+        "is_version": true,
+        "model": 0.7
+      },
+      {
+        "name": "222038",
+        "is_version": true,
+        "model": 0.7
+      }
+    ],
     "enhance": true
   },
   "bweshmix": {
@@ -3039,6 +3076,27 @@
       {
         "name": "149101",
         "is_version": false
+      }
+    ]
+  },
+  "mosaics": {
+    "prompt": "{p}, mosaics ###{np}",
+    "model": "AlbedoBase XL 3.1",
+    "width": 1024,
+    "height": 1024,
+    "steps": 8,
+    "cfg_scale": 2,
+    "sampler_name": "k_dpmpp_sde",
+    "loras": [
+      {
+        "name": "247778",
+        "is_version": true
+      },
+      {
+        "name": "1849057",
+        "is_version": true,
+        "model": 0.65,
+        "clip": 1
       }
     ]
   },
@@ -3923,7 +3981,7 @@
     ]
   },
   "fragoanato zombie": {
-    "prompt": "{p}###{np}",
+    "prompt": "{p}, fragoanato###{np}",
     "model": "Flux.1-Schnell fp8 (Compact)",
     "steps": 4,
     "sampler_name": "k_euler",

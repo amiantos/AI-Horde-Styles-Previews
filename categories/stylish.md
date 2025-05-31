@@ -48,7 +48,7 @@
 ## fragoanato zombie
 | person | place | thing |
 | --- | --- | --- |
-| ![fragoanato zombie person preview](/images/fragoanato_zombie_person.webp?raw=true) | ![fragoanato zombie place preview](/images/fragoanato_zombie_place.webp?raw=true) | ![fragoanato zombie thing preview](/images/fragoanato_zombie_thing.webp?raw=true) |
+| ❌ | ❌ | ❌ |
 
 ## bioluminescent
 | person | place | thing |

@@ -43,7 +43,7 @@
 ## dreamy portrait
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![dreamy portrait place preview](/images/dreamy_portrait_place.webp?raw=true) | ![dreamy portrait thing preview](/images/dreamy_portrait_thing.webp?raw=true) |
+| ❌ | ❌ | ❌ |
 
 ## fragoanato zombie
 | person | place | thing |

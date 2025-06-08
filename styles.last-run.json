@@ -2513,6 +2513,11 @@
   "faetastic": {
     "prompt": "{p}{np}",
     "model": "FaeTastic",
+    "width": 576,
+    "height": 832,
+    "steps": 30,
+    "hires_fix": true,
+    "cfg_scale": 10,
     "enhance": true
   },
   "danmumford": {
@@ -2804,12 +2809,12 @@
       {
         "name": "192757",
         "is_version": true,
-        "model": 0.7
+        "model": 0.5
       },
       {
         "name": "222038",
         "is_version": true,
-        "model": 0.7
+        "model": 0.5
       }
     ],
     "enhance": true
@@ -3962,6 +3967,24 @@
       }
     ]
   },
+  "dissolve": {
+    "prompt": "{p} with ral-dissolve effect, ral-dissolve ###{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 1152,
+    "height": 896,
+    "loras": [
+      {
+        "name": "1328593",
+        "is_version": true,
+        "model": 1,
+        "clip": 1
+      }
+    ]
+  },
   "dreamy portrait": {
     "prompt": "serene dreamlike vibrant, high saturation portrait of {p}, peaceful dreamy dreamlike pastel###{np}",
     "model": "Flux.1-Schnell fp8 (Compact)",
@@ -3969,8 +3992,8 @@
     "sampler_name": "k_euler",
     "cfg_scale": 1,
     "karras": false,
-    "width": 960,
-    "height": 1408,
+    "width": 832,
+    "height": 1280,
     "loras": [
       {
         "name": "1547032",
@@ -3995,6 +4018,27 @@
         "is_version": true,
         "model": 0.3,
         "clip": 0.3
+      }
+    ]
+  },
+  "water-sculpture": {
+    "prompt": "{p} made out of water, watce {np}",
+    "model": "Juggernaut XL",
+    "sampler_name": "k_dpmpp_sde",
+    "steps": 8,
+    "width": 1024,
+    "height": 1024,
+    "cfg_scale": 2,
+    "loras": [
+      {
+        "name": "247778",
+        "is_version": true
+      },
+      {
+        "name": "382409",
+        "is_version": true,
+        "model": 0.85,
+        "clip": 1
       }
     ]
   },

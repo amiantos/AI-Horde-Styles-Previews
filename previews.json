@@ -459,6 +459,11 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/disney_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/disney_thing.webp"
   },
+  "dissolve": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dissolve_person.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dissolve_thing.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dissolve_place.webp"
+  },
   "dnd": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_place.webp",
@@ -469,7 +474,9 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_item_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_item_thing.webp"
   },
-  "dnd map": {},
+  "dnd map": {
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_map_place.webp"
+  },
   "dnd5e cover": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd5e_cover_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd5e_cover_place.webp",
@@ -505,7 +512,11 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamshaper_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamshaper_thing.webp"
   },
-  "dreamy portrait": {},
+  "dreamy portrait": {
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamy_portrait_place.webp",
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamy_portrait_person.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dreamy_portrait_thing.webp"
+  },
   "dublex": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dublex_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dublex_place.webp",
@@ -588,8 +599,8 @@
   },
   "faetastic": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/faetastic_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/faetastic_place.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/faetastic_thing.webp"
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/faetastic_thing.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/faetastic_place.webp"
   },
   "fantasy snowstorm": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/fantasy_snowstorm_person.webp",
@@ -751,7 +762,11 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/flux_winter_wonderland_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/flux_winter_wonderland_thing.webp"
   },
-  "fragoanato zombie": {},
+  "fragoanato zombie": {
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/fragoanato_zombie_place.webp",
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/fragoanato_zombie_person.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/fragoanato_zombie_thing.webp"
+  },
   "frozen village": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/frozen_village_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/frozen_village_place.webp",
@@ -1149,7 +1164,8 @@
   },
   "mosaics": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mosaics_person.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mosaics_place.webp"
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mosaics_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/mosaics_thing.webp"
   },
   "movieposter": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/movieposter_person.webp",
@@ -1198,8 +1214,8 @@
   },
   "neurogen": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neurogen_person.webp",
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neurogen_thing.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neurogen_place.webp"
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neurogen_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/neurogen_thing.webp"
   },
   "nightmare": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/nightmare_person.webp",
@@ -1790,6 +1806,11 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/warrior_fairy_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/warrior_fairy_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/warrior_fairy_thing.webp"
+  },
+  "water-sculpture": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/water_sculpture_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/water_sculpture_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/water_sculpture_thing.webp"
   },
   "watercolorscenery": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/watercolorscenery_person.webp",

@@ -460,6 +460,11 @@
 | --- | --- | --- |
 | ![disney person preview](/images/disney_person.webp?raw=true) | ![disney place preview](/images/disney_place.webp?raw=true) | ![disney thing preview](/images/disney_thing.webp?raw=true) |
 
+## dissolve
+| person | place | thing |
+| --- | --- | --- |
+| ![dissolve person preview](/images/dissolve_person.webp?raw=true) | ![dissolve place preview](/images/dissolve_place.webp?raw=true) | ![dissolve thing preview](/images/dissolve_thing.webp?raw=true) |
+
 ## dnd
 | person | place | thing |
 | --- | --- | --- |
@@ -473,7 +478,7 @@
 ## dnd map
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ❌ | ![dnd map place preview](/images/dnd_map_place.webp?raw=true) | ❌ |
 
 ## dnd5e cover
 | person | place | thing |
@@ -513,7 +518,7 @@
 ## dreamy portrait
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![dreamy portrait person preview](/images/dreamy_portrait_person.webp?raw=true) | ![dreamy portrait place preview](/images/dreamy_portrait_place.webp?raw=true) | ![dreamy portrait thing preview](/images/dreamy_portrait_thing.webp?raw=true) |
 
 ## dublex
 | person | place | thing |
@@ -763,7 +768,7 @@
 ## fragoanato zombie
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![fragoanato zombie person preview](/images/fragoanato_zombie_person.webp?raw=true) | ![fragoanato zombie place preview](/images/fragoanato_zombie_place.webp?raw=true) | ![fragoanato zombie thing preview](/images/fragoanato_zombie_thing.webp?raw=true) |
 
 ## frozen village
 | person | place | thing |
@@ -1163,7 +1168,7 @@
 ## mosaics
 | person | place | thing |
 | --- | --- | --- |
-| ![mosaics person preview](/images/mosaics_person.webp?raw=true) | ![mosaics place preview](/images/mosaics_place.webp?raw=true) | ❌ |
+| ![mosaics person preview](/images/mosaics_person.webp?raw=true) | ![mosaics place preview](/images/mosaics_place.webp?raw=true) | ![mosaics thing preview](/images/mosaics_thing.webp?raw=true) |
 
 ## movieposter
 | person | place | thing |
@@ -1804,6 +1809,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![warrior fairy person preview](/images/warrior_fairy_person.webp?raw=true) | ![warrior fairy place preview](/images/warrior_fairy_place.webp?raw=true) | ![warrior fairy thing preview](/images/warrior_fairy_thing.webp?raw=true) |
+
+## water-sculpture
+| person | place | thing |
+| --- | --- | --- |
+| ![water-sculpture person preview](/images/water_sculpture_person.webp?raw=true) | ![water-sculpture place preview](/images/water_sculpture_place.webp?raw=true) | ![water-sculpture thing preview](/images/water_sculpture_thing.webp?raw=true) |
 
 ## watercolorscenery
 | person | place | thing |

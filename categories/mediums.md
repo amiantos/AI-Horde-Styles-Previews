@@ -25,6 +25,11 @@
 | --- | --- | --- |
 | ![embroidery person preview](/images/embroidery_person.webp?raw=true) | ![embroidery place preview](/images/embroidery_place.webp?raw=true) | ![embroidery thing preview](/images/embroidery_thing.webp?raw=true) |
 
+## water-sculpture
+| person | place | thing |
+| --- | --- | --- |
+| ![water-sculpture person preview](/images/water_sculpture_person.webp?raw=true) | ![water-sculpture place preview](/images/water_sculpture_place.webp?raw=true) | ![water-sculpture thing preview](/images/water_sculpture_thing.webp?raw=true) |
+
 ## claymation
 | person | place | thing |
 | --- | --- | --- |
@@ -34,6 +39,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![origami person preview](/images/origami_person.webp?raw=true) | ![origami place preview](/images/origami_place.webp?raw=true) | ![origami thing preview](/images/origami_thing.webp?raw=true) |
+
+## mosaics
+| person | place | thing |
+| --- | --- | --- |
+| ![mosaics person preview](/images/mosaics_person.webp?raw=true) | ![mosaics place preview](/images/mosaics_place.webp?raw=true) | ![mosaics thing preview](/images/mosaics_thing.webp?raw=true) |
+
+## papercut
+| person | place | thing |
+| --- | --- | --- |
+| ![papercut person preview](/images/papercut_person.webp?raw=true) | ![papercut place preview](/images/papercut_place.webp?raw=true) | ![papercut thing preview](/images/papercut_thing.webp?raw=true) |
 
 ## parchment
 | person | place | thing |

@@ -92,11 +92,6 @@
 | --- | --- | --- |
 | ![schematic person preview](/images/schematic_person.webp?raw=true) | ![schematic place preview](/images/schematic_place.webp?raw=true) | ![schematic thing preview](/images/schematic_thing.webp?raw=true) |
 
-## mosaics
-| person | place | thing |
-| --- | --- | --- |
-| ![mosaics person preview](/images/mosaics_person.webp?raw=true) | ![mosaics place preview](/images/mosaics_place.webp?raw=true) | ❌ |
-
 ## disney
 | person | place | thing |
 | --- | --- | --- |
@@ -131,9 +126,4 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![pencil drawing person preview](/images/pencil_drawing_person.webp?raw=true) | ![pencil drawing place preview](/images/pencil_drawing_place.webp?raw=true) | ![pencil drawing thing preview](/images/pencil_drawing_thing.webp?raw=true) |
-
-## papercut
-| person | place | thing |
-| --- | --- | --- |
-| ![papercut person preview](/images/papercut_person.webp?raw=true) | ![papercut place preview](/images/papercut_place.webp?raw=true) | ![papercut thing preview](/images/papercut_thing.webp?raw=true) |
 

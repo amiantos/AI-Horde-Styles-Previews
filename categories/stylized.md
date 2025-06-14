@@ -25,6 +25,11 @@
 | --- | --- | --- |
 | ![rainbow person preview](/images/rainbow_person.webp?raw=true) | ![rainbow place preview](/images/rainbow_place.webp?raw=true) | ![rainbow thing preview](/images/rainbow_thing.webp?raw=true) |
 
+## babes
+| person | place | thing |
+| --- | --- | --- |
+| ![babes person preview](/images/babes_person.webp?raw=true) | ![babes place preview](/images/babes_place.webp?raw=true) | ![babes thing preview](/images/babes_thing.webp?raw=true) |
+
 ## papercut
 | person | place | thing |
 | --- | --- | --- |

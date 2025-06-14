@@ -170,6 +170,11 @@
 | --- | --- | --- |
 | ![atompunk person preview](/images/atompunk_person.webp?raw=true) | ![atompunk place preview](/images/atompunk_place.webp?raw=true) | ![atompunk thing preview](/images/atompunk_thing.webp?raw=true) |
 
+## babes
+| person | place | thing |
+| --- | --- | --- |
+| ![babes person preview](/images/babes_person.webp?raw=true) | ![babes place preview](/images/babes_place.webp?raw=true) | ![babes thing preview](/images/babes_thing.webp?raw=true) |
+
 ## backstage
 | person | place | thing |
 | --- | --- | --- |
@@ -478,7 +483,7 @@
 ## dnd map
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ![dnd map place preview](/images/dnd_map_place.webp?raw=true) | ❌ |
+| ❌ | ![dnd map place preview](/images/dnd_map_place.webp?raw=true) | ![dnd map thing preview](/images/dnd_map_thing.webp?raw=true) |
 
 ## dnd5e cover
 | person | place | thing |

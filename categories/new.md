@@ -1,5 +1,9 @@
 # new
 
+- [illustrious](/categories/illustrious.md)
+- [noobai](/categories/noobai.md)
+- [pony plus](/categories/pony_plus.md)
+
 ## hassaku
 | person | place | thing |
 | --- | --- | --- |

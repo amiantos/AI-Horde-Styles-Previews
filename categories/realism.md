@@ -65,6 +65,11 @@
 | --- | --- | --- |
 | ![swam pony person preview](/images/swam_pony_person.webp?raw=true) | ![swam pony place preview](/images/swam_pony_place.webp?raw=true) | ![swam pony thing preview](/images/swam_pony_thing.webp?raw=true) |
 
+## cyberrealistic pony
+| person | place | thing |
+| --- | --- | --- |
+| ![cyberrealistic pony person preview](/images/cyberrealistic_pony_person.webp?raw=true) | ![cyberrealistic pony place preview](/images/cyberrealistic_pony_place.webp?raw=true) | ![cyberrealistic pony thing preview](/images/cyberrealistic_pony_thing.webp?raw=true) |
+
 ## analog madness
 | person | place | thing |
 | --- | --- | --- |

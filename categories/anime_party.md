@@ -1,5 +1,15 @@
 # anime-party
 
+## mistoon anime
+| person | place | thing |
+| --- | --- | --- |
+| ![mistoon anime person preview](/images/mistoon_anime_person.webp?raw=true) | ![mistoon anime place preview](/images/mistoon_anime_place.webp?raw=true) | ![mistoon anime thing preview](/images/mistoon_anime_thing.webp?raw=true) |
+
+## 2dn
+| person | place | thing |
+| --- | --- | --- |
+| ![2dn person preview](/images/2dn_person.webp?raw=true) | ![2dn place preview](/images/2dn_place.webp?raw=true) | ![2dn thing preview](/images/2dn_thing.webp?raw=true) |
+
 ## aam xl
 | person | place | thing |
 | --- | --- | --- |

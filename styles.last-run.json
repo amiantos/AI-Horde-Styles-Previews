@@ -1050,25 +1050,6 @@
     ],
     "cfg_scale": 2
   },
-  "sd3": {
-    "prompt": "sd3grl, girl lying on grass ({p}:0.000000001)### nsfw{np}",
-    "model": "Juggernaut XL",
-    "sampler_name": "k_dpmpp_sde",
-    "steps": 8,
-    "width": 1024,
-    "height": 1024,
-    "cfg_scale": 2,
-    "loras": [
-      {
-        "name": "569523",
-        "is_version": true
-      },
-      {
-        "name": "247778",
-        "is_version": true
-      }
-    ]
-  },
   "sdxlhorror": {
     "prompt": "nightmare horror trypophobia odontophobia thalassophobia disgusting nasty ugly bloody terror, {p}###{np}, attractive, sexy",
     "model": "AlbedoBase XL (SDXL)",
@@ -3720,6 +3701,16 @@
     "width": 1024,
     "height": 1024
   },
+  "cyberrealistic pony": {
+    "prompt": "score_9, score_8_up, {p}###{np}",
+    "model": "CyberRealistic Pony",
+    "steps": 20,
+    "sampler_name": "k_euler_a",
+    "clip_skip": 2,
+    "cfg_scale": 5,
+    "width": 896,
+    "height": 1152
+  },
   "mhxl-aventis horizon": {
     "prompt": "{p}###{np}",
     "model": "MHXL - Aventis Horizon",
@@ -3978,6 +3969,66 @@
       }
     ]
   },
+  "art deco poster": {
+    "prompt": "artdcoCE_style Highly detailed intricate Art Deco poster design {p}, Art Deco linework, Art Deco border, clean lines, symmetrical layout, geometric forms, flat design, dramatic contrast###{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 832,
+    "height": 1280,
+    "loras": [
+      {
+        "name": "1119342",
+        "is_version": true,
+        "model": 0.5,
+        "clip": 1
+      },
+      {
+        "name": "11155829",
+        "is_version": true,
+        "model": 0.5,
+        "clip": 0.75
+      }
+    ]
+  },
+  "glow flow or dissolve party mix": {
+    "prompt": "{p}, bo-bioluminescent, {ral-watce|ral-dissolve| ral-watce, ral-dissolve} ###{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 1152,
+    "height": 896,
+    "loras": [
+      {
+        "name": "793777",
+        "is_version": true,
+        "model": 0.8,
+        "clip": 1
+      },
+      {
+        "name": "890720",
+        "is_version": true,
+        "model": 0.65,
+        "clip": 1
+      },
+      {
+        "name": "1328593",
+        "is_version": true,
+        "model": 0.65,
+        "clip": 1
+      },
+      {
+        "name": "720252",
+        "is_version": true,
+        "model": 1,
+        "clip": 1
+      }
+    ]
+  },
   "dissolve": {
     "prompt": "{p} with ral-dissolve effect, ral-dissolve ###{np}",
     "model": "Flux.1-Schnell fp8 (Compact)",
@@ -3990,6 +4041,42 @@
     "loras": [
       {
         "name": "1328593",
+        "is_version": true,
+        "model": 1,
+        "clip": 1
+      }
+    ]
+  },
+  "faetastic (flux)": {
+    "prompt": "{p}{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 1024,
+    "height": 1024,
+    "loras": [
+      {
+        "name": "720252",
+        "is_version": true,
+        "model": 1,
+        "clip": 1
+      }
+    ]
+  },
+  "microworlds (flux)": {
+    "prompt": "microworldlora, {p}###{np}",
+    "model": "Flux.1-Schnell fp8 (Compact)",
+    "steps": 4,
+    "sampler_name": "k_euler",
+    "cfg_scale": 1,
+    "karras": false,
+    "width": 1024,
+    "height": 1024,
+    "loras": [
+      {
+        "name": "1044411",
         "is_version": true,
         "model": 1,
         "clip": 1
@@ -4163,6 +4250,28 @@
     "height": 1024,
     "clip_skip": 2
   },
+  "bb95 furry": {
+    "prompt": "anthro,{p}###{np}, worst quality, low quality, signature, text, nsfw, nude, naked",
+    "model": "BB95 Furry Mix",
+    "steps": 25,
+    "sampler_name": "k_euler_a",
+    "cfg_scale": 4.5,
+    "width": 640,
+    "height": 960,
+    "clip_skip": 1,
+    "hires_fix": true
+  },
+  "bb95 furry v14": {
+    "prompt": "anthro,{p}###{np}, worst quality, low quality, signature, text, nsfw, nude, naked",
+    "model": "BB95 Furry Mix v14",
+    "steps": 25,
+    "sampler_name": "k_euler_a",
+    "cfg_scale": 4.5,
+    "width": 640,
+    "height": 960,
+    "clip_skip": 1,
+    "hires_fix": true
+  },
   "nova anime xl_raw": {
     "prompt": "{p}###{np}",
     "model": "Nova Anime XL",
@@ -4300,5 +4409,51 @@
     "karras": false,
     "width": 1024,
     "height": 1024
+  },
+  "midnight party temp": {
+    "prompt": "object head, CRT monitor face, screen face, {p}###{np}",
+    "model": "Nova Anime XL",
+    "steps": 25,
+    "sampler_name": "k_dpmpp_sde",
+    "cfg_scale": 5,
+    "width": 1024,
+    "height": 1024,
+    "clip_skip": 2
+  },
+  "shinnasuka neco-arc": {
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, scenery, good eyes, noccen, animal ears, :3, chibi, cat tail, animal ear fluff, slit pupils, {p}, depth of field, volumetric lighting ### old, older, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), sketch, jpeg artifacts, signature, watermark, username, signature, simple background, conjoined,bad ai-generated, bad eyes, unprompted nsfw, {np}",
+    "model": "Nova Anime XL",
+    "steps": 30,
+    "cfg_scale": 6,
+    "sampler_name": "k_euler_a",
+    "height": 1024,
+    "width": 704,
+    "clip_skip": 2,
+    "loras": [
+      {
+        "name": "1313742",
+        "model": 2,
+        "clip": 2,
+        "is_version": true
+      }
+    ]
+  },
+  "shinnasuka super robot": {
+    "prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, scenery, mecha, {p}, depth of field, volumetric lighting ### old, older, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), sketch, jpeg artifacts, signature, watermark, username, signature, simple background, conjoined, bad ai-generated, unprompted nsfw, {np}",
+    "model": "Nova Anime XL",
+    "steps": 30,
+    "cfg_scale": 6,
+    "sampler_name": "k_euler_a",
+    "height": 1024,
+    "width": 704,
+    "clip_skip": 2,
+    "loras": [
+      {
+        "name": "986237",
+        "model": 0.8,
+        "clip": 1,
+        "is_version": true
+      }
+    ]
   }
 }

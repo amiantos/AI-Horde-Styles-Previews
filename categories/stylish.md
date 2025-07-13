@@ -60,6 +60,21 @@
 | --- | --- | --- |
 | ![dissolve person preview](/images/dissolve_person.webp?raw=true) | ![dissolve place preview](/images/dissolve_place.webp?raw=true) | ![dissolve thing preview](/images/dissolve_thing.webp?raw=true) |
 
+## faetastic (flux)
+| person | place | thing |
+| --- | --- | --- |
+| ![faetastic (flux) person preview](/images/faetastic__flux__person.webp?raw=true) | ![faetastic (flux) place preview](/images/faetastic__flux__place.webp?raw=true) | ![faetastic (flux) thing preview](/images/faetastic__flux__thing.webp?raw=true) |
+
+## microworlds (flux)
+| person | place | thing |
+| --- | --- | --- |
+| ![microworlds (flux) person preview](/images/microworlds__flux__person.webp?raw=true) | ![microworlds (flux) place preview](/images/microworlds__flux__place.webp?raw=true) | ![microworlds (flux) thing preview](/images/microworlds__flux__thing.webp?raw=true) |
+
+## glow flow or dissolve party mix
+| person | place | thing |
+| --- | --- | --- |
+| ![glow flow or dissolve party mix person preview](/images/glow_flow_or_dissolve_party_mix_person.webp?raw=true) | ![glow flow or dissolve party mix place preview](/images/glow_flow_or_dissolve_party_mix_place.webp?raw=true) | ![glow flow or dissolve party mix thing preview](/images/glow_flow_or_dissolve_party_mix_thing.webp?raw=true) |
+
 ## sdxlstreetfashion
 | person | place | thing |
 | --- | --- | --- |

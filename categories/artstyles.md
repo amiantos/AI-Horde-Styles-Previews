@@ -2,6 +2,11 @@
 
 - [animation](/categories/animation.md)
 
+## art deco poster
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+
 ## neonlines
 | person | place | thing |
 | --- | --- | --- |

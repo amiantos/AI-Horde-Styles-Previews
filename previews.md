@@ -160,6 +160,11 @@
 | --- | --- | --- |
 | ![arielphorror person preview](/images/arielphorror_person.webp?raw=true) | ![arielphorror place preview](/images/arielphorror_place.webp?raw=true) | ![arielphorror thing preview](/images/arielphorror_thing.webp?raw=true) |
 
+## art deco poster
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
+
 ## artistic birthday
 | person | place | thing |
 | --- | --- | --- |
@@ -189,6 +194,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![baseballcard person preview](/images/baseballcard_person.webp?raw=true) | ![baseballcard place preview](/images/baseballcard_place.webp?raw=true) | ![baseballcard thing preview](/images/baseballcard_thing.webp?raw=true) |
+
+## bb95 furry
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ![bb95 furry place preview](/images/bb95_furry_place.webp?raw=true) | ![bb95 furry thing preview](/images/bb95_furry_thing.webp?raw=true) |
+
+## bb95 furry v14
+| person | place | thing |
+| --- | --- | --- |
+| ![bb95 furry v14 person preview](/images/bb95_furry_v14_person.webp?raw=true) | ❌ | ![bb95 furry v14 thing preview](/images/bb95_furry_v14_thing.webp?raw=true) |
 
 ## bd-ai
 | person | place | thing |
@@ -415,6 +430,11 @@
 | --- | --- | --- |
 | ![culdesac person preview](/images/culdesac_person.webp?raw=true) | ![culdesac place preview](/images/culdesac_place.webp?raw=true) | ![culdesac thing preview](/images/culdesac_thing.webp?raw=true) |
 
+## cyberrealistic pony
+| person | place | thing |
+| --- | --- | --- |
+| ![cyberrealistic pony person preview](/images/cyberrealistic_pony_person.webp?raw=true) | ![cyberrealistic pony place preview](/images/cyberrealistic_pony_place.webp?raw=true) | ![cyberrealistic pony thing preview](/images/cyberrealistic_pony_thing.webp?raw=true) |
+
 ## cyborgpunkportrait
 | person | place | thing |
 | --- | --- | --- |
@@ -609,6 +629,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![faetastic person preview](/images/faetastic_person.webp?raw=true) | ![faetastic place preview](/images/faetastic_place.webp?raw=true) | ![faetastic thing preview](/images/faetastic_thing.webp?raw=true) |
+
+## faetastic (flux)
+| person | place | thing |
+| --- | --- | --- |
+| ![faetastic (flux) person preview](/images/faetastic__flux__person.webp?raw=true) | ![faetastic (flux) place preview](/images/faetastic__flux__place.webp?raw=true) | ![faetastic (flux) thing preview](/images/faetastic__flux__thing.webp?raw=true) |
 
 ## fantasy snowstorm
 | person | place | thing |
@@ -844,6 +869,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![glitchart person preview](/images/glitchart_person.webp?raw=true) | ![glitchart place preview](/images/glitchart_place.webp?raw=true) | ![glitchart thing preview](/images/glitchart_thing.webp?raw=true) |
+
+## glow flow or dissolve party mix
+| person | place | thing |
+| --- | --- | --- |
+| ![glow flow or dissolve party mix person preview](/images/glow_flow_or_dissolve_party_mix_person.webp?raw=true) | ![glow flow or dissolve party mix place preview](/images/glow_flow_or_dissolve_party_mix_place.webp?raw=true) | ![glow flow or dissolve party mix thing preview](/images/glow_flow_or_dissolve_party_mix_thing.webp?raw=true) |
 
 ## golden light
 | person | place | thing |
@@ -1134,6 +1164,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![microworlds person preview](/images/microworlds_person.webp?raw=true) | ![microworlds place preview](/images/microworlds_place.webp?raw=true) | ![microworlds thing preview](/images/microworlds_thing.webp?raw=true) |
+
+## microworlds (flux)
+| person | place | thing |
+| --- | --- | --- |
+| ![microworlds (flux) person preview](/images/microworlds__flux__person.webp?raw=true) | ![microworlds (flux) place preview](/images/microworlds__flux__place.webp?raw=true) | ![microworlds (flux) thing preview](/images/microworlds__flux__thing.webp?raw=true) |
+
+## midnight party temp
+| person | place | thing |
+| --- | --- | --- |
+| ![midnight party temp person preview](/images/midnight_party_temp_person.webp?raw=true) | ![midnight party temp place preview](/images/midnight_party_temp_place.webp?raw=true) | ![midnight party temp thing preview](/images/midnight_party_temp_thing.webp?raw=true) |
 
 ## mistoon anime
 | person | place | thing |
@@ -1515,11 +1555,6 @@
 | --- | --- | --- |
 | ![sci-fi person preview](/images/sci_fi_person.webp?raw=true) | ![sci-fi place preview](/images/sci_fi_place.webp?raw=true) | ![sci-fi thing preview](/images/sci_fi_thing.webp?raw=true) |
 
-## sd3
-| person | place | thing |
-| --- | --- | --- |
-| ![sd3 person preview](/images/sd3_person.webp?raw=true) | ![sd3 place preview](/images/sd3_place.webp?raw=true) | ![sd3 thing preview](/images/sd3_thing.webp?raw=true) |
-
 ## sdxl
 | person | place | thing |
 | --- | --- | --- |
@@ -1594,6 +1629,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![sdxlstreetfashion person preview](/images/sdxlstreetfashion_person.webp?raw=true) | ![sdxlstreetfashion place preview](/images/sdxlstreetfashion_place.webp?raw=true) | ![sdxlstreetfashion thing preview](/images/sdxlstreetfashion_thing.webp?raw=true) |
+
+## shinnasuka neco-arc
+| person | place | thing |
+| --- | --- | --- |
+| ![shinnasuka neco-arc person preview](/images/shinnasuka_neco_arc_person.webp?raw=true) | ![shinnasuka neco-arc place preview](/images/shinnasuka_neco_arc_place.webp?raw=true) | ![shinnasuka neco-arc thing preview](/images/shinnasuka_neco_arc_thing.webp?raw=true) |
+
+## shinnasuka super robot
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
 
 ## snowing
 | person | place | thing |

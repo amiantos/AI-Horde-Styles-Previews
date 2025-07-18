@@ -285,6 +285,11 @@
 | --- | --- | --- |
 | ![caricature illustration person preview](/images/caricature_illustration_person.webp?raw=true) | ![caricature illustration place preview](/images/caricature_illustration_place.webp?raw=true) | ![caricature illustration thing preview](/images/caricature_illustration_thing.webp?raw=true) |
 
+## carnageization
+| person | place | thing |
+| --- | --- | --- |
+| ![carnageization person preview](/images/carnageization_person.webp?raw=true) | ![carnageization place preview](/images/carnageization_place.webp?raw=true) | ![carnageization thing preview](/images/carnageization_thing.webp?raw=true) |
+
 ## cascade
 | person | place | thing |
 | --- | --- | --- |
@@ -869,11 +874,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![glitchart person preview](/images/glitchart_person.webp?raw=true) | ![glitchart place preview](/images/glitchart_place.webp?raw=true) | ![glitchart thing preview](/images/glitchart_thing.webp?raw=true) |
-
-## glow flow or dissolve party mix
-| person | place | thing |
-| --- | --- | --- |
-| ![glow flow or dissolve party mix person preview](/images/glow_flow_or_dissolve_party_mix_person.webp?raw=true) | ![glow flow or dissolve party mix place preview](/images/glow_flow_or_dissolve_party_mix_place.webp?raw=true) | ![glow flow or dissolve party mix thing preview](/images/glow_flow_or_dissolve_party_mix_thing.webp?raw=true) |
 
 ## golden light
 | person | place | thing |
@@ -1789,6 +1789,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![vector illustration person preview](/images/vector_illustration_person.webp?raw=true) | ![vector illustration place preview](/images/vector_illustration_place.webp?raw=true) | ![vector illustration thing preview](/images/vector_illustration_thing.webp?raw=true) |
+
+## venomization
+| person | place | thing |
+| --- | --- | --- |
+| ![venomization person preview](/images/venomization_person.webp?raw=true) | ![venomization place preview](/images/venomization_place.webp?raw=true) | ![venomization thing preview](/images/venomization_thing.webp?raw=true) |
 
 ## verdant solstice
 | person | place | thing |

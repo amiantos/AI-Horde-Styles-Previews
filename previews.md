@@ -203,7 +203,7 @@
 ## bb95 furry v14
 | person | place | thing |
 | --- | --- | --- |
-| ![bb95 furry v14 person preview](/images/bb95_furry_v14_person.webp?raw=true) | ❌ | ![bb95 furry v14 thing preview](/images/bb95_furry_v14_thing.webp?raw=true) |
+| ❌ | ❌ | ![bb95 furry v14 thing preview](/images/bb95_furry_v14_thing.webp?raw=true) |
 
 ## bd-ai
 | person | place | thing |
@@ -214,6 +214,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![bdcolordd person preview](/images/bdcolordd_person.webp?raw=true) | ![bdcolordd place preview](/images/bdcolordd_place.webp?raw=true) | ![bdcolordd thing preview](/images/bdcolordd_thing.webp?raw=true) |
+
+## bigasp
+| person | place | thing |
+| --- | --- | --- |
+| ![bigasp person preview](/images/bigasp_person.webp?raw=true) | ![bigasp place preview](/images/bigasp_place.webp?raw=true) | ![bigasp thing preview](/images/bigasp_thing.webp?raw=true) |
 
 ## bioluminescent
 | person | place | thing |
@@ -284,11 +289,6 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![caricature illustration person preview](/images/caricature_illustration_person.webp?raw=true) | ![caricature illustration place preview](/images/caricature_illustration_place.webp?raw=true) | ![caricature illustration thing preview](/images/caricature_illustration_thing.webp?raw=true) |
-
-## carnageization
-| person | place | thing |
-| --- | --- | --- |
-| ![carnageization person preview](/images/carnageization_person.webp?raw=true) | ![carnageization place preview](/images/carnageization_place.webp?raw=true) | ![carnageization thing preview](/images/carnageization_thing.webp?raw=true) |
 
 ## cascade
 | person | place | thing |
@@ -865,6 +865,11 @@
 | --- | --- | --- |
 | ![ghibli solstice person preview](/images/ghibli_solstice_person.webp?raw=true) | ![ghibli solstice place preview](/images/ghibli_solstice_place.webp?raw=true) | ![ghibli solstice thing preview](/images/ghibli_solstice_thing.webp?raw=true) |
 
+## glass pony
+| person | place | thing |
+| --- | --- | --- |
+| ![glass pony person preview](/images/glass_pony_person.webp?raw=true) | ![glass pony place preview](/images/glass_pony_place.webp?raw=true) | ![glass pony thing preview](/images/glass_pony_thing.webp?raw=true) |
+
 ## glitch horror
 | person | place | thing |
 | --- | --- | --- |
@@ -1265,6 +1270,16 @@
 | --- | --- | --- |
 | ![neurogen person preview](/images/neurogen_person.webp?raw=true) | ![neurogen place preview](/images/neurogen_place.webp?raw=true) | ![neurogen thing preview](/images/neurogen_thing.webp?raw=true) |
 
+## new era
+| person | place | thing |
+| --- | --- | --- |
+| ![new era person preview](/images/new_era_person.webp?raw=true) | ![new era place preview](/images/new_era_place.webp?raw=true) | ![new era thing preview](/images/new_era_thing.webp?raw=true) |
+
+## new era_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![new era_raw person preview](/images/new_era_raw_person.webp?raw=true) | ![new era_raw place preview](/images/new_era_raw_place.webp?raw=true) | ![new era_raw thing preview](/images/new_era_raw_thing.webp?raw=true) |
+
 ## nightmare
 | person | place | thing |
 | --- | --- | --- |
@@ -1364,6 +1379,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![parchment person preview](/images/parchment_person.webp?raw=true) | ![parchment place preview](/images/parchment_place.webp?raw=true) | ![parchment thing preview](/images/parchment_thing.webp?raw=true) |
+
+## pastel ilxl
+| person | place | thing |
+| --- | --- | --- |
+| ❌ | ❌ | ❌ |
 
 ## pencil drawing
 | person | place | thing |
@@ -1630,16 +1650,6 @@
 | --- | --- | --- |
 | ![sdxlstreetfashion person preview](/images/sdxlstreetfashion_person.webp?raw=true) | ![sdxlstreetfashion place preview](/images/sdxlstreetfashion_place.webp?raw=true) | ![sdxlstreetfashion thing preview](/images/sdxlstreetfashion_thing.webp?raw=true) |
 
-## shinnasuka neco-arc
-| person | place | thing |
-| --- | --- | --- |
-| ![shinnasuka neco-arc person preview](/images/shinnasuka_neco_arc_person.webp?raw=true) | ![shinnasuka neco-arc place preview](/images/shinnasuka_neco_arc_place.webp?raw=true) | ![shinnasuka neco-arc thing preview](/images/shinnasuka_neco_arc_thing.webp?raw=true) |
-
-## shinnasuka super robot
-| person | place | thing |
-| --- | --- | --- |
-| ❌ | ❌ | ❌ |
-
 ## snowing
 | person | place | thing |
 | --- | --- | --- |
@@ -1790,11 +1800,6 @@
 | --- | --- | --- |
 | ![vector illustration person preview](/images/vector_illustration_person.webp?raw=true) | ![vector illustration place preview](/images/vector_illustration_place.webp?raw=true) | ![vector illustration thing preview](/images/vector_illustration_thing.webp?raw=true) |
 
-## venomization
-| person | place | thing |
-| --- | --- | --- |
-| ![venomization person preview](/images/venomization_person.webp?raw=true) | ![venomization place preview](/images/venomization_place.webp?raw=true) | ![venomization thing preview](/images/venomization_thing.webp?raw=true) |
-
 ## verdant solstice
 | person | place | thing |
 | --- | --- | --- |
@@ -1849,6 +1854,16 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![wai-cute-pony_raw person preview](/images/wai_cute_pony_raw_person.webp?raw=true) | ![wai-cute-pony_raw place preview](/images/wai_cute_pony_raw_place.webp?raw=true) | ![wai-cute-pony_raw thing preview](/images/wai_cute_pony_raw_thing.webp?raw=true) |
+
+## wai-nsfw-illustrious
+| person | place | thing |
+| --- | --- | --- |
+| ![wai-nsfw-illustrious person preview](/images/wai_nsfw_illustrious_person.webp?raw=true) | ![wai-nsfw-illustrious place preview](/images/wai_nsfw_illustrious_place.webp?raw=true) | ![wai-nsfw-illustrious thing preview](/images/wai_nsfw_illustrious_thing.webp?raw=true) |
+
+## wai-nsfw-illustrious_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![wai-nsfw-illustrious_raw person preview](/images/wai_nsfw_illustrious_raw_person.webp?raw=true) | ![wai-nsfw-illustrious_raw place preview](/images/wai_nsfw_illustrious_raw_place.webp?raw=true) | ![wai-nsfw-illustrious_raw thing preview](/images/wai_nsfw_illustrious_raw_thing.webp?raw=true) |
 
 ## waifu
 | person | place | thing |

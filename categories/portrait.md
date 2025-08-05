@@ -45,3 +45,8 @@
 | --- | --- | --- |
 | ![natvis person preview](/images/natvis_person.webp?raw=true) | ![natvis place preview](/images/natvis_place.webp?raw=true) | ![natvis thing preview](/images/natvis_thing.webp?raw=true) |
 
+## bigasp
+| person | place | thing |
+| --- | --- | --- |
+| ![bigasp person preview](/images/bigasp_person.webp?raw=true) | ![bigasp place preview](/images/bigasp_place.webp?raw=true) | ![bigasp thing preview](/images/bigasp_thing.webp?raw=true) |
+

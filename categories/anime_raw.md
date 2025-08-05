@@ -85,3 +85,13 @@
 | --- | --- | --- |
 | ![healys anime person preview](/images/healys_anime_person.webp?raw=true) | ![healys anime place preview](/images/healys_anime_place.webp?raw=true) | ![healys anime thing preview](/images/healys_anime_thing.webp?raw=true) |
 
+## new era_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![new era_raw person preview](/images/new_era_raw_person.webp?raw=true) | ![new era_raw place preview](/images/new_era_raw_place.webp?raw=true) | ![new era_raw thing preview](/images/new_era_raw_thing.webp?raw=true) |
+
+## wai-nsfw-illustrious_raw
+| person | place | thing |
+| --- | --- | --- |
+| ![wai-nsfw-illustrious_raw person preview](/images/wai_nsfw_illustrious_raw_person.webp?raw=true) | ![wai-nsfw-illustrious_raw place preview](/images/wai_nsfw_illustrious_raw_place.webp?raw=true) | ![wai-nsfw-illustrious_raw thing preview](/images/wai_nsfw_illustrious_raw_thing.webp?raw=true) |
+

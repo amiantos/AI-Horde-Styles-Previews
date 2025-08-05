@@ -95,3 +95,8 @@
 | --- | --- | --- |
 | ![white pony diffusion person preview](/images/white_pony_diffusion_person.webp?raw=true) | ![white pony diffusion place preview](/images/white_pony_diffusion_place.webp?raw=true) | ![white pony diffusion thing preview](/images/white_pony_diffusion_thing.webp?raw=true) |
 
+## bigasp
+| person | place | thing |
+| --- | --- | --- |
+| ![bigasp person preview](/images/bigasp_person.webp?raw=true) | ![bigasp place preview](/images/bigasp_place.webp?raw=true) | ![bigasp thing preview](/images/bigasp_thing.webp?raw=true) |
+

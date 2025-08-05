@@ -20,3 +20,8 @@
 | --- | --- | --- |
 | ![nova anime xl person preview](/images/nova_anime_xl_person.webp?raw=true) | ![nova anime xl place preview](/images/nova_anime_xl_place.webp?raw=true) | ![nova anime xl thing preview](/images/nova_anime_xl_thing.webp?raw=true) |
 
+## wai-nsfw-illustrious
+| person | place | thing |
+| --- | --- | --- |
+| ![wai-nsfw-illustrious person preview](/images/wai_nsfw_illustrious_person.webp?raw=true) | ![wai-nsfw-illustrious place preview](/images/wai_nsfw_illustrious_place.webp?raw=true) | ![wai-nsfw-illustrious thing preview](/images/wai_nsfw_illustrious_thing.webp?raw=true) |
+

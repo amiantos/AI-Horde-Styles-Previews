@@ -4,35 +4,20 @@
 - [noobai](/categories/noobai.md)
 - [pony plus](/categories/pony_plus.md)
 
-## hassaku
+## bigasp
 | person | place | thing |
 | --- | --- | --- |
-| ![hassaku person preview](/images/hassaku_person.webp?raw=true) | ![hassaku place preview](/images/hassaku_place.webp?raw=true) | ![hassaku thing preview](/images/hassaku_thing.webp?raw=true) |
+| ![bigasp person preview](/images/bigasp_person.webp?raw=true) | ![bigasp place preview](/images/bigasp_place.webp?raw=true) | ![bigasp thing preview](/images/bigasp_thing.webp?raw=true) |
 
-## 2dn
+## new era
 | person | place | thing |
 | --- | --- | --- |
-| ![2dn person preview](/images/2dn_person.webp?raw=true) | ![2dn place preview](/images/2dn_place.webp?raw=true) | ![2dn thing preview](/images/2dn_thing.webp?raw=true) |
+| ![new era person preview](/images/new_era_person.webp?raw=true) | ![new era place preview](/images/new_era_place.webp?raw=true) | ![new era thing preview](/images/new_era_thing.webp?raw=true) |
 
-## noob-evo
+## wai-nsfw-illustrious
 | person | place | thing |
 | --- | --- | --- |
-| ![noob-evo person preview](/images/noob_evo_person.webp?raw=true) | ![noob-evo place preview](/images/noob_evo_place.webp?raw=true) | ![noob-evo thing preview](/images/noob_evo_thing.webp?raw=true) |
-
-## noob-v-pencil
-| person | place | thing |
-| --- | --- | --- |
-| ![noob-v-pencil person preview](/images/noob_v_pencil_person.webp?raw=true) | ![noob-v-pencil place preview](/images/noob_v_pencil_place.webp?raw=true) | ![noob-v-pencil thing preview](/images/noob_v_pencil_thing.webp?raw=true) |
-
-## kayneg
-| person | place | thing |
-| --- | --- | --- |
-| ![kayneg person preview](/images/kayneg_person.webp?raw=true) | ![kayneg place preview](/images/kayneg_place.webp?raw=true) | ![kayneg thing preview](/images/kayneg_thing.webp?raw=true) |
-
-## natvis
-| person | place | thing |
-| --- | --- | --- |
-| ![natvis person preview](/images/natvis_person.webp?raw=true) | ![natvis place preview](/images/natvis_place.webp?raw=true) | ![natvis thing preview](/images/natvis_thing.webp?raw=true) |
+| ![wai-nsfw-illustrious person preview](/images/wai_nsfw_illustrious_person.webp?raw=true) | ![wai-nsfw-illustrious place preview](/images/wai_nsfw_illustrious_place.webp?raw=true) | ![wai-nsfw-illustrious thing preview](/images/wai_nsfw_illustrious_thing.webp?raw=true) |
 
 ## zavychromaxl
 | person | place | thing |

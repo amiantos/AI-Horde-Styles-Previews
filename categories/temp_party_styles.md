@@ -1,5 +1,10 @@
 # temp party styles
 
+## glow flow or dissolve party mix
+| person | place | thing |
+| --- | --- | --- |
+| ![glow flow or dissolve party mix person preview](/images/glow_flow_or_dissolve_party_mix_person.webp?raw=true) | ![glow flow or dissolve party mix place preview](/images/glow_flow_or_dissolve_party_mix_place.webp?raw=true) | ![glow flow or dissolve party mix thing preview](/images/glow_flow_or_dissolve_party_mix_thing.webp?raw=true) |
+
 ## midnight party temp
 | person | place | thing |
 | --- | --- | --- |

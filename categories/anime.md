@@ -1,7 +1,5 @@
 # anime
 
-- [pony](/categories/pony.md)
-
 ## acertainthing
 | person | place | thing |
 | --- | --- | --- |
@@ -81,6 +79,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![am pony person preview](/images/am_pony_person.webp?raw=true) | ![am pony place preview](/images/am_pony_place.webp?raw=true) | ![am pony thing preview](/images/am_pony_thing.webp?raw=true) |
+
+## pony
+| person | place | thing |
+| --- | --- | --- |
+| ![pony person preview](/images/pony_person.webp?raw=true) | ![pony place preview](/images/pony_place.webp?raw=true) | ![pony thing preview](/images/pony_thing.webp?raw=true) |
 
 ## animagine
 | person | place | thing |

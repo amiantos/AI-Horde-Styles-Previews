@@ -508,7 +508,7 @@
 ## dnd map
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ❌ | ![dnd map place preview](/images/dnd_map_place.webp?raw=true) | ![dnd map thing preview](/images/dnd_map_thing.webp?raw=true) |
 
 ## dnd5e cover
 | person | place | thing |

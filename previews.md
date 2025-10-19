@@ -203,7 +203,7 @@
 ## bb95 furry v14
 | person | place | thing |
 | --- | --- | --- |
-| ![bb95 furry v14 person preview](/images/bb95_furry_v14_person.webp?raw=true) | ❌ | ![bb95 furry v14 thing preview](/images/bb95_furry_v14_thing.webp?raw=true) |
+| ❌ | ❌ | ![bb95 furry v14 thing preview](/images/bb95_furry_v14_thing.webp?raw=true) |
 
 ## bd-ai
 | person | place | thing |

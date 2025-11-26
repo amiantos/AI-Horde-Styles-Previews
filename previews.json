@@ -191,8 +191,8 @@
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/baseballcard_thing.webp"
   },
   "bb95 furry": {
-    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bb95_furry_thing.webp",
-    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bb95_furry_place.webp"
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bb95_furry_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bb95_furry_thing.webp"
   },
   "bb95 furry v14": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/bb95_furry_v14_person.webp",
@@ -498,7 +498,10 @@
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_item_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_item_thing.webp"
   },
-  "dnd map": {},
+  "dnd map": {
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_map_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd_map_thing.webp"
+  },
   "dnd5e cover": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd5e_cover_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/dnd5e_cover_place.webp",
@@ -1494,6 +1497,11 @@
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/quiet_goodnight_xl_person.webp",
     "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/quiet_goodnight_xl_place.webp",
     "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/quiet_goodnight_xl_thing.webp"
+  },
+  "qwen": {
+    "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/qwen_person.webp",
+    "place": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/qwen_place.webp",
+    "thing": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/qwen_thing.webp"
   },
   "rainbow": {
     "person": "https://raw.githubusercontent.com/amiantos/AI-Horde-Styles-Previews/main/images/rainbow_person.webp",

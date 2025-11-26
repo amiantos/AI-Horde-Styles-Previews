@@ -508,7 +508,7 @@
 ## dnd map
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ❌ | ![dnd map place preview](/images/dnd_map_place.webp?raw=true) | ![dnd map thing preview](/images/dnd_map_thing.webp?raw=true) |
 
 ## dnd5e cover
 | person | place | thing |
@@ -1509,6 +1509,11 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![quiet goodnight xl person preview](/images/quiet_goodnight_xl_person.webp?raw=true) | ![quiet goodnight xl place preview](/images/quiet_goodnight_xl_place.webp?raw=true) | ![quiet goodnight xl thing preview](/images/quiet_goodnight_xl_thing.webp?raw=true) |
+
+## qwen
+| person | place | thing |
+| --- | --- | --- |
+| ![qwen person preview](/images/qwen_person.webp?raw=true) | ![qwen place preview](/images/qwen_place.webp?raw=true) | ![qwen thing preview](/images/qwen_thing.webp?raw=true) |
 
 ## rainbow
 | person | place | thing |

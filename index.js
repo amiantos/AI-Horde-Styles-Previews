@@ -47,7 +47,7 @@ const main = async () => {
 
   console.log("Fetching models...");
   models = await getJSON(
-    "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-image-model-reference/main/stable_diffusion.json"
+    "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-image-model-reference/refs/heads/qwen/stable_diffusion.json"
   );
 
   console.log("Fetching styles...");

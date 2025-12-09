@@ -420,9 +420,7 @@ async function generateImages(request) {
       console.error("Censored image detected! Image discarded...");
     } else if (result.gen_metadata && result.gen_metadata.length > 0) {
       console.error("Possible error generating image: ", JSON.stringify(result.gen_metadata, null, 2));
-      if (result.gen_metadata[0].type == "information") {
-        results.push({ id: result.id, url: result.img });
-      }
+      results.push({ id: result.id, url: result.img });
     } else {
       results.push({ id: result.id, url: result.img });
     }

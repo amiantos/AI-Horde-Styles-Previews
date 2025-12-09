@@ -18,5 +18,5 @@
 ## pastel ilxl
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![pastel ilxl person preview](/images/pastel_ilxl_person.webp?raw=true) | ![pastel ilxl place preview](/images/pastel_ilxl_place.webp?raw=true) | ![pastel ilxl thing preview](/images/pastel_ilxl_thing.webp?raw=true) |
 

@@ -5,7 +5,7 @@
 ## art deco poster
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![art deco poster person preview](/images/art_deco_poster_person.webp?raw=true) | ![art deco poster place preview](/images/art_deco_poster_place.webp?raw=true) | ![art deco poster thing preview](/images/art_deco_poster_thing.webp?raw=true) |
 
 ## neonlines
 | person | place | thing |

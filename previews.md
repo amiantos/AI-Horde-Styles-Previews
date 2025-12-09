@@ -163,7 +163,7 @@
 ## art deco poster
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![art deco poster person preview](/images/art_deco_poster_person.webp?raw=true) | ![art deco poster place preview](/images/art_deco_poster_place.webp?raw=true) | ![art deco poster thing preview](/images/art_deco_poster_thing.webp?raw=true) |
 
 ## artistic birthday
 | person | place | thing |
@@ -1393,7 +1393,7 @@
 ## pastel ilxl
 | person | place | thing |
 | --- | --- | --- |
-| ❌ | ❌ | ❌ |
+| ![pastel ilxl person preview](/images/pastel_ilxl_person.webp?raw=true) | ![pastel ilxl place preview](/images/pastel_ilxl_place.webp?raw=true) | ![pastel ilxl thing preview](/images/pastel_ilxl_thing.webp?raw=true) |
 
 ## pencil drawing
 | person | place | thing |
